@@ -15,6 +15,8 @@ tags:
 last_modified_at: '2025-08-17T12:00:00+01:00'
 description: "Análisis completo de mi experiencia comprando luces para bicicleta en china. Descubre si estos productos económicos valen la pena para ciclismo nocturno."
 excerpt: "¿Funcionan realmente las luces baratas de China? Mi experiencia completa comprando equipamiento de ciclismo nocturno desde Asia."
+redirect_from:
+   - /2013/01/my-deal-extreme-experiment-buying-bike-light.html
 ---
 [![nitefighter](https://i.imgur.com/vElO5ybs.jpg){: style="float: right;"}]({{ site.constants.wsib }}nitefighter)
 
