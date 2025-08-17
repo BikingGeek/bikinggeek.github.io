@@ -13,7 +13,7 @@ url                      : "https://bikinggeek.github.io" # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://i.imgur.com/adqLAXxm.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://i.imgur.com/aSMZ6cxm.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "BikingGeek" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 paginate                 : 10
@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   #name             : "#GeekNite" # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "https://i.imgur.com/fFmJioNm.jpg"
+  #avatar           : "https://i.imgur.com/aSMZ6cxm.jpg"
   bio              : #"A small team of diverse people"
   location         : # "Barcelona"
   links:
