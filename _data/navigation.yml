@@ -1,0 +1,31 @@
+
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: /docs/quick-start-guide/
+  - title: "Archive"
+    url: /year-archive/
+  - title: "About"
+    url: /about/
+  
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Terms &amp; Privacy Policy"
+  #   url: /terms/
+
+
+
+# sidebar navigation list sample
+top-posts:
+  - title: "Top posts"
+    children:
+      - title: "iGPSPORT BSC300 Review"
+        url: /2023/06/igpsport-bsc300-review-smart-affordable-bike-sensor.html
+      - title: "iGPSPORT iGS630 Review"
+        url: /2023/03/igpsport-igs630-review-great-value-bike-computer-minor-flaws.html
+      - title: "Garmin Edge 530 vs. iGPSPORT iGS630"
+        url: /2023/07/garmin-edge-530-vs-igpsport-630.html
+      - title: "Garmin Edge 530 vs. Garmin Edge 540"
+        url: /2023/12/garmin-edge-530-vs-540-comparison.html
+      - title: "Bluegrass Rogue Helmet Review"
+        url: /2023/07/bluegrass-rogue-helmet-review.html

@@ -1,0 +1,62 @@
+---
+---
+
+.sidebar.sticky {
+  overflow: hidden !important;
+}
+
+.site-logo {
+  img {
+    border-radius: 5px;
+  }
+}
+
+.page-content {
+  padding-top: 20px;
+}
+
+.post .post-header {
+  margin-top: 20px;
+}
+
+.page-banner {
+  height: 200px;
+}
+
+.post .post-content iframe {
+  display: inline !important;
+}
+
+.nav__items {
+  ul li {
+    list-style: square inside;
+
+    a {
+      display: unset !important;
+    }
+  }
+}
+
+.author__avatar {
+  display: flex;
+  justify-content: center; /* centra horitzontalment */
+  align-items: center; /* centra verticalment */
+}
+
+.amazon-table {
+  border-collapse: collapse;
+
+  .amazon-cell {
+    border-right: 1px solid #ddd;
+    padding: 10px;
+  }
+
+  .amazon-image {
+    width: 120px;
+    height: auto;
+  }
+
+  .amazon-link {
+    text-align: center;
+  }
+}
