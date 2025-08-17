@@ -1,5 +1,5 @@
 ---
-title: "Mi experimento en China: ¿Vale la pena comprar luces para bicicleta baratas?"
+title: "Mi experiencia en China: ¿Vale la pena comprar luces para bicicleta baratas?"
 date: '2013-01-10T03:30:00.000+01:00'
 tags:
 - sports
