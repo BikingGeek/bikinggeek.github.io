@@ -38,17 +38,23 @@ The display, while generally excellent, could benefit from some improvements. Th
 
 Despite these minor issues, the BSC300T excels in its core functions. It pairs flawlessly with Di2 groupsets and maintains excellent connectivity with various sensors. The battery life consistently exceeds single ride durations, and the device boots up quickly for immediate use.
 
-## How does the iGPSPORT BSC300T compare to other bike computers?
+### Battery Life
 
-There are many bike computers on the market, but I will focus on three of the most popular ones: the iGPSPORT 630, the Garmin Edge 530, and the Garmin Edge 540. These are all wireless bike computers that can measure similar data and connect to various sensors. They also have color screens, GPS, long battery life, waterproof rating, smartphone sync, and navigation features. However, they also have some differences that might make you prefer one over another.
+With a battery life of up to 20 hours, the BSC300T is your reliable companion for long rides. No need to worry about your bike computer dying before you do.
 
-### The iGPSPORT 630
+### Connectivity
+
+Pairing the device with sensors and your smartphone is a breeze. The iGPSPORT app lets you customize data fields, upload rides to platforms like Strava, and receive notifications for calls, messages, and even social media – because who doesn’t want to know they’ve been tagged in a meme while cycling?
+
+## Comparison with Other Bike Computers
+
+### iGPSPORT 630
 
 The iGPSPORT 630 is another wireless bike computer from iGPSPORT that costs around $199.99 [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}igpsport igs630). It's the big brother of the BCS300T, it has a larger screen than the BSC300T (3 inches) and more data fields (up to 15). It also has more navigation features, such as turn-by-turn directions, voice prompts, and offline maps. It has a slightly shorter battery life than the BSC300T (20 hours) and a lower waterproof rating (IPX6).
 
 The iGPSPORT 630 is a good choice for cyclists who want a bigger screen and more navigation options. However, it is also more expensive and less durable than the BSC300T. For a comprehensive review, read our [detailed IGS630 analysis]({% post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws %}).
 
-### The Garmin Edge 530
+### Garmin Edge 530
 
 The Garmin Edge 530 is a wireless bike computer from Garmin that costs around $299.99 [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}garmin edge 530). It has a similar screen size as the BSC300T (2.6 inches) but more data fields (up to 20). It also has more advanced features, such as performance metrics, training plans, safety alerts, incident detection, group tracking, ClimbPro, MTB dynamics, Trailforks integration, and more. It has a longer battery life than the BSC300T (up to 40 hours) and a higher waterproof rating (IPX7).
 
