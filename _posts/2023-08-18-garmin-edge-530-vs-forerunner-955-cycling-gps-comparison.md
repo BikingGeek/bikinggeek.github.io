@@ -7,7 +7,7 @@ excerpt: "¿GPS específico de ciclismo o reloj multideporte? Analizamos a fondo
 last_modified_at: '2023-08-18T15:00:00+02:00'
 ---
 
-[![Garmin Edge 530 vs Forerunner 955](https://i.imgur.com/edge530-fr955m.jpg){: .align-right}]({{ site.constants.wsib }}garmin-edge-530-forerunner-955)
+[![Garmin Edge 530 vs Forerunner 955](https://i.imgur.com/rg9tEw1m.png){: .align-right}]({{ site.constants.wsib }}garmin-edge-530-forerunner-955)
 
 ¿Te debates entre un GPS específico de ciclismo como el **Garmin Edge 530** o un reloj multideporte como el **Forerunner 955** para tus salidas en bicicleta? Esta es una de las decisiones más comunes que enfrentan los ciclistas al buscar su primer dispositivo GPS o al actualizar su equipamiento.
 
@@ -24,7 +24,7 @@ Ambos enfoques tienen ventajas claras, pero también limitaciones importantes qu
 
 ## Garmin Edge 530: El GPS Ciclista Especializado
 
-[![Garmin Edge 530](https://i.imgur.com/edge530-detailm.jpg)]({{ site.constants.wsib }}garmin-edge-530)
+[![Garmin Edge 530](https://res.garmin.com/transform/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_500/c_pad,h_500,w_500/v1/Product_Images/en/products/010-02060-01/v/cf-lg-7e25146b-0a78-42e7-9cf4-f4419d63e15a?pgw=1)]({{ site.constants.wsib }}garmin-edge-530)
 
 El **Edge 530** representa la evolución de los GPS ciclistas tradicionales, ofreciendo funcionalidades avanzadas específicamente diseñadas para el mundo del ciclismo. Como sucesor del legendario [Edge 500]({% post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 %}), mantiene la filosofía de especialización sin sacrificar las características modernas.
 
@@ -81,7 +81,7 @@ El Edge 530 está diseñado exclusivamente para ciclismo, lo que se traduce en:
 
 ## Garmin Forerunner 955: El Multideporte en tu Muñeca
 
-[![Garmin Forerunner 955](https://i.imgur.com/forerunner955m.jpg)]({{ site.constants.wsib }}garmin-forerunner-955)
+[![Garmin Forerunner 955](https://i.imgur.com/KKd9SH4m.jpg)]({{ site.constants.wsib }}garmin-forerunner-955)
 
 El **Forerunner 955** representa el enfoque multideporte, ofreciendo capacidades GPS avanzadas para ciclismo, running, natación y prácticamente cualquier actividad deportiva imaginable.
 
