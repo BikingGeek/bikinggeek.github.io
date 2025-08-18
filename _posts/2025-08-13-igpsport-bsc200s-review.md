@@ -34,6 +34,8 @@ One experienced cyclist who owned both the Edge 500 and Edge 130 noted: *"After 
 
 ### GPS Navigation and Route Following
 
+[![iGPSPORT BSC200S GPS Navigation](https://i.imgur.com/1syU6R1m.png){: .align-center}]({{ site.constants.wsib }}igpsport-bsc200s)
+
 The BSC200S's standout feature is its **GPS route navigation capability**. Unlike basic bike computers that only show breadcrumb trails, this device provides turn-by-turn guidance, warning you 200 meters before each turn. While it doesn't include detailed maps like premium units, it excels at following pre-loaded GPX routes.
 
 As one user explained: *"It's quite easy to plan your route using any online app like Garmin Connect, download a GPX file, email it to your phone, and upload to the unit. This gives you the best of all worlds: a very inexpensive GPS with the best online mapping tools."*
