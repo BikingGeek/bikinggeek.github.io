@@ -45,7 +45,7 @@ Edge 520: 8\
 
 ### Connectivity
 
-<a href='{{ site.constants.wsib }}garmin%20edge%20cover'><img style="float: right;" src="https://i.imgur.com/XXJzySPm.jpg"></a>
+[![Garmin Edge Cover](https://i.imgur.com/XXJzySPm.jpg){: .align-right}]({{ site.constants.wsib }}garmin%20edge%20cover)
 
 Of course connectivity possibilities have been much more improved, now being able to share through your mobile your ride information, with current social network addiction, many of us like to share our rides online as soon as possible. Until now, the *Edge 500*'s integration with services is good enough, due to these services improving and trying to make as easy as possible the user's experience, ***Strava* for example let you upload your ride in a couple of clicks**, also you can use *Garmin*'s service, **Garmin Connect**, and also you should check our [comparison of Strava vs Garmin Connect]({%- post_url 2013-09-30-strava-vs-garmin-connect-review-of-best-track-analyzers -%}). It's not instant but good enough for me. The connectivity with sensors and power meter remains the same, which was good enough. Perfect for use at home with your trainer, check our [Minoura B-60r review]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%}), during winter.
 

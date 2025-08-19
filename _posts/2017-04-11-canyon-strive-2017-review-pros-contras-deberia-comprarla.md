@@ -15,7 +15,7 @@ tags:
 last_modified_at: '2017-11-27T13:12:26.004+01:00'
 ---
 
-[![geeknite tries canyon strive](https://1.bp.blogspot.com/-pPSjqVIEmN4/WO1CbZWnrlI/AAAAAAAAA-A/nJYJcGD6M9cp3pweyFL7d6_fFw5pGq9bQCLcB/s320/shapeshifter.jpg){: style="float: right;"}]({{ site.constants.wsib }}canyon%20strive)
+[![geeknite tries canyon strive](https://1.bp.blogspot.com/-pPSjqVIEmN4/WO1CbZWnrlI/AAAAAAAAA-A/nJYJcGD6M9cp3pweyFL7d6_fFw5pGq9bQCLcB/s320/shapeshifter.jpg){: .align-right}]({{ site.constants.wsib }}canyon%20strive)
 
 **_Canyon_** es una marca que se ha ganado un gran prestigio en los últimos años, gracias a su esponsorización de _equipos world tour_ en ciclismo de carretera y a sus grandes especificaciones por un precio de los más ajustados del mercado gracias a su **modelo de venta directa a cliente a través de internet**.  
   

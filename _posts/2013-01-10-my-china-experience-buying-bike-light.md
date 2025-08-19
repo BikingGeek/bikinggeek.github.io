@@ -18,7 +18,7 @@ excerpt: "¿Funcionan realmente las luces baratas de China? Mi experiencia compl
 redirect_from:
    - /2013/01/my-deal-extreme-experiment-buying-bike-light.html
 ---
-[![nitefighter](https://i.imgur.com/vElO5ybs.jpg){: style="float: right;"}]({{ site.constants.wsib }}nitefighter)
+[![nitefighter](https://i.imgur.com/vElO5ybs.jpg){: .align-right}]({{ site.constants.wsib }}nitefighter)
 
 ## ¿Qué es DealExtreme y por qué decidí experimentar?
 

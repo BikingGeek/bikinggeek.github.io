@@ -10,7 +10,7 @@ last_modified_at: '2025-07-29T14:58:02+02:00'
 description: "Review of a budget-friendly third-party Shimano brake bleed kit from Amazon"
 ---
 
-[![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}shimano-bleed-kit)
+[![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}shimano-bleed-kit)
 
 ## Introduction
 

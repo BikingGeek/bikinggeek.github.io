@@ -27,7 +27,7 @@ The [iGPSPORT BSC300 costs around $150]({{ site.constants.wsib }}igpsport bsc300
 
 {% include amazon.html asin="B0C4KLCD4D" imageUrl="https://m.media-amazon.com/images/I/61iiRnZ7ylL._UF894,1000_QL80_.jpg" %}
 
-[![iGPSPORT BSC300](https://i.imgur.com/OoctZWAm.png){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT BSC300)
+[![iGPSPORT BSC300](https://i.imgur.com/OoctZWAm.png){: .align-right}]({{ site.constants.wsib }}iGPSPORT BSC300)
 
 ## Real-World Experience: A Year of Testing
 

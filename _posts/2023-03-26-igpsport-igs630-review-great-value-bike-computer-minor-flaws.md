@@ -12,7 +12,7 @@ description: "Discover the iGPSPORT iGS630, a budget-friendly GPS bike computer 
 last_modified_at: '2025-03-13T10:00:00+02:00'
 ---
 
-[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT iGS630)
+[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: .align-right}]({{ site.constants.wsib }}iGPSPORT iGS630)
 
 Today, we're diving into the world of budget-friendly bike computers with the **iGPSPORT iGS630**. It's affordable, packed with features, and... well, let's just say it has its quirks. If you're looking for a GPS bike computer that won't break the bank but might test your patience, this might be the one for you. Let's get rolling!
 

@@ -43,4 +43,4 @@ Aquesta selecció d'equipament favorit és una font d'inspiració per a regals c
 
 Principalmente este es el equipo que uso normalmente a fecha de hoy, nuestra intención es ir haciendo reviews de los productos que nos gustan más y los que menos también para evitar que los compréis. **Apoyad nuestra comunidad utilizando los enlaces que tenemos para comprar tanto en [amazon](https://www.amazon.es/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&tag={{ site.constants.amazon_es }}), en [ebay](https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_ff3=1&pub=5575077854&toolid=10001&campid=5337456056&customid=&ipn=psmain&icep_vectorid=229501&kwid=902099&mtid=824&kw=lg){: rel="nofollow"} o [chainreactioncycles](https://ad.zanox.com/ppc/?37264103C88698817T){: rel="nofollow"}**. Muchas gracias!  
   
-[![](https://4.bp.blogspot.com/-cJj51R6IDEc/VyUGPnowaKI/AAAAAAAAAyM/T82XYWqt6JEKeFBNF6ygrGgnkWMIqm0eACLcB/s1600/where-to-buy-logo.png){: style="float: right;"}]({{ site.constants.wsib }})
+[![](https://4.bp.blogspot.com/-cJj51R6IDEc/VyUGPnowaKI/AAAAAAAAAyM/T82XYWqt6JEKeFBNF6ygrGgnkWMIqm0eACLcB/s1600/where-to-buy-logo.png){: .align-right}]({{ site.constants.wsib }})

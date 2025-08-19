@@ -6,7 +6,7 @@ tags: [Cycling, GPS, Gadgets, Review, Magene, Bike]
 description: "Dive into the detailed review of the Magene C606 - the budget-friendly GPS bike computer that's making waves!"
 ---
 
-[![Magene C606](https://i.imgur.com/GTfhJ63s.jpg){: style="float: right;"}]({{ site.constants.wsib }}magene-c606)
+[![Magene C606](https://i.imgur.com/GTfhJ63s.jpg){: .align-right}]({{ site.constants.wsib }}magene-c606)
 
 ## Introduction
 

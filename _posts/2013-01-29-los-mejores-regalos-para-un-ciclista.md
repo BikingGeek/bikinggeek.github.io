@@ -21,7 +21,7 @@ last_modified_at: '2025-08-16T00:00:00+02:00'
 ---
 
 
-[![bike love](https://i.imgur.com/hgTBQY4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}regalo%20ciclista)
+[![bike love](https://i.imgur.com/hgTBQY4m.jpg){: .align-right}]({{ site.constants.wsib }}regalo%20ciclista)
 
 ¿Buscas ideas de regalos para ciclistas? Aquí tienes una selección de productos recomendados, probados y comparados en el blog, con enlaces a reviews y comparativas para que puedas elegir el mejor regalo según tu presupuesto y necesidades. Descubre gadgets, equipamiento y accesorios que realmente marcan la diferencia.
 

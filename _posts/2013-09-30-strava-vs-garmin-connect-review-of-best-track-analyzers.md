@@ -5,7 +5,7 @@ tags: strava garmin review gps
 last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
 
-<a href='{{ site.constants.wsib }}garmin%20edge'><img style="float: right;" src="https://i.imgur.com/talvj6sm.jpg"></a>
+[![Garmin Edge](https://i.imgur.com/talvj6sm.jpg){: .align-right}]({{ site.constants.wsib }}garmin%20edge)
 
 After getting [my Garmin Edge 500]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}) I have been experimenting with many online services and applications to analyze the tracks that I recorded. After trying some windows applications all that I tried looked old and did not offer anything that other online and free services didn't offer.
 

@@ -15,7 +15,7 @@ tags:
 last_modified_at: '2017-11-27T16:08:50.222+01:00'
 ---
 
-[![geeknite tries yt](https://3.bp.blogspot.com/-UHb-A9hVQCA/Vz-IsiZ9DqI/AAAAAAAAAyw/KS6YE7irg40NeBrxsKDDnEX2f34bFaB-ACLcB/s1600/yt_logo_header_01%255B1%255D.jpg){: style="float: right;"}]({{ site.constants.wsib }}yt%20industries)Como uno de los grandes defensores del modelo _YT Capra_, como ya comentamos en [las mejores MTB según presupuesto (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}), desde que _YT_ sacó su nuevo modelo de _trail Jeffsy_ han sido ya en diferentes ocasiones que me han preguntado por mi opinión. Las preguntas suelen ser si recomiendo tanto este modelo como la _Capra_, qué relación calidad/precio tiene este modelo y en definitiva si es la mejor bicicleta de trail del momento.  
+[![geeknite tries yt](https://3.bp.blogspot.com/-UHb-A9hVQCA/Vz-IsiZ9DqI/AAAAAAAAAyw/KS6YE7irg40NeBrxsKDDnEX2f34bFaB-ACLcB/s1600/yt_logo_header_01%255B1%255D.jpg){: .align-right}]({{ site.constants.wsib }}yt%20industries)Como uno de los grandes defensores del modelo _YT Capra_, como ya comentamos en [las mejores MTB según presupuesto (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}), desde que _YT_ sacó su nuevo modelo de _trail Jeffsy_ han sido ya en diferentes ocasiones que me han preguntado por mi opinión. Las preguntas suelen ser si recomiendo tanto este modelo como la _Capra_, qué relación calidad/precio tiene este modelo y en definitiva si es la mejor bicicleta de trail del momento.  
 
 ###
 

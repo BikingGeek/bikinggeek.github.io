@@ -12,7 +12,7 @@ last_modified_at: '2025-08-13T10:00:00+02:00'
 description: "Are you a cycling enthusiast looking for great deals this Prime Day? Read on to discover what to look for with amazing deals on the latest gadgets"
 ---
 
-[![Cycling deals](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}cycling)
+[![Cycling deals](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}cycling)
 
 As avid cyclists, we know that having the right gear can make all the difference in your cycling experience. That's why we're excited to share our tips on what to look for this Prime Day to get great deals on the latest bike gadgets. From GPS bike computers and bike lights to smart bike trainers and action cameras, we've got you covered. Plus, we'll also share some recommendations for high-quality cycling shoes and apparel to complete your kit. So, read on to discover what to look for and get ready to upgrade your cycling experience with amazing deals on the latest gadgets.
 

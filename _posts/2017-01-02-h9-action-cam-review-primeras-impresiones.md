@@ -13,7 +13,7 @@ last_modified_at: '2023-07-25T00:00:00+02:00'
 description: "Descubre la H9 Action Cam, una opción económica y funcional para grabar deportes y aventuras. Calidad aceptable a 1080p/60fps. Review completa"
 ---
 
-[![](https://4.bp.blogspot.com/-_nr1qgi9BWY/WGp1vjWTsJI/AAAAAAAAA6Y/1dPqrp4RM4U8-1VkWBPhxgCJ5K6MKVOzwCLcB/s200/h9%2Baction%2Bcam%2Band%2Bpackage.jpg){: style="float: right;"}](https://www.awin1.com/cread.php?awinmid=7655&awinaffid=364849&clickref=&p=https%3A%2F%2Fwww.gearbest.com%2Faction-cameras%2Fpp_362082.html){: rel="nofollow"}
+[![](https://4.bp.blogspot.com/-_nr1qgi9BWY/WGp1vjWTsJI/AAAAAAAAA6Y/1dPqrp4RM4U8-1VkWBPhxgCJ5K6MKVOzwCLcB/s200/h9%2Baction%2Bcam%2Band%2Bpackage.jpg){: .align-right}](https://www.awin1.com/cread.php?awinmid=7655&awinaffid=364849&clickref=&p=https%3A%2F%2Fwww.gearbest.com%2Faction-cameras%2Fpp_362082.html){: rel="nofollow"}
 
 Hace unos pocos  meses que un compañero de salidas decidió comprar una cámara de acción, **nos decidimos por la [Eken H9]({{ site.constants.wsib }}Eken%20H9)** ya que es sencilla, **graba a 1080 en 60fps y tiene pantalla y todo ello por un precio bastante competitivo** (aproximadamente 60€). Si podemos considerar todas estas cámaras de marcas no reconocidas y de origen "chino" como clones de las [GoPro]({{ site.constants.wsib }}gopro),[pioneras en este segmento de las cámaras deportivas]({% post_url 2015-12-16-GoPro-HERO4-Session-comparativa-camaras-gopro %}), es sorprendente ver que hay clones de estas mismas marcas, esto es un indicativo de que algo están haciendo bien.  
 evidentemente no quería gastarse mucho, total para grabar alguna salida o trialera en bici, estuvimos mirando y por precio  
