@@ -13,7 +13,7 @@ description: "Comprehensive review of the Fox Launch Pro knee pads - protection,
 
 ## Introduction
 
-Hey there, fellow mountain bikers and gear enthusiasts! Today, we're diving into the world of knee protection with the **Fox Launch Pro** knee pads. Yes, those magical knee pads that promise to make you feel like a superhero on two wheels. But do they live up to the hype? Let's find out! Grab your snacks, tighten your helmet, and let's get rolling. ðŸ‚ðŸš´â€â™‚ï¸
+Hey there, fellow mountain bikers and gear enthusiasts! Today, we're diving into the world of knee protection with the **Fox Launch Pro** knee pads. Yes, those magical knee pads that promise to make you feel like a superhero on two wheels. But do they live up to the hype? Let's find out! Grab your snacks, tighten your helmet, and let's get rolling. 🏂🚴‍♂️
 
 ## Key Features
 
@@ -23,7 +23,7 @@ The **Fox Launch Pro** knee pads are designed to offer robust protection against
 
 ### Comfortable Fit
 
-Protection is great, but comfort is king. Thankfully, the **Fox Launch Pro** knee pads don't compromise on comfort. The ergonomic design and adjustable straps ensure a snug fit without cutting off your circulation. You'll forget you're even wearing themâ€”until you take a tumble, and then you'll be thankful you are!
+Protection is great, but comfort is king. Thankfully, the **Fox Launch Pro** knee pads don't compromise on comfort. The ergonomic design and adjustable straps ensure a snug fit without cutting off your circulation. You'll forget you're even wearing them—until you take a tumble, and then you'll be thankful you are!
 
 ### Breathable Material
 
@@ -57,19 +57,20 @@ Let's face it, no gear is perfect. Here are some of the quirks that make the **F
 
 ## Comparison with Other Knee Pads
 
-### [POC Joint VPD 2.0]({%- post_url 2023-05-18-poc-joint-vpd-20-review -%})
+### [POC Joint VPD 2.0]({{ site.constants.wsib }}poc-joint-vpd-2)
+
 The **POC Joint VPD 2.0** knee pads offer similar protection levels with VPD technology. They're a bit more flexible but also pricier. Ideal for riders who prioritize flexibility over hard-shell protection.
 
-### [Leatt AirFlex Pro]({%- post_url 2023-06-12-leatt-airflex-pro-review -%})
+### [Leatt AirFlex Pro]({{ site.constants.wsib }}leatt-airflex-pro)
+
 The **Leatt AirFlex Pro** knee pads are lightweight and breathable, offering decent protection without the bulk. They're great for riders who want minimalistic knee pads.
 
-### [Alpinestars Paragon Plus]({%- post_url 2023-07-25-alpinestars-paragon-plus-review -%})
+### [Alpinestars Paragon Plus]({{ site.constants.wsib }}alpinestars-paragon-plus)
+
 The **Alpinestars Paragon Plus** knee pads are affordable and offer good protection. They're not as breathable but get the job done for casual riders.
 
 ## Conclusion
 
 The **Fox Launch Pro** knee pads are a fantastic choice for mountain bikers who prioritize protection and comfort. While they come with a few quirks and a higher price tag, the benefits far outweigh the drawbacks. If you're serious about protecting your knees and want reliable, high-quality knee pads, the **Fox Launch Pro** is definitely worth considering.
 
-**Pro Tip**: Wipe down the hard-shell knee cap after long ridesâ€”it's a sweat magnet, and nobody wants marinated knee pads!
-
-{{ site.constants.wsib }}
+**Pro Tip**: Wipe down the hard-shell knee cap after long rides—it's a sweat magnet, and nobody wants marinated knee pads!

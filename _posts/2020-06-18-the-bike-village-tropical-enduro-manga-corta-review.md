@@ -46,15 +46,15 @@ If you're looking for a jersey that combines functionality with eye-catching des
 
 **Related Reviews:**
 
-- [Fox Ranger Jersey Review]({%- post_url 2023-07-18-fox-ranger-jersey-review -%})
-- [Dakine Xena Jersey Review]({%- post_url 2023-07-18-dakine-xena-jersey-review -%})
-- [Troy Lee Designs Skyline Jersey Review]({%- post_url 2023-07-18-troy-lee-designs-skyline-jersey-review -%})
+- [Fox Ranger Jersey Review]({{ site.constants.wsib }}fox-ranger-jersey)
+- [Dakine Xena Jersey Review]({{ site.constants.wsib }}dakine-xena-jersey)
+- [Troy Lee Designs Skyline Jersey Review]({{ site.constants.wsib }}troy-lee-designs-skyline-jersey)
 
 **Final Recommendation:**
 
 Don't miss out on upgrading your MTB wardrobe with The Bike Village Tropical Enduro Descenso jersey. It's the perfect blend of style and functionality that will make every ride more enjoyable. Click the link below to get yours now!
 
-**[Buy Now]({{ site.constants.wsib }}the_bike_village_tropical_enduro_descenso)**
+**[Buy Now]({{ site.constants.wsib }}the-bike-village-tropical-enduro-descenso)**
 
 Happy riding, and may your trails be ever thrilling!
 
