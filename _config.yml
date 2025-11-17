@@ -306,8 +306,8 @@ constants:
   amazon_uk: "kxl-21" #amkioze
   amazon_fr: "krv-21" #amkioze
   amazon_de: "kvl-21" #amkioze
-  wsib: "https://www.amazon.com/s?tag=vp04a-20&k="
-  wsibName: "Amazon"
+  wsib: "https://www.geeknite.com/" #"https://www.amazon.com/s?tag=vp04a-20&k="
+  wsibName: "GeekNite"
   num_recent: 5
   youtube: https://www.youtube.com/@xocmetal
   twitch: https://www.twitch.tv/xocmetal
