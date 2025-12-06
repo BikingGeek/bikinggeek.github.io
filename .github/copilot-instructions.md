@@ -33,9 +33,6 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 ## Critical Workflows
 
 ### Local Development
-- **Serve site**: `.\sv.bat` (runs `bundle exec jekyll serve -I --config _config.yml`) don't execute in terminal, let user do it
-- **Incremental mode**: `-I` flag speeds up rebuilds during development
-- **PowerShell script**: `m2jl.ps1` converts markdown posts to JSON (for AI processing)
 - Drafts stored in `_drafts/` (for unpublished content)
 
 ### Post Creation Pattern
@@ -53,7 +50,7 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
      - /old/path.html
    ---
    ```
-3. **MAXIMIZE internal linking** - reference 3-5 related existing posts using `{% post_url YYYY-MM-DD-slug %}` (NO file extension)
+3. **MAXIMIZE internal linking** - reference 3-5 related existing posts using `{% post_url YYYY-MM-DD-slug %}` (NO file extension) integrated in post content
 4. **MAXIMIZE affiliate links** - link ALL product mentions to `{{ site.constants.wsib }}`
 5. Include product images from Imgur: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
 6. Add `{% include amazon.html %}` product tables for major items with ASINs and images
@@ -121,7 +118,7 @@ Follow naming: `YYYY-MM-DD-descriptive-slug.md`
 title: "Your Catchy Title Here"
 date: "YYYY-MM-DD"
 tags: [cycling, gear, brand]
-description: "SEO-optimized 150-160 char description"
+description: "SEO-optimized 150-160 char description in post language"
 excerpt: "Social sharing excerpt"
 ---
 ```
@@ -185,6 +182,8 @@ Heavy internal linking to related reviews (3-5 per post minimum). Use Liquid `po
 5. Imgur image URLs should use the `m` suffix for medium size consistently: `https://i.imgur.com/xxxxxm.jpg`
 6. **Never invent** product specifications - verify all technical data
 7. **Encoding**: Watch for UTF-8 issues with Spanish characters (ñ, á, é) - fix immediately when found
+8. **Length**: Aim for long and comprehensive posts (2000+ words) for SEO and depth
+9. **SEO**: Optimize titles and descriptions and exclusive and original content for search engines
 
 ## Debugging
 
