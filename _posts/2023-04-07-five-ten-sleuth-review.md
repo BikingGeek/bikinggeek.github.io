@@ -60,6 +60,6 @@ Happy riding, and may your shoes always grip like a champ!
 
 ---
 Other posts you might like:
-- [We’re Back! An Update on our Progress]({% post_url 2023-04-30-back-with-big-whereshouldibuy-update %})
-- [Building a PC on eBay: A Geek's Guide]({% post_url 2025-05-02-pc-build-on-ebay %})
-- [Garmin Edge 540 Review]({% post_url 2023-07-06-garmin-edge-540-review %})
+- [Five Ten Sleuth Half Priced Deal]({%- post_url 2017-11-30-mtb-shoes-five-ten-sleuth-half-priced -%})
+- [MTB XC vs Trail Geometry Differences]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Garmin Edge 540 Review]({%- post_url 2023-07-06-garmin-edge-540-review -%})
