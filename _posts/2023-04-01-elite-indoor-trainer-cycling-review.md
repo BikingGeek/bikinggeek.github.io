@@ -1,7 +1,6 @@
 ﻿---
 title: "Elite Indoor Trainer Review: Get Fit Indoors Without Getting Hit by a Car"
 date: 2023-04-01
-layout: post
 tags: [cycling, indoor-trainer, fitness, review]
 description: "An in-depth and entertaining review of the Elite indoor trainer. Find out why this gadget is a must-have for cyclists."
 ---
@@ -68,6 +67,6 @@ The Elite indoor trainer is a fantastic investment for cyclists who want to stay
 
 If you're ready to elevate your cycling game, the Elite indoor trainer is definitely worth exploring.
 
-**Pro Tip**: Race against your pet cat on Zwift for ultimate entertainmentâ€”spoiler alert: cats are terrible cyclists, but watching them try is priceless!
+**Pro Tip**: Race against your pet cat on Zwift for ultimate entertainment'”spoiler alert: cats are terrible cyclists, but watching them try is priceless!
 
 {{ site.constants.wsib }}

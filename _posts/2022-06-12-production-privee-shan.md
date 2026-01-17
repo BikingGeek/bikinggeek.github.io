@@ -21,11 +21,11 @@ The Production Privee Shan is a sight to behold. With its sleek lines, vibrant c
 
 ### The Geometry
 
-The Shan's frame is crafted from high-quality chromoly steel, giving it a unique blend of strength and flexibility. This isn't just any steelâ€”it's the kind of steel that laughs in the face of aluminum and titanium. The geometry is tailored for aggressive trail riding, with a slack head angle and a low bottom bracket. Your ride will be stable and confidence-inspiring, whether you're bombing downhill or navigating technical sections.
+The Shan's frame is crafted from high-quality chromoly steel, giving it a unique blend of strength and flexibility. This isn't just any steel—it's the kind of steel that laughs in the face of aluminum and titanium. The geometry is tailored for aggressive trail riding, with a slack head angle and a low bottom bracket. Your ride will be stable and confidence-inspiring, whether you're bombing downhill or navigating technical sections.
 
 ### The Aesthetics
 
-The Shan is available in a variety of colors, each more eye-catching than the last. The finish is top-notch, with attention to detail that would make a Swiss watchmaker jealous. And the decalsâ€”oh, the decals. Let's just say that if you don't get compliments on your bike, itâ€™s because people are too busy being awestruck.
+The Shan is available in a variety of colors, each more eye-catching than the last. The finish is top-notch, with attention to detail that would make a Swiss watchmaker jealous. And the decals—oh, the decals. Let's just say that if you don't get compliments on your bike, it's because people are too busy being awestruck.
 
 ## Components
 
@@ -57,13 +57,13 @@ Cornering on the Shan is a dream. The bike's design allows for quick and precise
 
 ## Funny Moments and Quirks
 
-No bike review is complete without a few laughs. The Shan has its quirks, and they add to its charm. The chromoly frame might make you feel invincible, but rememberâ€”you're still human. I once found myself trying to impress a squirrel with my cornering skills. Let's just say, the squirrel was not impressed, and my ego took a hit.
+No bike review is complete without a few laughs. The Shan has its quirks, and they add to its charm. The chromoly frame might make you feel invincible, but remember—you're still human. I once found myself trying to impress a squirrel with my cornering skills. Let's just say, the squirrel was not impressed, and my ego took a hit.
 
-And then there's the time I tried to show off the Shanâ€™s climbing prowess to a group of hikers. Halfway up the hill, I realized I was in the wrong gear and ended up doing the walk of shame. But hey, it's all part of the fun!
+And then there's the time I tried to show off the Shan's climbing prowess to a group of hikers. Halfway up the hill, I realized I was in the wrong gear and ended up doing the walk of shame. But hey, it's all part of the fun!
 
 ## Comparison with Other Bikes
 
-The Production Privee Shan is a unique beast, but how does it compare to other mountain bikes in its class? Hereâ€™s a quick rundown:
+The Production Privee Shan is a unique beast, but how does it compare to other mountain bikes in its class? Here's a quick rundown:
 
 ### [YT Jeffsy]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%})
 
@@ -79,4 +79,4 @@ The Production Privee Shan is a remarkable mountain bike that offers a blend of 
 
 **Ready to ride?** Check out the latest deals on the Production Privee Shan [here]({{ site.constants.wsib }}shan) and get ready to conquer the trails.
 
-Happy riding! ðŸš´â€â™‚ï¸
+Happy riding! 🚴‍♂️

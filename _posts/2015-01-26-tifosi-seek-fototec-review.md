@@ -57,6 +57,6 @@ After thoroughly testing and geeking out over these sunglasses, I can confidentl
 - [Garmin Edge 540 Review]({% post_url 2023-07-06-garmin-edge-540-review %}) - Upgrade your ride with advanced bike tech
 - [Sombrio Cartel Gloves Review]({% post_url 2022-07-07-sombrio-cartel-gloves-review %}) - Perfect gloves for mountain biking
 
-Happy cycling, and may your geek adventures be filled with laughter and unforgettable moments! ðŸš´â€â™‚ï¸
+Happy cycling, and may your geek adventures be filled with laughter and unforgettable moments! 🚴‍♂️
 
 **Until next time, fellow geeks!**

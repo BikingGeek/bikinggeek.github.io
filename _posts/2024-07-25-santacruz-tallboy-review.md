@@ -8,7 +8,7 @@ last_modified_at: "2026-01-17T12:00:00+01:00"
 
 [![Santa Cruz Tallboy](https://i.imgur.com/6JDDmDgm.jpeg){: .align-right}]({{ site.constants.wsib }}tallboy)
 
-Hey there, biking geeks and trail warriors! Today, we're taking a deep dive into the **Santa Cruz Tallboy**â€”a bike that's been making waves in the MTB community. This isn't just any bike; it's the ultimate trail companion for those who want to conquer mountains, blaze through forests, and maybe even impress their riding buddies. So, grab your snacks, because this review is going to be epic! ðŸš´â€â™‚ï¸
+Hey there, biking geeks and trail warriors! Today, we're taking a deep dive into the **Santa Cruz Tallboy**—a bike that's been making waves in the MTB community. This isn't just any bike; it's the ultimate trail companion for those who want to conquer mountains, blaze through forests, and maybe even impress their riding buddies. So, grab your snacks, because this review is going to be epic!
 
 ---
 
@@ -22,7 +22,7 @@ The Santa Cruz Tallboy is a trail bike that combines the best of both worlds: sp
 
 ### Lightweight Carbon Frame
 
-The Tallboy features a lightweight carbon frame that offers incredible strength and agility. It's like riding on a cloudâ€”if clouds were made of high-end carbon fiber. This frame ensures that you stay nimble and quick, even on the most challenging trails. Plus, it looks cool too.
+The Tallboy features a lightweight carbon frame that offers incredible strength and agility. It's like riding on a cloud—if clouds were made of high-end carbon fiber. This frame ensures that you stay nimble and quick, even on the most challenging trails. Plus, it looks cool too.
 
 ### VPP Suspension System
 
@@ -30,15 +30,15 @@ The VPP (Virtual Pivot Point) suspension system is the Tallboy's secret weapon. 
 
 ### 29-Inch Wheels
 
-Big wheels, big fun! The Tallboy's 29-inch wheels offer excellent rollover capabilities, making it easier to navigate obstacles and maintain speed. They're like the monster truck wheels of the biking worldâ€”minus the excessive noise and fuel consumption.
+Big wheels, big fun! The Tallboy's 29-inch wheels offer excellent rollover capabilities, making it easier to navigate obstacles and maintain speed. They're like the monster truck wheels of the biking world—minus the excessive noise and fuel consumption.
 
 ### Geometry Adjustments
 
-The Tallboy comes with flip-chip geometry adjustments, allowing you to tweak the bike's settings to suit your riding style. It's like having a customizable bike avatarâ€”adjust the settings, and you're ready to conquer any trail.
+The Tallboy comes with flip-chip geometry adjustments, allowing you to tweak the bike's settings to suit your riding style. It's like having a customizable bike avatar—adjust the settings, and you're ready to conquer any trail.
 
 ### Internal Cable Routing
 
-Say goodbye to tangled cables! The Tallboy's internal cable routing keeps everything neat and tidy, ensuring you spend less time adjusting and more time riding. It's like having a personal cable organizerâ€”but cooler.
+Say goodbye to tangled cables! The Tallboy's internal cable routing keeps everything neat and tidy, ensuring you spend less time adjusting and more time riding. It's like having a personal cable organizer—but cooler.
 
 ---
 
@@ -54,8 +54,8 @@ Say goodbye to tangled cables! The Tallboy's internal cable routing keeps everyt
 
 ## Cons
 
-- **Price**: The Tallboy is on the pricier side, making it a premium choice for serious bikers. Your wallet might feel like itâ€™s been hit by a truck.
-- **Maintenance**: Advanced features mean more components to maintainâ€”be prepared for regular check-ups.
+- **Price**: The Tallboy is on the pricier side, making it a premium choice for serious bikers. Your wallet might feel like it's been hit by a truck.
+- **Maintenance**: Advanced features mean more components to maintain—be prepared for regular check-ups.
 - **Learning Curve**: With its customization options, you might need some time to master all the settings. Trial and error will be your best friend.
 
 ---
@@ -66,11 +66,11 @@ Now, let's talk about some of the quirks that make the Santa Cruz Tallboy unique
 
 ### The "Tallboy Dance"
 
-If you ever find yourself doing a little side-to-side jig while adjusting the flip-chip settings, don't worryâ€”you're not alone. It's the Tallboy dance, a ritual known to riders everywhere.
+If you ever find yourself doing a little side-to-side jig while adjusting the flip-chip settings, don't worry—you're not alone. It's the Tallboy dance, a ritual known to riders everywhere.
 
 ### Wheelie Dreams
 
-The Tallboy loves popping wheelies, sometimes even when you least expect it. Maybe itâ€™s trying to express its inner stuntman? Just be prepared to go with the flow.
+The Tallboy loves popping wheelies, sometimes even when you least expect it. Maybe it's trying to express its inner stuntman? Just be prepared to go with the flow.
 
 ### Cable Conversations
 

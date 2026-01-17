@@ -16,7 +16,7 @@ Welcome back, fellow bike enthusiasts! Today, we're diving into the world of dro
 
 The RockShox Reverb is a hydraulic dropper post designed to offer an unparalleled cycling experience. With its sleek design, powerful features, and user-friendly interface, it's a game changer for both casual cyclists and hardcore riders. Whether you're looking to tackle technical descents, navigate challenging trails, or simply add some flair to your ride, the RockShox Reverb has got you covered.
 
-But letâ€™s be honestâ€”no dropper post is perfect. The Reverb has its quirks, and weâ€™re here to explore both the good and the not-so-good.
+But let's be honest—no dropper post is perfect. The Reverb has its quirks, and we're here to explore both the good and the not-so-good.
 
 ## Key Features
 
@@ -26,7 +26,7 @@ The RockShox Reverb utilizes a hydraulic system to provide smooth and precise op
 
 ### Infinite Adjustability
 
-With the RockShox Reverb, you have complete control over your saddle height. The infinite adjustability feature allows you to fine-tune your saddle position to suit your riding style and terrain. No more settling for fixed positionsâ€”adjust your saddle height on the fly to optimize your ride.
+With the RockShox Reverb, you have complete control over your saddle height. The infinite adjustability feature allows you to fine-tune your saddle position to suit your riding style and terrain. No more settling for fixed positions—adjust your saddle height on the fly to optimize your ride.
 
 ### Ergonomic Remote Lever
 
@@ -51,10 +51,10 @@ Built to withstand the rigors of mountain biking, the RockShox Reverb features a
 
 ## Funny Quirks
 
-Now, letâ€™s talk about some of the quirks that make the RockShox Reverb unique (and sometimes amusing):
+Now, let's talk about some of the quirks that make the RockShox Reverb unique (and sometimes amusing):
 
-- **Hydraulic Hiccups**: The hydraulic system is smooth, but occasional hiccups may occur. It's like the Reverb is saying, â€œHey, I need some love and care!â€
-- **Remote Lever Drama**: The remote lever is ergonomic, but it sometimes gets overly enthusiasticâ€”accidentally brushing it might trigger a saddle adjustment mid-ride. Itâ€™s like the Reverb is saying, â€œSurprise, saddle drop!â€
+- **Hydraulic Hiccups**: The hydraulic system is smooth, but occasional hiccups may occur. It's like the Reverb is saying, "Hey, I need some love and care!"
+- **Remote Lever Drama**: The remote lever is ergonomic, but it sometimes gets overly enthusiastic—accidentally brushing it might trigger a saddle adjustment mid-ride. It's like the Reverb is saying, "Surprise, saddle drop!"
 - **Weight Woes**: The Reverb's robust design adds a bit of weight, making it feel like you're carrying a small tank. But hey, it's all about durability!
 
 ## Comparison with Other Dropper Posts
@@ -63,7 +63,7 @@ Now, letâ€™s talk about some of the quirks that make the RockShox Reverb un
 
 The Fox Transfer offers similar features with a reliable pneumatic system. It's slightly lighter than the Reverb but comes at a comparable price point.
 
-### [PNW Components Loam]({%- post_url 2023-04-18-pnw-components-loam-dropper-post-review -%})
+### [PNW Components Loam]({{ site.constants.wsib }}PNW Components Loam Dropper Post)
 
 If you're looking for a budget-friendly option, the PNW Components Loam is a solid alternative. While it lacks some of the advanced features of the Reverb, it's a great option for casual riders.
 

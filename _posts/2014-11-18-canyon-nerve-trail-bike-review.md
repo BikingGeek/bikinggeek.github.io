@@ -77,6 +77,6 @@ The Canyon Nerve is a fantastic choice for riders seeking adventure and exciteme
 
 So, is the Canyon Nerve worth the investment? Absolutely! Just be prepared for some laughs, thrills, and a few bumps along the way.
 
-**Pro Tip**: Adjust the suspension settings before your first rideâ€”discovering it's too stiff mid-descent will make you grip those handlebars tighter than a koala on a eucalyptus tree!
+**Pro Tip**: Adjust the suspension settings before your first ride—discovering it's too stiff mid-descent will make you grip those handlebars tighter than a koala on a eucalyptus tree!
 
 {{ site.constants.wsib }}

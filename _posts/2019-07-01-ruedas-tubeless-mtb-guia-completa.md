@@ -1,7 +1,6 @@
 ﻿---
 title: "The Ultimate Guide to MTB Tubeless Wheels"
 date: 2019-07-01
-layout: post
 tags: [mtb, wheels, tubeless, review]
 description: "Complete guide to MTB tubeless wheels: benefits, setup, maintenance, and top recommendations"
 ---

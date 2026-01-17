@@ -10,7 +10,7 @@ description: "An entertaining and detailed review of Selle Italia saddles, explo
 
 ## Introduction
 
-Welcome to Geeknite, the place where cycling enthusiasts gather to geek out over bike components! Today, we're diving deep into the world of **Selle Italia saddles**. Known for their Italian flair, comfort, and durability, are these saddles really worth the hype (and the price)? Grab your helmets and let's ride into this review! ðŸš´â€â™‚ï¸
+Welcome to Geeknite, the place where cycling enthusiasts gather to geek out over bike components! Today, we're diving deep into the world of **Selle Italia saddles**. Known for their Italian flair, comfort, and durability, are these saddles really worth the hype (and the price)? Grab your helmets and let's ride into this review! 🚴‍♂️
 
 ## A Brief History of Selle Italia
 
@@ -24,7 +24,7 @@ One of the standout features of Selle Italia saddles is their **Gel Flow technol
 
 ### The Anatomical Cutout
 
-Ever felt like your saddle is trying to make you sing soprano? Selle Italia's **anatomical cutout** is designed to relieve pressure on sensitive areas. It's the saddle equivalent of a good hugâ€”supportive yet gentle.
+Ever felt like your saddle is trying to make you sing soprano? Selle Italia's **anatomical cutout** is designed to relieve pressure on sensitive areas. It's the saddle equivalent of a good hug—supportive yet gentle.
 
 ## Durability: Built to Last
 
@@ -64,7 +64,7 @@ Did you know Selle Italia means 'Italian saddle'? Not the most imaginative name,
 
 ### The Price Tag
 
-Selle Italia saddles are not cheap. But remember, you're investing in quality. Think of it as buying a Ferrari for your bikeâ€”minus the engine and four wheels.
+Selle Italia saddles are not cheap. But remember, you're investing in quality. Think of it as buying a Ferrari for your bike—minus the engine and four wheels.
 
 ## Conclusion
 
@@ -72,7 +72,7 @@ So, is a Selle Italia saddle worth it? If comfort, durability, and style are hig
 
 **Ready to upgrade your saddle? Check out the latest offers on Selle Italia saddles** [here]({{ site.constants.wsib }}selle-italia-saddles). Don't forget to explore more reviews and tips on Geeknite for all your cycling needs.
 
-**Happy riding!** ðŸš´â€â™‚ï¸
+**Happy riding!** 🚴‍♂️
 
 ---
 
