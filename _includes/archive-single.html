@@ -1,7 +1,13 @@
 {% if post.header.teaser %}
   {% assign teaser = post.header.teaser %}
 {% else %}
-  {% assign teaser = site.teaser %}
+  {% assign content_images = post.content | split: '](http' %}
+  {% if content_images.size > 1 %}
+    {% assign first_image_part = content_images[1] | split: ')' | first %}
+    {% assign teaser = 'http' | append: first_image_part %}
+  {% else %}
+    {% assign teaser = site.teaser %}
+  {% endif %}
 {% endif %}
 
 {% if post.id %}
@@ -17,6 +23,10 @@
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
+    {% elsif teaser %}
+      <div class="archive__item-teaser" style="float: left; margin-right: 1em; margin-bottom: 0.5em; max-width: 150px;">
+        <img src="{{ teaser | relative_url }}" alt="" style="max-width: 150px; height: auto;">
+      </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
@@ -27,6 +37,6 @@
     </h2>
     {% include page__meta.html type=include.type %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.content | strip_html | markdownify | truncate: 500 | strip_html | strip_newlines | replace: '<br />', ' ' | strip | truncate: 250 }}<span class="read_more">Read More</span></p>
-
+    <div style="clear: both;"></div>
   </article>
 </div>

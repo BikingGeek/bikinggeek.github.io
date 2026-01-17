@@ -11,7 +11,7 @@ last_modified_at: '2025-10-07T01:12:01+02:00'
 description: "Discover the pros and cons of the Sunrace MX3 in Geeknite's hilarious and detailed review."
 ---
 
-![Sunrace MX3](https://via.placeholder.com/250){: style="float: right;"}
+[![Sunrace MX3](https://i.imgur.com/HsYsY4gm.jpg){: .align-right}]({{ site.constants.wsib }}sunrace mx3)
 
 ## Introduction
 

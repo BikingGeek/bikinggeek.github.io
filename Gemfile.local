@@ -1,0 +1,26 @@
+source "https://rubygems.org"
+
+# Jekyll standalone (NO github-pages gem = NO remote-theme overhead!)
+gem "jekyll", "~> 3.9.5"
+
+# Local theme
+gem "minimal-mistakes-jekyll", path: "_theme"
+
+# Required plugins (same as github-pages but without remote-theme)
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jemoji"
+  gem "jekyll-include-cache"
+  gem "jekyll-redirect-from"
+  # NO jekyll-feed = faster build
+  # NO jekyll-remote-theme = MUCH faster build
+end
+
+# Windows support
+gem "tzinfo", ">= 1.0"
+gem "tzinfo-data"
+gem "wdm", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "webrick"
+gem "kramdown-parser-gfm"

@@ -1,0 +1,29 @@
+# Override settings for faster local development
+# Use: bundle exec jekyll serve -I --config _config.yml,_config_dev.yml
+
+# Use LOCAL theme instead of remote (MUCH faster!)
+theme: minimal-mistakes-jekyll
+# Note: remote_theme must stay defined (not empty) or jekyll-remote-theme crashes
+# We keep the same value but theme takes precedence when defined
+remote_theme: "FerranSalguero/geeknite-theme"
+
+# Disable GitHub metadata API calls (big time saver!)
+github: [metadata]
+
+# NOTE: limit_posts breaks post_url links to older posts, so we don't use it
+# limit_posts: 20
+
+# Disable search indexing during dev
+search: false
+search_full_content: false
+
+# Disable jekyll-feed plugin
+feed:
+  disable: true
+  path: false
+
+Plugins:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
