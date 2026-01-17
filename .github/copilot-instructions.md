@@ -1,7 +1,7 @@
 # Biking Geek - Copilot Instructions
 
 ## Project Overview
-Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers, mountain bikes, cycling gear, protective equipment, and sports accessories. Published via GitHub Pages at `bikinggeek.github.io` using the custom theme `FerranSalguero/geeknite-theme`.
+Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers, mountain bikes, cycling gear, protective equipment, and sports accessories. Published via GitHub Pages at `sports.geeknite.com` using the custom theme `FerranSalguero/geeknite-theme`.
 
 **Important**: This is the cycling/sports content spin-off from GeekNite. Biking Geek focuses exclusively on cycling, mountain biking, and sports-related gear reviews and guides.
 
@@ -77,6 +77,31 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
   - Use Imgur URLs for hosting: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
   - Always include `{: .align-right}` for proper text wrapping alongside content
   - Wrap in affiliate link using `{{ site.constants.wsib }}`
+
+### Image Guidelines
+**CRITICAL**: Never invent or guess image URLs. Always verify images exist before using them.
+
+**For Product Reviews:**
+1. **Primary source**: Use Amazon product images (copy URL from Amazon listing)
+2. **Secondary source**: Manufacturer official images
+3. **Hosting**: Upload to Imgur and use medium size with `m` suffix: `https://i.imgur.com/xxxxxm.jpg`
+4. **Fallback**: If no product image available, use `/assets/images/general.jpg`
+
+**When Editing Posts:**
+- Verify all image URLs load correctly before saving
+- Replace broken images with working alternatives or the default image
+- Check Imgur URLs still resolve (old images may be deleted)
+
+**For Non-Product Posts (guides, tips, comparisons):**
+- If no specific image exists, generate one using this AI prompt template:
+  ```
+  Mountain biker riding on a forest trail, dynamic action shot, natural lighting, 
+  green trees and nature background, cycling gear visible, sporty and adventurous mood, 
+  vibrant colors, professional photography style, 16:9 aspect ratio, high quality
+  ```
+- Adapt the prompt based on content: MTB trails, road cycling, gear flat-lay, etc.
+- Upload generated image to Imgur before using
+
 - Intro paragraph establishing context and hook reader
 - H2 sections for major topics (Design, Performance, Battery Life, etc.)
 - H3 for specific features/aspects - **link each product to `{{ site.constants.wsib }}`**
@@ -184,6 +209,7 @@ Heavy internal linking to related reviews (3-5 per post minimum). Use Liquid `po
 7. **Encoding**: Watch for UTF-8 issues with Spanish characters (ñ, á, é) - fix immediately when found
 8. **Length**: Aim for long and comprehensive posts (2000+ words) for SEO and depth
 9. **SEO**: Optimize titles and descriptions and exclusive and original content for search engines
+10. **Never** use `redirect_to` pointing to the same post - only use redirects for URL migrations from old paths
 
 ## Debugging
 

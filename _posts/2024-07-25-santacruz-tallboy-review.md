@@ -3,7 +3,6 @@ title: "Santa Cruz Tallboy: The Ultimate Trail Companion"
 date: 2024-07-25
 tags: [Santa Cruz, Tallboy, MTB, Review, Cycling]
 description: "Explore the features, pros, cons, and funny quirks of the Santa Cruz Tallboy in this epic review."
-redirect_to: https://bikinggeek.github.io/2025/10/santacruz-tallboy-review.html
 
 ---
 
