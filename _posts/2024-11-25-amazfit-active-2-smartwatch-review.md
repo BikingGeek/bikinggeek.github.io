@@ -3,7 +3,7 @@ title: "Amazfit Active 2: A Comprehensive Review"
 date: 2024-11-25
 tags: [Amazfit, Smartwatch, Review, Fitness, Wearables]
 description: "Review completo del Amazfit Active 2: características, rendimiento, batería y valor por dinero. ¿Es el smartwatch perfecto para fitness?"
-excerpt: "Análisis exhaustivo del Amazfit Active 2 con GPS integrado, +70 modos deportivos, pantalla AMOLED 1.39" y hasta 14 días de batería. Descubre si es el wearable ideal para ciclistas y runners."
+excerpt: 'Análisis exhaustivo del Amazfit Active 2 con GPS integrado, +70 modos deportivos, pantalla AMOLED 1.39" y hasta 14 días de batería. Descubre si es el wearable ideal para ciclistas y runners.'
 ---
 
 [![Amazfit Active 2](https://i.imgur.com/5KpGH9Pm.jpg){: .align-right}]({{ site.constants.wsib }}Amazfit Active 2)
