@@ -52,7 +52,7 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
    ```
 3. **MAXIMIZE internal linking** - reference 3-5 related existing posts using `{% post_url YYYY-MM-DD-slug %}` (NO file extension) integrated in post content
 4. **MAXIMIZE affiliate links** - link ALL product mentions to `{{ site.constants.wsib }}`
-5. Include product images from Imgur: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
+5. Include product images from Amazon or Imgur: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix) or `https://m.media-amazon.com/images/I/` URLs
 6. Add `{% include amazon.html %}` product tables for major items with ASINs and images
 7. **UPDATE `last_modified_at`** - Always update this field with current date/time when editing any post
 
@@ -73,14 +73,14 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
   ```markdown
   [![Product Name](https://i.imgur.com/image_idm.jpg){: .align-right}]({{ site.constants.wsib }}Product Name)
   ```
-  - Image must be an existing product image from Amazon, manufacturer sites, or Imgur
-  - If no suitable image exists, you MUST find or create an appropriate product image first
+  - Image must be an existing product image from Amazon, manufacturer sites, or other stores
+  - If no suitable image exists, you MUST find or use the fallback image: `/assets/images/general.jpg`
   - Use Imgur URLs for hosting: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
+  - **Note**: Uploading custom images to imgur requires user intervention (Copilot cannot upload images)
+  - **CRITICAL**: Never invent imgur URLs - always verify the image exists by checking with `fetch_webpage` or using existing URLs from the blog
   - Always include `{: .align-right}` for proper text wrapping alongside content
   - Wrap in affiliate link using `{{ site.constants.wsib }}`
 
-### Image Guidelines
-**CRITICAL**: Never invent or guess image URLs. Always verify images exist before using them.
 
 **For Product Reviews:**
 1. **Primary source**: Use Amazon product images (copy URL from Amazon listing)
@@ -106,14 +106,19 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 - Intro paragraph establishing context and hook reader
 - H2 sections for major topics (Design, Performance, Battery Life, etc.)
 - H3 for specific features/aspects - **link each product to `{{ site.constants.wsib }}`**
+
+- Intro paragraph establishing context
+- H2 sections for major topics
+- H3 for product names/specific items - **link each product to `{{ site.constants.wsib }}`**
 - **Reference 3-5 related existing posts** throughout content using `{% post_url %}` tags
 - Add visual `{% include amazon.html %}` tables for featured products with ASINs
 - Conclusion with related posts links
-- **Pro Tip** callout at end: `**Pro Tip:** Your advice here!`
 - Related posts section (3-5 posts minimum) using `post_url` tags
 
 ### Tone & Style
-- **Casual & Humorous**: Uses emojis 🚴‍♂️, exclamations, conversational style
+- **Professional and informative** with enthusiastic touch
+- Avoid overly casual or humorous tone
+- Focus on product details, comparisons, and value propositions
 - **Budget-Focused**: Emphasizes value for amateur cyclists/users
 - **Bilingual**: English primary, some Spanish posts (check `locale` in frontmatter)
 - Emoji use when appropriate (cycling: 🚴‍♂️🚵, MTB: 🏔️, gear: ⚙️, victory: 🏆)
@@ -125,7 +130,6 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 - **Long-form content**: Posts should aim for comprehensive coverage with detailed sections
 - If uncertain about a detail, research it or omit it rather than guessing
 - Use precise measurements, accurate model numbers, and verified information
-- Include humorous "quirks" or "funny quirks" section for personality
 
 ## Common Tasks
 
@@ -141,9 +145,9 @@ Then replace with new `post_url` tag across affected files.
 Follow naming: `YYYY-MM-DD-descriptive-slug.md`
 ```yaml
 ---
-title: "Your Catchy Title Here"
+title: "Your Title Here"
 date: "YYYY-MM-DD"
-tags: [cycling, gear, brand]
+tags: [tag1, tag2, tag3]
 description: "SEO-optimized 150-160 char description in post language"
 excerpt: "Social sharing excerpt"
 ---
@@ -186,16 +190,7 @@ excerpt: "Social sharing excerpt"
 
 ### Comparison Posts
 Structure: Intro → Feature-by-feature → Winner per section → Final verdict → Affiliate links
-```markdown
-## Feature Name
-**Product A**: Description
-**Product B**: Description
-**Winner**: 🏆 Product A - Reason!
-```
 
-### Review Posts
-Structure: Intro → Key Features → Pros/Cons → Quirks/Humor → Comparisons → Conclusion → Pro Tip → Affiliate
-Always include humorous "quirks" section for personality.
 
 ### Cross-Linking Strategy
 Heavy internal linking to related reviews (3-5 per post minimum). Use Liquid `post_url` tags for future-proof links.
