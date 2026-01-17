@@ -3,6 +3,7 @@ title: "RockShox Reverb Review: The Ultimate Dropper Post"
 date: 2023-12-24
 tags: [cycling, RockShox, Reverb, dropper post, mountain biking, review]
 description: "An in-depth review of the RockShox Reverb dropper post, covering its features, performance, and quirks."
+last_modified_at: "2026-01-17T12:00:00+01:00"
 ---
 
 [![RockShox Reverb Dropper Post](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}rockshox-reverb)

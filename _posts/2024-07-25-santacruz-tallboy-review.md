@@ -3,7 +3,7 @@ title: "Santa Cruz Tallboy: The Ultimate Trail Companion"
 date: 2024-07-25
 tags: [Santa Cruz, Tallboy, MTB, Review, Cycling]
 description: "Explore the features, pros, cons, and funny quirks of the Santa Cruz Tallboy in this epic review."
-
+last_modified_at: "2026-01-17T12:00:00+01:00"
 ---
 
 [![Santa Cruz Tallboy](https://i.imgur.com/6JDDmDgm.jpeg){: .align-right}]({{ site.constants.wsib }}tallboy)
@@ -81,12 +81,15 @@ Ever felt like your bike was trying to tell you something? The Tallboy's interna
 ## Comparison with Other Trail Bikes
 
 ### [Canyon Spectral]({%- post_url 2018-07-23-canyon-breakaway-sale-2018 -%})
+
 The Canyon Spectral offers similar features but at a slightly lower price point. If you're looking for a budget-friendly option that doesn't compromise on performance, the Spectral might be worth considering.
 
 ### [Yeti SB130]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%})
+
 The Yeti SB130 is another great trail bike with excellent geometry and handling. However, it comes at a premium price, making the Tallboy a more versatile option for various budgets.
 
 ### [Specialized Stumpjumper]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%})
+
 The Specialized Stumpjumper is a classic choice for trail riders. While it offers great performance, the Tallboy's advanced features give it an edge in terms of customization and versatility.
 
 ---

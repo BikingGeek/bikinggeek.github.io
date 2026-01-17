@@ -45,7 +45,7 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
    tags: [cycling, gear, brand, product-type]
    description: "SEO-optimized description 150-160 chars"
    excerpt: "Longer excerpt for social sharing"
-   last_modified_at: 'YYYY-MM-DDTHH:MM:SS+02:00'  # Optional
+   last_modified_at: 'YYYY-MM-DDTHH:MM:SS+02:00'  # Required when editing
    redirect_from:  # Optional for URL migrations
      - /old/path.html
    ---
@@ -54,6 +54,7 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 4. **MAXIMIZE affiliate links** - link ALL product mentions to `{{ site.constants.wsib }}`
 5. Include product images from Imgur: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
 6. Add `{% include amazon.html %}` product tables for major items with ASINs and images
+7. **UPDATE `last_modified_at`** - Always update this field with current date/time when editing any post
 
 ### Internal Linking Convention
 **Critical**: When linking between posts, use Jekyll's `post_url` tag:
