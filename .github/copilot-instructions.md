@@ -94,14 +94,14 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 - Check Imgur URLs still resolve (old images may be deleted)
 
 **For Non-Product Posts (guides, tips, comparisons):**
-- If no specific image exists, generate one using this AI prompt template:
+- If no specific image exists, generate a AI prompt for image generation and set it into the frontmatter in field `hero_image`, similar to this:
   ```
   Mountain biker riding on a forest trail, dynamic action shot, natural lighting, 
   green trees and nature background, cycling gear visible, sporty and adventurous mood, 
   vibrant colors, professional photography style, 16:9 aspect ratio, high quality
   ```
 - Adapt the prompt based on content: MTB trails, road cycling, gear flat-lay, etc.
-- Upload generated image to Imgur before using
+- Upload generated image to Imgur before using, manually done by user
 
 - Intro paragraph establishing context and hook reader
 - H2 sections for major topics (Design, Performance, Battery Life, etc.)
