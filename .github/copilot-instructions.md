@@ -65,6 +65,28 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 - Include full date prefix (YYYY-MM-DD)
 - Hyphens only (no spaces)
 - Use `{%-` syntax to strip whitespace for cleaner HTML output
+### ?? CRITICAL: Avoiding post_url Errors
+**NEVER invent post_url references.** Before adding any `post_url` tag:
+
+1. **ALWAYS verify the post exists** by running:
+   ```powershell
+   Get-ChildItem "_posts" -Filter "*keyword*" | Select-Object Name
+   ```
+2. **Use the EXACT filename** including the correct date (e.g., `2023-08-22` not `2023-08-15`)
+3. **If no matching post exists**, use an affiliate link instead:
+   ```markdown
+   # ? WRONG - post doesn't exist
+   [Product Name]({%- post_url 2025-06-15-best-bourbons-2025 -%})
+   
+   # ? CORRECT - use affiliate link when post doesn't exist
+   [Product Name]({{ site.constants.wsib }}Product Name)
+   ```
+4. **Never use future dates** for posts that don't exist yet
+5. **Common mistakes to avoid:**
+   - Wrong date: `2023-08-15-marvel-united...` vs actual `2023-08-22-marvel-united...`
+   - Invented slugs: `best-bourbons-2025` when no bourbon posts exist
+   - Missing "-complete" or other suffixes: `marvel-united-multiverse-review` vs `marvel-united-multiverse-complete-review`
+- Use `{%-` syntax to strip whitespace
 
 ## Content Guidelines
 
@@ -74,13 +96,13 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
   [![Product Name](https://i.imgur.com/image_idm.jpg){: .align-right}]({{ site.constants.wsib }}Product Name)
   ```
   - Image must be an existing product image from Amazon, manufacturer sites, or other stores
-  - If no suitable image exists, you MUST find or use the fallback image: `/assets/images/general.jpg`
+  - If no suitable image exists, you MUST find or use the fallback image: `/assets/images/general.jpg` AND add a `hero_image` field in the frontmatter with a descriptive prompt for AI image generation (e.g., `hero_image: "A dramatic top-down view of a board game setup on a wooden table, warm lighting, photorealistic"`)  
   - Use Imgur URLs for hosting: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
   - **Note**: Uploading custom images to imgur requires user intervention (Copilot cannot upload images)
   - **CRITICAL**: Never invent imgur URLs - always verify the image exists by checking with `fetch_webpage` or using existing URLs from the blog
   - Always include `{: .align-right}` for proper text wrapping alongside content
   - Wrap in affiliate link using `{{ site.constants.wsib }}`
-
+- **Intro must frame a decision** ó NOT "here are some great products", but "if you need X, here's what to buy". The user arrived with a problem; solve it immediately
 
 **For Product Reviews:**
 1. **Primary source**: Use Amazon product images (copy URL from Amazon listing)
@@ -114,6 +136,7 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 - Add visual `{% include amazon.html %}` tables for featured products with ASINs
 - Conclusion with related posts links
 - Related posts section (3-5 posts minimum) using `post_url` tags
+- for specific products you can use link to amazon.com or amazon.es with `{{ site.constants.amazon_com }}` or `{{ site.constants.amazon_es }}` 
 
 ### Tone & Style
 - **Professional and informative** with enthusiastic touch
@@ -121,13 +144,57 @@ Biking Geek is a Jekyll-based blog focused on cycling and sports: bike computers
 - Focus on product details, comparisons, and value propositions
 - **Budget-Focused**: Emphasizes value for amateur cyclists/users
 - **Bilingual**: English primary, some Spanish posts (check `locale` in frontmatter)
-- Emoji use when appropriate (cycling: üö¥‚Äç‚ôÇÔ∏èüöµ, MTB: üèîÔ∏è, gear: ‚öôÔ∏è, victory: üèÜ)
 - Product comparisons and "vs" reviews with winner declarations per section
+### Monetization-First Content Strategy
+
+**CRITICAL**: Every post must follow this user journey pattern:
+
+```
+User arrives with a specific question
+    ? Reads content
+    ? Makes a decision
+    ? Clicks affiliate link
+```
+
+**Content Philosophy:**
+- **DO NOT "recommend things"** ó Instead, **SOLVE DECISIONS**
+- User searches with a specific problem ? Post provides the answer ? User clicks to buy
+- Every section must lead to an actionable decision with a clear affiliate link
+- Avoid generic "top 10 lists" ó Focus on "Which X should I buy for Y situation?"
+
+**Post Types That Convert:**
+| Post Type | Example Title | Why It Works |
+|-----------|---------------|--------------|
+| Decision resolver | "PS5 vs Xbox Series X: Which Console for You?" | User has a specific choice to make |
+| Problem solver | "Best Gaming Headset Under Ä100 for FPS Games" | User has budget + use case |
+| Comparison | "GTA IV Complete vs Red Dead Redemption GOTY" | User deciding between options |
+| Buying guide | "Which Nintendo Switch Model to Buy in 2024?" | User ready to purchase |
+
+**Post Structure for Conversion:**
+1. **Title**: Frame as a decision/question the user needs answered
+2. **Intro**: Acknowledge the user's specific problem (1-2 sentences max)
+3. **Quick Answer**: Give the verdict immediately for users who want fast answers
+4. **Detailed Analysis**: For users who want to understand why
+5. **Decision Table**: Summary table at the end with affiliate links
+6. **Single CTA**: One clear "buy now" action per section
+
+**Avoid These Patterns:**
+- ? "Here are 10 great games you should try"
+- ? "I recommend checking out..."
+- ? Generic product lists without decision context
+- ? Long intros before getting to the point
+- ? Multiple CTAs that confuse the user
+
+**Use These Patterns:**
+- ? "If you want X, buy [Product A](affiliate). If you need Y, get [Product B](affiliate)."
+- ? "The verdict: [Product](affiliate) is the best choice for [specific use case]."
+- ? Tables with clear winner indicators and affiliate links
+- ? "Bottom line: Buy [this](affiliate) if... Buy [that](affiliate) if..."
 
 ### Content Quality & Rigor
 - **Fact-check all data**: Never invent specifications, prices, or product details
-- **Be rigorous**: Verify technical specs, battery life, weight, and product features
-- **Long-form content**: Posts should aim for comprehensive coverage with detailed sections
+- **Be rigorous**: Verify technical specs, release dates, and product features
+- **Long-form content**: Posts must be substantially long (~500 lines minimum) with genuinely informative and useful content ó not filler. Cover every relevant angle: specs, comparisons, use cases, pros/cons, alternatives, buying advice, and related context. A short post with superficial content does not meet quality standards.
 - If uncertain about a detail, research it or omit it rather than guessing
 - Use precise measurements, accurate model numbers, and verified information
 
@@ -147,11 +214,28 @@ Follow naming: `YYYY-MM-DD-descriptive-slug.md`
 ---
 title: "Your Title Here"
 date: "YYYY-MM-DD"
+last_modified_at: "YYYY-MM-DD"
 tags: [tag1, tag2, tag3]
 description: "SEO-optimized 150-160 char description in post language"
 excerpt: "Social sharing excerpt"
+hero_image: "Prompt for AI image generation if no real image is available"
 ---
 ```
+- `last_modified_at` should always be set to the current date when creating or editing a post
+- `hero_image` is a text prompt for AI image generation, only used when no real product image (imgur/Amazon) exists
+
+### Top Posts Navigation
+When a post is comprehensive, high-quality, and likely to drive traffic, add it to `_data/navigation.yml` under `top-posts`:
+```yaml
+top-posts:
+  - title: "Top posts"
+    children:
+      - title: "Post Title"
+        url: /YYYY/MM/slug.html
+```
+- URL format follows the permalink pattern: `/:year/:month/:title.html`
+- Add posts after reviewing/improving them to ensure quality standards are met
+- Keep the list curated ó only high-traffic or evergreen content
 
 ## Domain-Specific Notes
 
@@ -243,3 +327,15 @@ Remote theme changes require cache clear. Delete `.jekyll-metadata` and `_site/`
 - Permalink: `/:year/:month/:title:output_ext`
 - Markdown: Kramdown with GFM input
 - Windows dev environment assumed (batch files, paths)
+
+### When reviewing existing published posts, follow this checklist:
+1. **Frontmatter**: Ensure `last_modified_at` is set to current date, `description` exists, and `tags` are relevant
+2. **Hero image**: Must exist with `{: .align-right}` and affiliate link wrapper. If using fallback image, add `hero_image` prompt in frontmatter
+3. **Tone**: Must be professional, decision-focused ó rewrite casual/enthusiastic intros (no "Welcome!", "Hey gamers!", etc.)
+4. **Affiliate links**: ALL product mentions must link to `{{ site.constants.wsib }}` ó add missing ones
+5. **Internal links**: Add 3-5 `post_url` references to related existing posts (verify each exists first)
+6. **Amazon product tables**: Add `{% include amazon.html %}` for major products with ASINs
+7. **Encoding**: Fix any broken characters (e.g., `√ó` ? `◊`, `√©` ? `È`)
+8. **Related posts section**: Must exist at end with 3-5 `post_url` links
+9. **Decision table**: Add summary table with affiliate links at the end if missing
+10. **Top posts**: If quality is high enough, add to `_data/navigation.yml` under `top-posts`
