@@ -54,9 +54,23 @@
   .amazon-image {
     width: 120px;
     height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
   }
 
   .amazon-link {
     text-align: center;
   }
+}
+
+// Reduce layout shift on images
+.page__content img {
+  height: auto;
+  max-width: 100%;
+}
+
+// Improve rendering performance for long post lists
+.archive__item {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 120px;
 }

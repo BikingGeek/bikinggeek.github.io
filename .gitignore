@@ -18,3 +18,4 @@ _drafts
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 *.WinMerge
+tmpclaude-*

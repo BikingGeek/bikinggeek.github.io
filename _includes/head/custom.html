@@ -1,10 +1,24 @@
-<!-- start custom head snippets -->
+<!-- Preconnect to critical third-party origins -->
+<link rel="preconnect" href="https://i.imgur.com" crossorigin>
+<link rel="preconnect" href="https://m.media-amazon.com" crossorigin>
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<!-- DNS prefetch for less critical origins -->
+<link rel="dns-prefetch" href="https://one-link.amazon.com">
+<link rel="dns-prefetch" href="https://www.amazon.com">
+<link rel="dns-prefetch" href="https://www.amazon.es">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
 
-<!-- end custom head snippets -->
+<!-- Favicon -->
 <link rel="icon" sizes="192x192" href="https://i.imgur.com/adqLAXxm.png">
+
+<!-- Custom CSS -->
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+
+<!-- Amazon OneLink (deferred) -->
 <script async src="https://one-link.amazon.com/onsite/amazontag.js"></script>
+
+<!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2992269112655291"
      crossorigin="anonymous"></script>
