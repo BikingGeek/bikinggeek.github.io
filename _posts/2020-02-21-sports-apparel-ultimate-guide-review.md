@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sports Apparel Ultimate Guide: Retro Shirts to Running Tights Review"
 date: 2020-02-21
 tags: [sports-apparel, running-tights, football-shirt, thermal-wear, new-balance, benfica, review]
@@ -13,15 +13,15 @@ Welcome, sports enthusiasts and gear lovers! Today we're diving deep into the wo
 
 ---
 
-## Football Heritage: Benfica EusÃ©bio Retro Shirt
+## Football Heritage: Benfica Eusébio Retro Shirt
 
 ### The Legend Lives On
 
-Let's start with a piece of football history - the legendary **Benfica EusÃ©bio 1965 retro shirt**. EusÃ©bio da Silva Ferreira, known as "The Black Panther," was a force to be reckoned with on the football field. With his 1965 Ballon d'Or win, his legacy is forever etched in football history.
+Let's start with a piece of football history - the legendary **Benfica Eusébio 1965 retro shirt**. Eusébio da Silva Ferreira, known as "The Black Panther," was a force to be reckoned with on the football field. With his 1965 Ballon d'Or win, his legacy is forever etched in football history.
 
 ### Design and Heritage
 
-The Benfica EusÃ©bio retro shirt captures the essence of the golden 1965 era:
+The Benfica Eusébio retro shirt captures the essence of the golden 1965 era:
 - **Classic white base** with subtle red accents
 - **Iconic red collar and cuffs** 
 - **Embroidered Benfica crest** on the chest
@@ -122,7 +122,7 @@ When temperatures drop, **thermal running tights** become your best friend. Here
 ## Real User Experiences
 
 ### The Heritage Collector
-*"The EusÃ©bio retro shirt isn't just clothing - it's wearing football history. The quality is exceptional and every detail is authentic."* - Carlos, Vintage Football Enthusiast
+*"The Eusébio retro shirt isn't just clothing - it's wearing football history. The quality is exceptional and every detail is authentic."* - Carlos, Vintage Football Enthusiast
 
 ### The All-Weather Runner
 *"I switched to New Balance tights two years ago and haven't looked back. They're comfortable for everything from 5Ks to yoga sessions."* - Sarah, Marathon Runner

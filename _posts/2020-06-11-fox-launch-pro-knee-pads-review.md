@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fox Launch Pro: The Ultimate MTB Knee Pad Review"
 date: 2020-06-11
 category: reviews
@@ -19,7 +19,7 @@ Hey there, fellow mountain bikers and gear enthusiasts! Today, we're diving into
 
 ### Protection that Packs a Punch
 
-The **Fox Launch Pro** knee pads are designed to offer robust protection against impacts, scrapes, and all those gnarly crashes that seem to be a rite of passage in mountain biking. The pads feature a combination of D3OÂ® impact-absorbing technology and a hard-shell knee cap that acts like a fortress for your knees. So whether you're tackling rocky descents or challenging jumps, your knees are in good hands.
+The **Fox Launch Pro** knee pads are designed to offer robust protection against impacts, scrapes, and all those gnarly crashes that seem to be a rite of passage in mountain biking. The pads feature a combination of D3O® impact-absorbing technology and a hard-shell knee cap that acts like a fortress for your knees. So whether you're tackling rocky descents or challenging jumps, your knees are in good hands.
 
 ### Comfortable Fit
 
@@ -37,7 +37,7 @@ Nobody has time for wrestling with gear before a ride. The **Fox Launch Pro** kn
 
 ### Pros
 
-- **High Level of Protection**: With D3OÂ® impact-absorbing technology and a hard-shell knee cap, these pads offer top-notch protection.
+- **High Level of Protection**: With D3O® impact-absorbing technology and a hard-shell knee cap, these pads offer top-notch protection.
 - **Comfortable Fit**: Ergonomic design and adjustable straps make for a snug and comfy fit.
 - **Breathable**: Vents and breathable materials keep your knees cool and dry.
 - **User-Friendly**: Easy to put on and take off, saving you time.
