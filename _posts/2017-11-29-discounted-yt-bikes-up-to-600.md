@@ -10,6 +10,7 @@ tags:
 last_modified_at: '2017-11-29T16:54:51.041+01:00'
 thumbnail: https://4.bp.blogspot.com/-8fv6yH7oIdU/Wh7X0lymOzI/AAAAAAAABBU/z6o-xH2QrCQYCMn3rpf8cjNG92-pvPglgCLcBGAs/s72-c/YT%2BIndustries%2B-%2BMozilla%2BFirefox.jpg
 blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-5395987653642154333
+description: "Discounted YT bikes with savings up to 600 euros. Find the best deals on YT Jeffsy, Capra, and Tues enduro and downhill mountain bikes on sale."
 ---
 
 [YT](https://www.yt-industries.com/en/) one of the most modern and desired direct sales bike companies is still keeping their Black Friday sales with discounts up to 600€ in their most expensive models.
@@ -22,4 +23,16 @@ Remember that YT now also delivers to the US with [even bigger discounts there](
 
 YT, which sponsors Aaron Gwin, Andreu Lacondeguy, and Cam Zink, is one of the most aggressive and cool brands in biking right now.
 
-![YT Industries](https://4.bp.blogspot.com/-8fv6yH7oIdU/Wh7X0lymOzI/AAAAAAAABBU/z6o-xH2QrCQYCMn3rpf8cjNG92-pvPglgCLcBGAs/s1600/YT%2BIndustries%2B-%2BMozilla%2BFirefox.jpg)
+[![YT Industries](https://4.bp.blogspot.com/-8fv6yH7oIdU/Wh7X0lymOzI/AAAAAAAABBU/z6o-xH2QrCQYCMn3rpf8cjNG92-pvPglgCLcBGAs/s1600/YT%2BIndustries%2B-%2BMozilla%2BFirefox.jpg){: .align-right}]({{ site.constants.wsib }}YT bikes)
+
+
+## Where to Buy
+
+You can find the best price here: [**YT bikes**]({{ site.constants.wsib }}YT bikes)
+
+{{ site.constants.wsib }}
+## Related Posts
+
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})

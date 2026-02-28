@@ -1,12 +1,13 @@
-﻿---
+---
 title: "Canyon Nerve Review: A Fun Ride or a Nerve-Wrecking Experience?"
 date: 2014-11-18
 tags: [mtb, canyon, trail-bike, review]
 description: "An in-depth review of the Canyon Nerve bike. Is it worth the investment?"
 description: "An in-depth review of the Canyon Nerve bike. Is it worth the investment?"
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Canyon Nerve](https://www.canyon.com/images/canyon-nerve.jpg){: .align-right}
+![Canyon Nerve](https://www.canyon.com/images/canyon-nerve.jpg){:.align-right}
 
 Welcome back, fellow bike enthusiasts! Today, we're diving into the world of the Canyon Nerve, a bike that's got quite the reputation. Is it the ultimate trail machine or just a nerve-wrecking experience waiting to happen? Buckle up, because we're about to find out!
 
@@ -80,3 +81,11 @@ So, is the Canyon Nerve worth the investment? Absolutely! Just be prepared for s
 **Pro Tip**: Adjust the suspension settings before your first ride—discovering it's too stiff mid-descent will make you grip those handlebars tighter than a koala on a eucalyptus tree!
 
 {{ site.constants.wsib }}
+
+## Related Posts
+
+- [Las mejores MTB según presupuesto calidad/precio (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%})
+- [YT Jeffsy review: Pros y contras. Debería comprarla?]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%})
+- [¿Qué esperamos de las MTB 2017? ¡Descubre las tendencias más emocionantes!]({%- post_url 2016-10-01-what-are-we-expecting-for-2017-mtb-brands-lineup -%})
+- [Canyon Strive 2017 review: Pros y contras. Debería comprarla?]({%- post_url 2017-04-11-canyon-strive-2017-review-pros-contras-deberia-comprarla -%})
+- [Mondraker Vantage Review: The Do-It-All MTB]({%- post_url 2021-07-27-mondraker-vantage-do-it-all-mtb-review -%})

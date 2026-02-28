@@ -3,14 +3,14 @@ title: "Cecotec Urban Electric Bike Review: The Ultimate Urban Commute Companion
 date: "2023-06-27"
 tags: ['electric bike', 'bike review', 'Cecotec Urban', 'urban mobility', 'electric vehicle']
 description: "In-depth review of the Cecotec Urban Electric Bike: features, performance, and why it's great for city commuting."
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
 ## Introduction: The New Face of Urban Commute
 
 Welcome to Geeknite, your go-to blog for all things geeky and techy! Today, we are reviewing the **Cecotec Urban Electric Bike**, a newbie in the growing market of urban electric bikes. If you've been stuck in traffic with a car that moves slower than a sloth or have been crammed in a bus with more people than a clown car, then this review is for you. Let's dive into why the Cecotec Urban might just be your new best friend for city commuting.
 
-![Cecotec Urban Electric Bike](https://www.cecotec.com/media/images/products/cecotec-urban-bike.jpg){: style='float: right; margin: 0 15px 15px 0; max-width: 300px;'}
-
+[![Cecotec Urban Electric Bike](https://www.cecotec.com/media/images/products/cecotec-urban-bike.jpg){: .align-right}]({{ site.constants.wsib }}Cecotec Urban electric bike)
 ## Overview: What Makes It Special?
 
 The **Cecotec Urban Electric Bike** is packed with features designed to make your urban commutes smoother and more enjoyable. Let's break down some of its main features:
@@ -56,6 +56,13 @@ The **Cecotec Urban Electric Bike** offers excellent value for its price. It's p
 So, should you buy it? If you're looking for a reliable, stylish, and comfortable e-bike for city commuting, the answer is a resounding yes!
 
 **Ready to make your commute fun again? [Buy the Cecotec Urban Electric Bike now!](https://www.cecotec.com/electric-bike)**
+
+
+## Where to Buy
+
+You can find the best price here: [**Cecotec Urban electric bike**]({{ site.constants.wsib }}Cecotec Urban electric bike)
+
+{{ site.constants.wsib }}
 
 ## Related Posts
 

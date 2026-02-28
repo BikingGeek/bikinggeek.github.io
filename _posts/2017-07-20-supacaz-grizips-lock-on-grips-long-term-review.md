@@ -1,13 +1,13 @@
 ---
 
-title:  "Supacaz Grizips Lock on grips long term review"
-date:   2017-07-20 17:00:00 +0200
+title: "Supacaz Grizips Lock on grips long term review"
+date: 2017-07-20 17:00:00 +0200
 tags: bike grips review supacaz components
 last_modified_at: '2021-05-16T16:36:50.219+02:00'
 description: Discover Supacaz's popular California cycling accessories with our review of the neon purple and orange Supacaz Grizips lock-on grips
 ---
 
-<a href='{{ site.constants.wsib }}Supacaz%20Grizips'><img style="float: right;" src="https://i.imgur.com/FLyxmiBm.jpg"></a>
+[![](https://i.imgur.com/FLyxmiBm.jpg){: .align-right}]({{ site.constants.wsib }}Supacaz%20Grizips)
 
 ***Supacaz***, short for *super casual*, is a California brand best known for their bar tape and grips, they also make other accessories like bottle cages and drink bottles. [Supacaz's bar tape]({{ site.constants.wsib }}supacaz%20bar%20tape) is used for many World Tour teams with names like Kittel or *Rockstar* Peter Sagan.
 
@@ -40,3 +40,9 @@ After more than 1 year with them the only problem, apart from the holed end part
 - If you are most interested in comfort without losing grip you can opt for [foam grips]({{ site.constants.wsib }}foam%20grips)
 
 **Update 2021-05-16**: After a lot of quite intensive use, the rubber has deteriorated, leaving a sticky material that is not pleasant to the touch. We can say that they have reached the end of their useful life.
+
+## Related Posts
+
+- [Foam Grips Review: Comfort, Durability, and Beyond]({%- post_url 2015-04-15-foam-grips-cycling-review -%})
+- [ODI X-Treme Lock-On Grips: ¿Valen la pena después de años de uso?]({%- post_url 2016-06-14-odi-x-treme-lock-on-grips-long-term-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

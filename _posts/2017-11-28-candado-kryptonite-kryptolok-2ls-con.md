@@ -13,7 +13,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre si el candado Kryptonite Kryptolok 2LS es realmente seguro o solo una ilusión. ¿Vale la pena el precio? Spoiler: depende de cuánto te importe tu bicicleta."
 ---
 
-[![Candado Kryptonite Kryptolok 2LS](https://1.bp.blogspot.com/-vp7WDvoCeCc/Wh1Txl3CrTI/AAAAAAAABBA/1Zt3a6jyObUwYJRCZ9eazueuNit5G7JMACLcBGAs/s200/kryptonite%2Bkryptoloc%2B2LS.jpg){: .align-right}]({{ site.constants.wsib }}kryptonite)
+[![Candado Kryptonite Kryptolok 2LS](https://1.bp.blogspot.com/-vp7WDvoCeCc/Wh1Txl3CrTI/AAAAAAAABBA/1Zt3a6jyObUwYJRCZ9eazueuNit5G7JMACLcBGAs/s200/kryptonite%2Bkryptoloc%2B2LS.jpg){:.align-right}]({{ site.constants.wsib }}kryptonite)
 
 ### Candado Kryptonite Kryptolok 2LS: ¿Seguridad o solo apariencia?
 
@@ -42,3 +42,9 @@ Con tantas opciones en el mercado, el Kryptolok 2LS sigue siendo una opción só
 El Kryptonite Kryptolok 2LS tiene mucho a su favor, pero también tiene sus limitaciones. Si puedes aceptar sus defectos, es una excelente opción económica. Pero si buscas lo mejor de lo mejor, probablemente deberías seguir buscando.
 
 **¿Qué opinas? ¿Has probado este candado? Déjanos tu comentario abajo.**
+
+## Posts Relacionados
+
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})

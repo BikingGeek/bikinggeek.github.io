@@ -14,9 +14,10 @@ tags:
 last_modified_at: '2023-07-23T22:06:13.286+02:00'
 thumbnail: https://4.bp.blogspot.com/-x_-htryz0Ys/U9qTZ7YZDmI/AAAAAAAAAjM/7_Jlw8im8sg/s72-c/7991426_f260%5B1%5D.jpg
 blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-3590926219336263191
+description: "Essential checklist after a bike accident. Learn the 6 critical checks for wheels, handlebars, gears, and frame to ensure your bike is safe to ride home."
 ---
 
-![Bike Accident Checklist](https://4.bp.blogspot.com/-x_-htryz0Ys/U9qTZ7YZDmI/AAAAAAAAAjM/7_Jlw8im8sg/s1600/7991426_f260%5B1%5D.jpg)
+![Bike Accident Checklist](https://4.bp.blogspot.com/-x_-htryz0Ys/U9qTZ7YZDmI/AAAAAAAAAjM/7_Jlw8im8sg/s1600/7991426_f260%5B1%5D.jpg){: .align-right}
 
 When you go out biking there's always a small risk of falling, crashing, or getting involved in an accident. If you are well protected and lucky, it might be nothing, but **you should always be cautious because some bike malfunctions could be easily overlooked**.
 
@@ -39,3 +40,9 @@ First of all, you should be very cautious. **Only ride back very carefully by ta
 ---
 
 This is a small checklist to find any malfunctions. If in doubt, you should also check with a bike specialist. Also, if you are starting to get interested in biking, you should get a GPS to track your rides. Here is [a comparison of the best entry-point Garmin GPS]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}) and the [top biking GPS from Garmin]({%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%}).
+
+## Related Posts
+
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})

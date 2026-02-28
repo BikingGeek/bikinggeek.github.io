@@ -3,9 +3,10 @@ title: "Sports Apparel Ultimate Guide: Retro Shirts to Running Tights Review"
 date: 2020-02-21
 tags: [sports-apparel, running-tights, football-shirt, thermal-wear, new-balance, benfica, review]
 description: "Complete guide to sports apparel: from legendary Benfica retro shirts to performance running tights. Find the perfect gear for every sport!"
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Sports Apparel Guide](https://example.com/sports-apparel-guide.jpg){: .align-right}
+![Sports Apparel Guide](https://example.com/sports-apparel-guide.jpg){:.align-right}
 
 ## Introduction
 
@@ -107,14 +108,14 @@ When temperatures drop, **thermal running tights** become your best friend. Here
 
 | Product | Best For | Key Strength | Price Range |
 |---------|----------|--------------|-------------|
-| Benfica Retro Shirt | Football fans, casual wear | Heritage and style | â‚¬50-80 |
-| New Balance Tights | All-season running | Versatility | â‚¬40-60 |
-| Thermal Tights | Cold weather sports | Winter performance | â‚¬50-90 |
+| Benfica Retro Shirt | Football fans, casual wear | Heritage and style | €50-80 |
+| New Balance Tights | All-season running | Versatility | €40-60 |
+| Thermal Tights | Cold weather sports | Winter performance | €50-90 |
 
 ### Brand Battle: New Balance vs Competition
 
 **vs Nike:** New Balance offers softer fabric and better value
-**vs Adidas:** More breathable with superior style options  
+**vs Adidas:** More breathable with superior style options 
 **vs Under Armour:** Better versatility beyond pure athletics
 
 ---
@@ -203,3 +204,11 @@ Building the perfect sports apparel collection requires balancing heritage, perf
 Remember: the best sports apparel is what makes you feel confident and performs when you need it most!
 
 {{ site.constants.wsib }}
+
+## Related Posts
+
+- [Chaquetas MTB: La Guía Definitiva]({%- post_url 2014-12-01-chaquetas-mtb -%})
+- [Mi equipación favorita para MTB. Ideas para regalos a ciclistas]({%- post_url 2016-04-27-mi-equipacion-favorita-mtb-2016-ideas-regalos-ciclistas -%})
+- [Winter Cycling Clothing Guide 2025: Stay Warm Without Breaking the Bank 🥶🚴]({%- post_url 2025-11-12-winter-cycling-clothing-guide-budget -%})
+- [Camiseta técnica de manga corta Fox Flexair Pro edición Greg Minnaar]({%- post_url 2016-01-14-camiseta-fox-flexair-pro-greg-minnaar -%})
+- [Camiseta manga Corta The Bike Village Tropical Enduro Descenso Review]({%- post_url 2020-06-18-the-bike-village-tropical-enduro-manga-corta-review -%})

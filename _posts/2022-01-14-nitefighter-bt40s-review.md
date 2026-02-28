@@ -1,13 +1,14 @@
-﻿---
+---
 title: 'Nitefighter BT40s: The Ultimate Bike Light Review'
 date: 2022-01-14
 tags: [nitefighter, bike light, review, cycling, gadgets]
 description: 'A detailed and humorous review of the Nitefighter BT40s bike light, exploring its features, performance, and why you might (or might not) want it.'
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
 # Nitefighter BT40s: The Ultimate Bike Light Review
 
-![Nitefighter BT40s](https://i.imgur.com/nitefighter.jpg){: .align-right}
+![Nitefighter BT40s](https://i.imgur.com/nitefighter.jpg){:.align-right}
 
 ## Introduction
 
@@ -81,3 +82,10 @@ If you're serious about night riding and want the best, the Nitefighter BT40s is
 For more gear reviews, check out our [Prime Day Bike Gadgets and Accessories]({% post_url 2023-07-04-prime-day-bike-gadgets-accesories %}).
 
 Happy cycling!
+
+## Related Posts
+
+- [Mi experiencia en China: ¿Vale la pena comprar luces para bicicleta baratas?]({%- post_url 2013-01-10-my-china-experience-buying-bike-light -%})
+- [Nitefighter BT21: ¿La linterna definitiva para ciclistas nocturnos?]({%- post_url 2016-01-05-nitefighter-bt21-initial-impressions -%})
+- [Budget Bike Lights 2025: Bright Rides Without Breaking the Bank 💡🚴]({%- post_url 2025-10-08-budget-bike-lights-comparison-2025 -%})
+- [7 Essential night riding safety tips]({%- post_url 2016-01-25-essential-night-riding-safety-tips -%})

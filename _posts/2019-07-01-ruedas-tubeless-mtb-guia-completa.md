@@ -1,11 +1,12 @@
-﻿---
+---
 title: "The Ultimate Guide to MTB Tubeless Wheels"
 date: 2019-07-01
 tags: [mtb, wheels, tubeless, review]
 description: "Complete guide to MTB tubeless wheels: benefits, setup, maintenance, and top recommendations"
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![MTB Tubeless Wheels](https://example.com/image.jpg)
+![MTB Tubeless Wheels](https://example.com/image.jpg){: .align-right}
 
 ## Introduction
 
@@ -60,6 +61,13 @@ To keep your tubeless system running smoothly, follow these maintenance tips:
 
 Tubeless wheels offer a range of benefits that can significantly enhance your mountain biking experience. While the initial setup and maintenance might require some effort, the advantages of better traction, fewer flats, and reduced weight make it well worth it. So, if you're looking to upgrade your ride, tubeless is the way to go!
 
-**Pro Tip**: Keep extra sealant handyâ€”discovering your sealant dried up mid-ride is like finding your phone dead right when you need directions!
+**Pro Tip**: Keep extra sealant handy—discovering your sealant dried up mid-ride is like finding your phone dead right when you need directions!
 
 {{ site.constants.wsib }}
+
+## Posts Relacionados
+
+- [Neumáticos 2.4 MTB: La Guía Definitiva]({%- post_url 2021-12-07-neumaticos-24-mtb-review -%})
+- [Review: Ruedas de 29 Pulgadas para MTB]({%- post_url 2017-10-15-review-ruedas-29 -%})
+- [The definitive plus tire mountain bike list]({%- post_url 2017-02-21-the-definitive-plus-tire-mountain-bike-list -%})
+- [Cubierta Specialized Purgatory Control 2Bliss Ready 650bx3.0 26€ con envío gratis]({%- post_url 2017-12-01-cubierta-specialized-purgatory-control-2bliss-ready-650bx3-envio-gratis -%})

@@ -10,7 +10,7 @@ last_modified_at: '2025-07-29T14:58:02+02:00'
 description: "Review of a budget-friendly third-party Shimano brake bleed kit from Amazon"
 ---
 
-[![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}shimano-bleed-kit)
+[![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){:.align-right}]({{ site.constants.wsib }}shimano-bleed-kit)
 
 ## Introduction
 
@@ -81,3 +81,9 @@ If you're serious about maintaining your bike and ensuring top-notch brake perfo
 **Ready to transform your braking experience on a budget?** [Get your third-party Shimano bleed kit here!]({{ site.constants.wsib }}shimano-bleed-kit)
 
 Happy bleeding! 🚴‍♂️
+
+## Related Posts
+
+- [Review: The New Shimano Ultegra R8000 Groupset - A Game Changer for Cyclists]({%- post_url 2023-10-01-Shimano-Ultegra-R8000-Groupset-Review -%})
+- [Sunrace MX3 Review: Geeknite's Take on a Budget-Friendly Hero]({%- post_url 2025-04-21-sunrace-mx3-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

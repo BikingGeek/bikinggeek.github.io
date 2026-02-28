@@ -1,11 +1,12 @@
-﻿---
+---
 title: "Garmin Edge 500 Review: The Classic Champion"
 date: 2009-09-01
 tags: [garmin, edge-500, cycling, bike-computer, gps, review]
 description: "An in-depth review of the Garmin Edge 500 bike computer, its features, pros, cons, and how it stacks up against newer models."
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Garmin Edge 500](https://i.imgur.com/HQ1NFjS.jpg){: .align-right}
+![Garmin Edge 500](https://i.imgur.com/HQ1NFjS.jpg){:.align-right}
 
 Hello, fellow cyclists and tech geeks! Today we're taking a trip down memory lane with the Garmin Edge 500, a classic bike computer that has been a beloved companion for many cyclists over the years. If you're into retro tech with modern capabilities, this review is for you!
 
@@ -75,3 +76,10 @@ The **Garmin Edge 500** is like that favorite old t-shirt—comfortable, reliabl
 
 {{ site.constants.wsib }}
 
+## Related Posts
+
+- [Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%})
+- [Garmin Edge 1000 vs 810: ¿El GPS definitivo o solo más marketing?]({%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [Garmin Edge 540: The Ultimate Bike Computer for Solar Power Lovers]({%- post_url 2023-07-06-garmin-edge-540-review -%})
+- [Garmin Edge 530 vs iGPSPORT IGS630 Comparison: Premium vs Budget Bike Computer]({%- post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 -%})

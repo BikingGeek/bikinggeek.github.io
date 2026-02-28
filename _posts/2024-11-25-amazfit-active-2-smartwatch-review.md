@@ -4,9 +4,10 @@ date: 2024-11-25
 tags: [Amazfit, Smartwatch, Review, Fitness, Wearables]
 description: "Review completo del Amazfit Active 2: características, rendimiento, batería y valor por dinero. ¿Es el smartwatch perfecto para fitness?"
 excerpt: 'Análisis exhaustivo del Amazfit Active 2 con GPS integrado, +70 modos deportivos, pantalla AMOLED 1.39" y hasta 14 días de batería. Descubre si es el wearable ideal para ciclistas y runners.'
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-[![Amazfit Active 2](https://i.imgur.com/5KpGH9Pm.jpg){: .align-right}]({{ site.constants.wsib }}Amazfit Active 2)
+[![Amazfit Active 2](https://i.imgur.com/5KpGH9Pm.jpg){:.align-right}]({{ site.constants.wsib }}Amazfit Active 2)
 
 Bienvenidos a nuestra review completa del **[Amazfit Active 2]({{ site.constants.wsib }}Amazfit Active 2)**, el smartwatch que combina funcionalidades deportivas avanzadas con características smart a un precio competitivo. Si vienes del mundo del ciclismo y buscas un wearable para complementar tu [bike computer]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}), o necesitas tracking multi-deporte sin gastar en un Garmin premium, este análisis te interesa. Analizaremos diseño, prestaciones de seguimiento fitness, autonomía y relación calidad-precio para determinar si representa una opción viable frente a competidores como el [Huawei Fit 4 Pro]({%- post_url 2024-11-23-huawei-fit-4-vs-fit-4-pro-comparison -%}).
 
@@ -14,10 +15,10 @@ Bienvenidos a nuestra review completa del **[Amazfit Active 2]({{ site.constants
 
 The first thing you'll notice about the [Amazfit Active 2]({{ site.constants.wsib }}Amazfit Active 2) is its sleek and modern design. The watch features a vibrant **1.32-inch AMOLED display** (466 x 466 pixels, 353 PPI) with impressive resolution and brightness (up to 550 nits), encased in a durable yet lightweight aluminum alloy body. Weighing just **36 grams** (without strap), it's incredibly comfortable for all-day wear and won't feel bulky during cycling or running.
 
-**Dimensiones:** 46.3 x 46.3 x 10.9 mm  
-**Peso:** 36g (sin correa), 59g (con correa)  
-**Pantalla:** 1.32" AMOLED, 466x466 pixels, 353 PPI, hasta 550 nits  
-**Materiales:** Aluminio aerospace-grade + vidrio templado 2.5D  
+**Dimensiones:** 46.3 x 46.3 x 10.9 mm 
+**Peso:** 36g (sin correa), 59g (con correa) 
+**Pantalla:** 1.32" AMOLED, 466x466 pixels, 353 PPI, hasta 550 nits 
+**Materiales:** Aluminio aerospace-grade + vidrio templado 2.5D 
 **Resistencia:** 5ATM (50 metros) + IP69K (resistencia a polvo y agua a presión)
 
 The silicone strap (22mm standard width) is comfortable for all-day wear with quick-release mechanism for easy swapping, and the overall aesthetic is both sporty and professional, making it suitable for any occasion - from your morning mountain bike ride to office meetings.
@@ -194,19 +195,19 @@ El [Amazfit Active 2]({{ site.constants.wsib }}Amazfit Active 2) representa una 
 
 ### Puntos Fuertes (Strengths)
 
-✅ **Batería imbatible:** 14 días típico, 24h GPS continuo - perfecto para bikepacking  
-✅ **GPS preciso:** 5 sistemas satelitales (GPS/GLONASS/Galileo/BDS/QZSS)  
-✅ **Pantalla brillante:** 550 nits AMOLED con excelente visibilidad outdoor  
-✅ **Métricas avanzadas:** VO2 Max, Training Load, PAI score  
-✅ **Música offline:** 4GB storage para workouts sin teléfono  
+✅ **Batería imbatible:** 14 días típico, 24h GPS continuo - perfecto para bikepacking 
+✅ **GPS preciso:** 5 sistemas satelitales (GPS/GLONASS/Galileo/BDS/QZSS) 
+✅ **Pantalla brillante:** 550 nits AMOLED con excelente visibilidad outdoor 
+✅ **Métricas avanzadas:** VO2 Max, Training Load, PAI score 
+✅ **Música offline:** 4GB storage para workouts sin teléfono 
 ✅ **Precio competitivo:** €199-229 vs €400+ en Garmin equivalente
 
 ### Limitaciones (Weaknesses)
 
-❌ **Sin NFC:** No pagos contactless (deal-breaker para algunos)  
-❌ **Sin apps de terceros:** No Strava nativo, Komoot, etc.  
-❌ **Sin sensores externos:** No puedes conectar chest strap HR o power meter  
-❌ **Zepp app mejorable:** Interfaz algo desordenada comparado con Garmin Connect  
+❌ **Sin NFC:** No pagos contactless (deal-breaker para algunos) 
+❌ **Sin apps de terceros:** No Strava nativo, Komoot, etc. 
+❌ **Sin sensores externos:** No puedes conectar chest strap HR o power meter 
+❌ **Zepp app mejorable:** Interfaz algo desordenada comparado con Garmin Connect 
 ❌ **Alexa limitado:** Requiere conexión Bluetooth al móvil para funcionar
 
 ### ¿Para Quién es el Amazfit Active 2?

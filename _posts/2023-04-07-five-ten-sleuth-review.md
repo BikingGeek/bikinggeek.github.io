@@ -2,9 +2,11 @@
 title: "Five Ten Sleuth Review: The Ultimate Casual MTB Shoe"
 date: '2023-04-07'
 tags: ['Five Ten', 'Sleuth', 'MTB', 'shoe', 'review', 'funny']
+last_modified_at: '2026-02-27T00:00:00+01:00'
+description: "Five Ten Sleuth MTB shoes long-term review. Flat pedal shoes with excellent grip, comfort and durability tested over months of mountain biking trails."
 ---
 
-[![Five Ten Sleuth](https://i.imgur.com/aVmMKxvm.jpg){: .align-right}]({{ site.constants.wsib }}Five Ten Sleuth)
+[![Five Ten Sleuth](https://i.imgur.com/aVmMKxvm.jpg){:.align-right}]({{ site.constants.wsib }}Five Ten Sleuth)
 
 ## Introduction
 
@@ -48,7 +50,7 @@ One of the best things about the Five Ten Sleuth is its versatility. These shoes
 
 At around $90, the Sleuth is reasonably priced for a quality MTB shoe. Considering its durability, performance, and style, it's a great investment for both seasoned riders and newbies.
 
-**Pro Tip**: Keep an eye out for sales and discount codes on sites like Chain Reaction Cycles or eBay. You might snag a pair for even less【4†source】【9†source】【10†source】.
+**Pro Tip**: Keep an eye out for sales and discount codes on sites like Chain Reaction Cycles or eBay. You might snag a pair for even less.
 
 ## Conclusion
 
@@ -63,3 +65,9 @@ Other posts you might like:
 - [Five Ten Sleuth Half Priced Deal]({%- post_url 2017-11-30-mtb-shoes-five-ten-sleuth-half-priced -%})
 - [MTB XC vs Trail Geometry Differences]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
 - [Garmin Edge 540 Review]({%- post_url 2023-07-06-garmin-edge-540-review -%})
+
+## Related Posts
+
+- [MTB Shoes Five Ten Sleuth: ¿Una ganga o una decepción?]({%- post_url 2017-11-30-mtb-shoes-five-ten-sleuth-half-priced -%})
+- [Las Mejores Zapatillas de Skate en 2025]({%- post_url 2021-04-24-zapatillas-de-skate -%})
+- [Las Mejores Zapatillas de Fútbol Sala en 2025]({%- post_url 2025-02-25-zapatillas-futbol-sala -%})

@@ -15,7 +15,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos las tendencias más emocionantes de las MTB 2017. ¿Qué innovaciones traerán marcas como Canyon, YT y Marin? ¡Descúbrelo aquí!"
 ---
 
-[![Marin Hawk Hill](https://4.bp.blogspot.com/-Vy4nJmSNtCQ/V-7e-UB77QI/AAAAAAAAA14/v3ylqn59b5ESGbQ0f5ZLRCgqBwcgs89UACLcB/s640/2017-Marin-Hawk-Hill-full-suspension-mountain-bike.jpg){: .align-right}]({{ site.constants.wsib }}mtb)
+[![Marin Hawk Hill](https://4.bp.blogspot.com/-Vy4nJmSNtCQ/V-7e-UB77QI/AAAAAAAAA14/v3ylqn59b5ESGbQ0f5ZLRCgqBwcgs89UACLcB/s640/2017-Marin-Hawk-Hill-full-suspension-mountain-bike.jpg){:.align-right}]({{ site.constants.wsib }}mtb)
 
 ### ¿Qué esperamos de las MTB 2017?
 
@@ -45,3 +45,11 @@ Aunque hay opciones más asequibles, las bicicletas de gama alta siguen siendo p
 Las MTB 2017 prometen mucho, pero también plantean preguntas importantes sobre el futuro de la industria. ¿Qué opinas? ¿Crees que estas tendencias son emocionantes o simplemente ruido? Déjanos tu comentario abajo.
 
 **Pro Tip:** Si estás pensando en actualizar tu bicicleta, no te pierdas nuestra [guía de componentes para MTB]({%- post_url 2017-12-05-change-your-geometry-with-offset-bushings -%}).
+
+## Related Posts
+
+- [Canyon Nerve Review: A Fun Ride or a Nerve-Wrecking Experience?]({%- post_url 2014-11-18-canyon-nerve-trail-bike-review -%})
+- [Las mejores MTB según presupuesto calidad/precio (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%})
+- [YT Jeffsy review: Pros y contras. Debería comprarla?]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%})
+- [Canyon Strive 2017 review: Pros y contras. Debería comprarla?]({%- post_url 2017-04-11-canyon-strive-2017-review-pros-contras-deberia-comprarla -%})
+- [Mondraker Vantage Review: The Do-It-All MTB]({%- post_url 2021-07-27-mondraker-vantage-do-it-all-mtb-review -%})

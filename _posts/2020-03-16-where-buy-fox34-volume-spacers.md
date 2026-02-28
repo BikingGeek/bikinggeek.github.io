@@ -1,11 +1,12 @@
 ---
 
-title:  "Where to buy Fox 34 Volume Spacers"
-date:   2020-03-16 17:00:00 +0200
+title: "Where to buy Fox 34 Volume Spacers"
+date: 2020-03-16 17:00:00 +0200
 tags: mtb components fox offers
 redirect_from:
-    - /2020/03/where-to-buy-fox-34-volume-spacers.html
+ - /2020/03/where-to-buy-fox-34-volume-spacers.html
 description: "Learn about fork spacers and how they affect your bike's handling. Find a Fox 34 volume spacer kit at these online stores."
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
 Fork spacers are components that are used to adjust the distance between the upper and lower fork tubes on a suspension fork. They are typically made of metal or plastic and are inserted between the top of the lower fork tube and the bottom of the upper fork tube.
@@ -29,3 +30,16 @@ Your second best option is to go on [ebay](https://rover.ebay.com/rover/1/1185-5
 [Bikeshop](https://www.bikeshop.es/espaciador-de-volumen-de-10-cc-para-horquilla-fox-racing-shox-34-float-lt-2016-234-04-950/135414.html){: rel="nofollow"} also has stock but even at higher price.
 
 If you are a store and sell them let us know, they are pretty hard to find!
+
+
+## Where to Buy
+
+You can find the best price here: [**Fox 34 volume spacers**]({{ site.constants.wsib }}Fox 34 volume spacers)
+
+{{ site.constants.wsib }}
+
+## Related Posts
+
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})

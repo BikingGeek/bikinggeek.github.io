@@ -7,7 +7,7 @@ last_modified_at: '2025-08-13T10:00:00+02:00'
 excerpt: "Discover the iGPSPORT BSC300 bike computer in our detailed review. Learn about real-world performance, battery life, GPS accuracy, and how it compares to Garmin Edge alternatives."
 ---
 
-[![iGPSPORT BSC300 Budget Bike Computer](https://m.media-amazon.com/images/I/61iiRnZ7ylL._UF894,1000_QL80_.jpg){: style="float: right; max-width: 300px;" alt="Affordable bike computer for recreational cycling"}]({{ site.constants.wsib }}iGPSPORT BSC300)
+[![iGPSPORT BSC300 Budget Bike Computer](https://m.media-amazon.com/images/I/61iiRnZ7ylL._UF894,1000_QL80_.jpg){: .align-right}]({{ site.constants.wsib }}iGPSPORT BSC300)
 
 Are you looking for a new bike computer that can measure your speed, cadence, heart rate, and more? Do you want a device that is easy to use, reliable, and compatible with your favorite apps like Strava and Garmin Connect? If so, you might be interested in the new iGPSPORT BSC300, a wireless bike computer that offers a lot of features for a reasonable price.
 
@@ -27,7 +27,7 @@ The [iGPSPORT BSC300 costs around $150]({{ site.constants.wsib }}igpsport bsc300
 
 {% include amazon.html asin="B0C4KLCD4D" imageUrl="https://m.media-amazon.com/images/I/61iiRnZ7ylL._UF894,1000_QL80_.jpg" %}
 
-[![iGPSPORT BSC300](https://i.imgur.com/OoctZWAm.png){: .align-right}]({{ site.constants.wsib }}iGPSPORT BSC300)
+[![iGPSPORT BSC300](https://i.imgur.com/OoctZWAm.png){:.align-right}]({{ site.constants.wsib }}iGPSPORT BSC300)
 
 ## Real-World Experience: A Year of Testing
 
@@ -98,3 +98,11 @@ If you are interested in buying the iGPSPORT BSC300 or any of the other bike com
 I hope you found this post helpful and informative. If you have any questions or comments, feel free to leave them below or contact me via email or social media. I would love to hear from you and help you out.
 
 Happy cycling! 🚴‍♂️
+
+## Related Posts
+
+- [Discovering the iGPSPORT IGS630: A Feature-Packed GPS Marvel]({%- post_url 2022-04-01-igpsport-igs630-first-impressions -%})
+- [iGPSPORT iGS630: A Great Value GPS Bike Computer with Minor Flaws]({%- post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws -%})
+- [Garmin Edge 530 vs iGPSPORT IGS630 Comparison: Premium vs Budget Bike Computer]({%- post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 -%})
+- [iGPSPORT iGS800 vs BSC300T: The Ultimate Bike Computer Showdown!]({%- post_url 2025-04-20-igpsport-igs800-vs-bsc300t-review -%})
+- [iGPSPORT BSC300T Review: A Smart and Affordable Bike Sensor]({%- post_url 2025-04-21-igpsport-bsc300t-review -%})

@@ -12,7 +12,7 @@ last_modified_at: '2024-05-12T00:00:00+02:00'
 description: "Discover why the new Shimano Ultegra R8000 Groupset is a game changer for cyclists. Read our in-depth review and find out if it's worth the investment."
 ---
 
-[![Shimano Ultegra R8000 Groupset](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}shimano-ultegra-r8000)
+[![Shimano Ultegra R8000 Groupset](https://i.imgur.com/UmrVWy4m.jpg){:.align-right}]({{ site.constants.wsib }}shimano-ultegra-r8000)
 
 ## Introduction
 
@@ -65,3 +65,9 @@ The Shimano Ultegra R8000 Groupset is a game changer for cyclists. It offers a s
 If you're interested in purchasing the Shimano Ultegra R8000 Groupset, [you can check it out here]({{ site.constants.wsib }}shimano-ultegra-r8000). As always, we recommend buying from trusted online stores to ensure you get a genuine product.
 
 Happy cycling! 🚴‍♂️
+
+## Related Posts
+
+- [BBLTIFF Shimano Bleed Kit Review]({%- post_url 2025-07-29-bleed-kit-shimano-review -%})
+- [Sunrace MX3 Review: Geeknite's Take on a Budget-Friendly Hero]({%- post_url 2025-04-21-sunrace-mx3-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

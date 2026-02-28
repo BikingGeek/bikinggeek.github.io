@@ -24,11 +24,11 @@ description: "Análisis en profundidad de la GoPro HERO4 Session y su lugar en e
 
 Si buscas una cámara de acción, la GoPro HERO4 Session destaca por su tamaño compacto y resistencia, pero ¿es la mejor opción? Aquí tienes una comparativa con los modelos más populares y links a reviews detalladas:
 
-| Modelo                | Precio en Amazon | Pantalla táctil | Protune | Fotografía secuencial |
+| Modelo | Precio en Amazon | Pantalla táctil | Protune | Fotografía secuencial |
 |-----------------------|------------------|-----------------|---------|-----------------------|
-| GoPro Hero4 Black     | [Ver en Amazon]({{ site.constants.wsib }}GoPro%20Hero4%20Black) | ✅ | ✅ | ✅ |
-| GoPro Hero4 Silver    | [Ver en Amazon]({{ site.constants.wsib }}GoPro%20Hero4%20Silver) | ✅ | ✅ | ✅ |
-| GoPro HERO4 Session   | [Ver en Amazon]({{ site.constants.wsib }}GoPro%20HERO4%20Session) | ❌ | ✅ | ❌ |
+| GoPro Hero4 Black | [Ver en Amazon]({{ site.constants.wsib }}GoPro%20Hero4%20Black) | ✅ | ✅ | ✅ |
+| GoPro Hero4 Silver | [Ver en Amazon]({{ site.constants.wsib }}GoPro%20Hero4%20Silver) | ✅ | ✅ | ✅ |
+| GoPro HERO4 Session | [Ver en Amazon]({{ site.constants.wsib }}GoPro%20HERO4%20Session) | ❌ | ✅ | ❌ |
 
 ### Pros y contras de la HERO4 Session
 
@@ -52,3 +52,9 @@ Aunque la HERO4 Session tiene sus méritos, otras cámaras de la misma gama y al
 ¿Quieres comparar más modelos? Consulta la [guía de gadgets y cámaras deportivas]({%- post_url 2013-01-29-los-mejores-regalos-para-un-ciclista -%}) y las últimas reviews en el blog.
 
 **Gracias por seguirnos.** Y recuerda, no compres una cámara solo porque es pequeña. ¡A veces, el tamaño sí importa!
+
+## Posts Relacionados
+
+- [GoPro Hero4 Session: ¿La cámara de acción definitiva o solo otra moda?]({%- post_url 2016-07-27-gopro-hero4-session-review -%})
+- [H9 action cam review, primeras impresiones]({%- post_url 2017-01-02-h9-action-cam-review-primeras-impresiones -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

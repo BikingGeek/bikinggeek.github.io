@@ -25,7 +25,7 @@ Aunque la calidad es innegable, el precio puede ser un obstáculo para algunos. 
 
 Después de años de uso, uno de los tornillos se llenó de suciedad y terminó redondeándose. Aunque esto podría ser un error del usuario, es decepcionante en un producto de alta calidad.
 
-![ODI X-Treme Grips](https://2.bp.blogspot.com/-uJe-qWm2bnQ/V1U7OjcEOiI/AAAAAAAAAzg/6OsmgboVpkU7XHGRiQpIjqmneWf2NWSnwCLcB/s200/odi%2Bx-treme%2Bgrips%2Bpackage.jpg)
+![ODI X-Treme Grips](https://2.bp.blogspot.com/-uJe-qWm2bnQ/V1U7OjcEOiI/AAAAAAAAAzg/6OsmgboVpkU7XHGRiQpIjqmneWf2NWSnwCLcB/s200/odi%2Bx-treme%2Bgrips%2Bpackage.jpg){: .align-right}
 
 ### Conclusión: ¿Deberías comprarlos?
 
@@ -34,3 +34,9 @@ Si priorizas el agarre y la durabilidad sobre el confort y el precio, los ODI X-
 {% include amazon.html asin="B09XX5FVHJ" %}
 
 **¿Qué opinas? ¿Has probado estos puños? Déjanos tu comentario abajo.**
+
+## Related Posts
+
+- [Foam Grips Review: Comfort, Durability, and Beyond]({%- post_url 2015-04-15-foam-grips-cycling-review -%})
+- [Supacaz Grizips Lock on grips long term review]({%- post_url 2017-07-20-supacaz-grizips-lock-on-grips-long-term-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

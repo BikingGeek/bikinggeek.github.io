@@ -19,7 +19,7 @@ The **iGPSPORT BSC300** is a compact and affordable bike computer that offers es
 
 ## *In the Right Corner: BSC300T*
 
-![BSC300T Touchscreen](https://m.media-amazon.com/images/I/61w86GKGkKL._AC_SX425_.jpg){: style="float: right; max-width: 200px; margin-left: 15px;" alt="Modern touchscreen bike computer with advanced features"}
+![BSC300T Touchscreen](https://m.media-amazon.com/images/I/61w86GKGkKL._AC_SX425_.jpg){: .align-right}
 
 The **BSC300T** is the upgraded version, bringing additional features like more sensor compatibility and enhanced navigation capabilities. It's designed for cyclists who want a bit more from their device without breaking the bank. For a detailed analysis of the BSC300T's performance, read our [in-depth BSC300T review]({% post_url 2025-04-21-igpsport-bsc300t-review %}).
 
@@ -156,3 +156,11 @@ Choose the BSC300T if:
 *Happy riding, and may your bike adventures be filled with laughter and unforgettable moments!* 🚵‍♂️💨
 
 *Until next time, fellow cyclists!*
+
+## Related Posts
+
+- [Discovering the iGPSPORT IGS630: A Feature-Packed GPS Marvel]({%- post_url 2022-04-01-igpsport-igs630-first-impressions -%})
+- [iGPSPORT iGS630: A Great Value GPS Bike Computer with Minor Flaws]({%- post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws -%})
+- [iGPSPORT BSC300 Review: A Smart and Affordable Bike Computer]({%- post_url 2023-06-27-igpsport-bsc300-review-smart-affordable-bike-sensor -%})
+- [Garmin Edge 530 vs iGPSPORT IGS630 Comparison: Premium vs Budget Bike Computer]({%- post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 -%})
+- [iGPSPORT iGS800 vs BSC300T: The Ultimate Bike Computer Showdown!]({%- post_url 2025-04-20-igpsport-igs800-vs-bsc300t-review -%})

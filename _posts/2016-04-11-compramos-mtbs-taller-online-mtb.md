@@ -31,7 +31,7 @@ Seamos claros, no estamos interesados en bicicletas que parecen haber sobrevivid
 
 El mercado de bicicletas de segunda mano puede ser un campo minado. Desde precios inflados hasta componentes en mal estado, encontrar una buena oferta puede ser un desafío. Pero no te preocupes, nosotros nos encargamos de todo.
 
-[![Canyon Nerve restaurada](https://3.bp.blogspot.com/-kgN-Zk3PtZc/Vwu9E3CEusI/AAAAAAAAAxw/8MYUKqaZcGIk8oKEz5qiJm6kGNjedPZSA/s320/custom%2Bnerve%2B2010%2Bputinyourbasket.jpg){: .align-right}]({{ site.constants.wsib }}mtb)
+[![Canyon Nerve restaurada](https://3.bp.blogspot.com/-kgN-Zk3PtZc/Vwu9E3CEusI/AAAAAAAAAxw/8MYUKqaZcGIk8oKEz5qiJm6kGNjedPZSA/s320/custom%2Bnerve%2B2010%2Bputinyourbasket.jpg){:.align-right}]({{ site.constants.wsib }}mtb)
 
 ### Conclusión: ¿Vale la pena?
 
@@ -40,3 +40,11 @@ Si tienes una MTB que ya no usas, esta es tu oportunidad de darle una segunda vi
 {% include amazon.html asin="B09XX5FVHJ" %}
 
 **¿Qué opinas? ¿Te animas a vender o comprar una MTB con nosotros? Déjanos tu comentario abajo.**
+
+## Posts Relacionados
+
+- [Canyon Nerve Review: A Fun Ride or a Nerve-Wrecking Experience?]({%- post_url 2014-11-18-canyon-nerve-trail-bike-review -%})
+- [Las mejores MTB según presupuesto calidad/precio (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%})
+- [YT Jeffsy review: Pros y contras. Debería comprarla?]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%})
+- [¿Qué esperamos de las MTB 2017? ¡Descubre las tendencias más emocionantes!]({%- post_url 2016-10-01-what-are-we-expecting-for-2017-mtb-brands-lineup -%})
+- [Canyon Strive 2017 review: Pros y contras. Debería comprarla?]({%- post_url 2017-04-11-canyon-strive-2017-review-pros-contras-deberia-comprarla -%})

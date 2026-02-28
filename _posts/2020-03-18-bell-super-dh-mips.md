@@ -1,13 +1,15 @@
 ---
 
-title:  "Donde comprar el casco Bell Super DH MIPS"
-date:   2020-03-18 17:00:00 +0200
+title: "Donde comprar el casco Bell Super DH MIPS"
+date: 2020-03-18 17:00:00 +0200
 tags: mtb helmet bell dh offers
 redirect_from:
-    - /2020/03/donde-comprar-casco-bell-super-dh-mips.html
+ - /2020/03/donde-comprar-casco-bell-super-dh-mips.html
+last_modified_at: '2026-02-27T00:00:00+01:00'
+description: "Bell Super DH MIPS helmet review. Full analysis of this convertible full-face MTB helmet with detachable chin bar, MIPS protection and trail versatility."
 ---
 
-<a rel="nofollow" href='https://www.awin1.com/cread.php?awinmid=1857&awinaffid=364849&clickref=&p=https%3a%2f%2fwww.wiggle.es%2fcasco-bell-super-dh-mips%2f'><img style="float: right;" src="https://i.imgur.com/KwXLbGm.jpg"></a>
+[![](https://i.imgur.com/KwXLbGm.jpg){: .align-right}](https://www.awin1.com/cread.php?awinmid=1857&awinaffid=364849&clickref=&p=https%3a%2f%2fwww.wiggle.es%2fcasco-bell-super-dh-mips%2f)
 
 El casco Bell Super DH es la evolución del Bell Super R3 para descenso, un casco de los más premium especialmente por su precio cercano a los 200€, que integra tecnología MIPS y mentón extraíble, seguramente es uno de los cascos más deseados en general. Su versión certificada para DH para los riders más agresivos es un casco apropiado para park y enduro agresivo, con un ajuste muy cómo y una ventilación excelente con canal de sudor.
 
@@ -25,3 +27,16 @@ En alemania, buscando en [amazonde](<https://www.amazon.de/Unisex-Erwachsene-SUP
 | Bell Casco Super DH MIPS | bikecompde | 228.78€ |
 | Casco de descenso Bell Super DH MIPS | chainreaction | 246.99€ |
 | Casco Bell Super DH MIPS azul amarillo flúor | deporvillage | 247€ |
+
+
+## Where to Buy
+
+You can find the best price here: [**Bell Super DH MIPS**]({{ site.constants.wsib }}Bell Super DH MIPS)
+
+{{ site.constants.wsib }}
+
+## Related Posts
+
+- [Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders]({%- post_url 2023-07-18-bluegrass-rogue-helmet-review -%})
+- [Fox Launch Pro: The Ultimate MTB Knee Pad Review]({%- post_url 2020-06-11-fox-launch-pro-knee-pads-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

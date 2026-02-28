@@ -1,15 +1,15 @@
 ---
 
-title:  "Selle Italia Q-bik Flow review"
-date:   2017-01-27 17:00:00 +0200
+title: "Selle Italia Q-bik Flow review"
+date: 2017-01-27 17:00:00 +0200
 tags: mtb sillín saddle selle-italia review
 redirect_from:
-    - /2017/01/selle-italia-q-bik-flow-review.html
+ - /2017/01/selle-italia-q-bik-flow-review.html
 last_modified_at: '2023-07-06T00:00:00+02:00'
 description: "Reseña a largo plazo de las gafas de sol Tifosi Seek - Una revisión y evaluación exhaustiva de las gafas de sol Tifosi Seek después de un uso prolongado."
 ---
 
-<a href='{{ site.constants.wsib }}q-bik'><img style="float: right;" src="https://1.bp.blogspot.com/-GJAHvSZvv0s/WIuxl2lqn4I/AAAAAAAAA7U/gbmjqmkbrXI-Rf1hMihihWnxrr40NzR1QCLcB/s320/selle%2Bitalia%2Bq-bik%2Bflow.jpg"></a>
+[![](https://1.bp.blogspot.com/-GJAHvSZvv0s/WIuxl2lqn4I/AAAAAAAAA7U/gbmjqmkbrXI-Rf1hMihihWnxrr40NzR1QCLcB/s320/selle%2Bitalia%2Bq-bik%2Bflow.jpg){: .align-right}]({{ site.constants.wsib }}q-bik)
 
 Tengo el sillín [Selle Italia Q-bik Flow]({{ site.constants.wsib }}q-bik) desde 2011 cuando compré mi Canyon y lo llevé durante muchos kilómteros, sobretodo teniendo en cuenta lo que siempre me dijo mi tío aficionado al ciclismo, "**si te duele el culo es porque todavía no se te ha hecho el 'callo'**", al ir en MTB de una forma poco continuada, como ciclista de fin de semana principalmente, siempre he pensado que el problema era mío por tener no tener las suficientes horas de sillín como mi tío.
 
@@ -39,3 +39,9 @@ Depende, si lo que buscas es un sillín barato para cubrir a otro para una bici 
 - Hay marcas que no defraudan y si encontramos algún modelo de gama alta con descuento ya sea por ser de la temporada pasada o en una oferta online puede ser nuestra mejor opción, [Selle Italia]({{ site.constants.wsib }}Selle%20Italia), [Fizik]({{ site.constants.wsib }}fizik), [Prologo]({{ site.constants.wsib }}Prologo) o [WTB]({{ site.constants.wsib }}wtb) son marcas que hacen productos muy buenos y pueden ser buenas opciones a tener en cuenta.
 
 En cuanto a sillines podemos decir que cada "culo es un mundo", pero en general cuanto más gastemos más comodidad tendremos, por ello también tendremos que complementar bien el equipo con un buen culotte, por ello la mejor opción es **esperar a ofertas hasta que encontremos un modelo que nos guste y nos sea cómodo**, seguramente tendréis que probar más de uno hasta encontrar el definitivo, y es que en según qué cosas vale la pena gastarse un poco más.
+
+## Related Posts
+
+- [Selle Italia Saddle Review: Everything You Need to Know]({%- post_url 2024-09-08-selle-italia-saddle-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})

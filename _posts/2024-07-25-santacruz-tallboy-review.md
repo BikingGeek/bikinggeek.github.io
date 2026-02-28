@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Santa Cruz Tallboy: The Ultimate Trail Companion"
 date: 2024-07-25
 tags: [Santa Cruz, Tallboy, MTB, Review, Cycling]
@@ -6,7 +6,7 @@ description: "Explore the features, pros, cons, and funny quirks of the Santa Cr
 last_modified_at: "2026-01-17T12:00:00+01:00"
 ---
 
-[![Santa Cruz Tallboy](https://i.imgur.com/6JDDmDgm.jpeg){: .align-right}]({{ site.constants.wsib }}tallboy)
+[![Santa Cruz Tallboy](https://i.imgur.com/6JDDmDgm.jpeg){:.align-right}]({{ site.constants.wsib }}tallboy)
 
 Hey there, biking geeks and trail warriors! Today, we're taking a deep dive into the **Santa Cruz Tallboy**—a bike that's been making waves in the MTB community. This isn't just any bike; it's the ultimate trail companion for those who want to conquer mountains, blaze through forests, and maybe even impress their riding buddies. So, grab your snacks, because this review is going to be epic!
 
@@ -101,3 +101,11 @@ The Santa Cruz Tallboy is a remarkable trail bike that offers everything you nee
 If you're serious about trail riding and want a reliable, feature-packed bike, the Santa Cruz Tallboy is definitely worth considering. Click [here](https://www.amazon.com/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}) to purchase the Santa Cruz Tallboy and take your rides to the next level!
 
 **Ready to conquer the trails? Get the Santa Cruz Tallboy now and ride like a pro!**
+
+## Related Posts
+
+- [Canyon Nerve Review: A Fun Ride or a Nerve-Wrecking Experience?]({%- post_url 2014-11-18-canyon-nerve-trail-bike-review -%})
+- [Las mejores MTB según presupuesto calidad/precio (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%})
+- [YT Jeffsy review: Pros y contras. Debería comprarla?]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%})
+- [¿Qué esperamos de las MTB 2017? ¡Descubre las tendencias más emocionantes!]({%- post_url 2016-10-01-what-are-we-expecting-for-2017-mtb-brands-lineup -%})
+- [Canyon Strive 2017 review: Pros y contras. Debería comprarla?]({%- post_url 2017-04-11-canyon-strive-2017-review-pros-contras-deberia-comprarla -%})

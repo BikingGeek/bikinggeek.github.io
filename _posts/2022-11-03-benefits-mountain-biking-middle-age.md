@@ -1,14 +1,13 @@
 ---
 
-title:  "Benefits of mountain biking for the middle aged"
-date:   2022-11-03 17:00:00 +0200
+title: "Benefits of mountain biking for the middle aged"
+date: 2022-11-03 17:00:00 +0200
 tags: mtb cycling health
 description: "The Benefits of Mountain Biking in Middle Age - Discover the advantages and joys of mountain biking for individuals in their middle age."
 last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
-<img style="float: right;" src="https://i.imgur.com/rVACFNqm.jpg" />
-
+[![](https://i.imgur.com/rVACFNqm.jpg){: .align-right}]({{ site.constants.wsib }}mountain bike)
 As we saw a few years ago there are three key characteristics of mountain biking that make it [a viable form of exercise and a healthy one for everyone]({% post_url 2019-11-15-benefits-mountain-biking %}). However, today we will focus on how mountain biking can provide a number of benefits for people in middle age. In this article, we will discuss the following:
 
 1. **Cardiovascular health**: Mountain biking is a cardiovascular activity that can improve heart health, lower blood pressure, and increase stamina. This is especially important for middle-aged individuals, as the risk of heart disease and other health issues increases with age.
@@ -30,3 +29,17 @@ There are a number of benefits of mountain biking as we have discussed. The only
 Overall, mountain biking can be a great form of exercise for middle-aged individuals looking to improve their physical and mental health. Whether you're a seasoned rider or new to the sport, mountain biking offers a range of benefits that can help you stay active, healthy, and happy as you age.
 
 And remember, as we all get older we will all face **our own different health challenges**. So, if you are in your mid-40s, 40s, 50s or even your 50s and above and you are concerned about your current health, then mountain biking can offer a form of exercise that could offer some benefits.
+
+
+## Where to Buy
+
+You can find the best price here: [**mountain bike**]({{ site.constants.wsib }}mountain bike)
+
+{{ site.constants.wsib }}
+
+## Related Posts
+
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})
+- [MTB Progression welcome]({%- post_url 2018-10-07-mtb-progression-welcome -%})
+- [Home Gym Workouts for MTB: Alternative Winter Training That Works]({%- post_url 2026-02-10-home-gym-workouts-mtb-winter-training -%})
+- [Sé un maestro del pumping sin una pista de bombeo]({%- post_url 2016-02-26-be-master-at-pumping-without-pump-track -%})

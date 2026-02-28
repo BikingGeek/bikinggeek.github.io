@@ -29,7 +29,7 @@ Aunque el concepto es simple (pesar tu bicicleta en los descensos para ganar vel
 
 Después de probar el ciclismo nocturno con una [Nitefighter BT21]({%- post_url 2016-01-05-nitefighter-bt21-initial-impressions -%}), descubrí que la luz puede ayudarte a detectar pequeños baches gracias a las sombras que proyecta. Pero seamos honestos, montar de noche es peligroso. Asegúrate de leer nuestros [consejos de seguridad para ciclismo nocturno]({%- post_url 2016-01-25-essential-night-riding-safety-tips -%}) antes de intentarlo.
 
-![Pumping en acción](https://1.bp.blogspot.com/-CJjr1YTzy6I/VtBHWVIzg7I/AAAAAAAAAus/Jl0991E1JZA/s320/600_337630682%255B1%255D.jpeg)
+![Pumping en acción](https://1.bp.blogspot.com/-CJjr1YTzy6I/VtBHWVIzg7I/AAAAAAAAAus/Jl0991E1JZA/s320/600_337630682%255B1%255D.jpeg){: .align-right}
 
 ### Conclusión: ¿Vale la pena el esfuerzo?
 
@@ -38,3 +38,10 @@ El pumping es como aprender a tocar la guitarra: parece fácil hasta que lo inte
 {% include amazon.html asin="B09XX5FVHJ" %}
 
 **¿Qué opinas? ¿Has intentado dominar el pumping? Déjanos tu comentario abajo.**
+
+## Related Posts
+
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})
+- [Benefits of mountain biking for the middle aged]({%- post_url 2022-11-03-benefits-mountain-biking-middle-age -%})
+- [MTB Progression welcome]({%- post_url 2018-10-07-mtb-progression-welcome -%})
+- [Home Gym Workouts for MTB: Alternative Winter Training That Works]({%- post_url 2026-02-10-home-gym-workouts-mtb-winter-training -%})

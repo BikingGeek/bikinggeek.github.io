@@ -4,9 +4,10 @@ date: 2025-09-15
 tags: [cycling, fall, maintenance, gear, preparation, mtb, seasonal]
 description: "Complete guide to preparing your bike and gear for fall cycling season. Essential maintenance tips, clothing recommendations, and equipment upgrades for autumn rides."
 excerpt: "As temperatures drop and leaves change color, it's time to prep your bike for fall riding! Discover essential maintenance tips, gear upgrades, and clothing recommendations for epic autumn cycling adventures."
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-[![Fall Cycling Preparation](https://i.imgur.com/XYZ123m.jpg){: .align-right}]({{ site.constants.wsib }}fall cycling gear)
+[![Fall Cycling Preparation](https://i.imgur.com/XYZ123m.jpg){:.align-right}]({{ site.constants.wsib }}fall cycling gear)
 
 Fall is here, and that means it's time to get your cycling setup ready for the best riding season of the year! 🍁 The temperatures are perfect, the trails are less crowded, and the scenery is absolutely stunning. But before you head out, let's make sure your bike and gear are ready for those crisp autumn rides.
 
@@ -214,15 +215,15 @@ Start your ride freezing in full layers, end up stopping 20 minutes later to str
 
 Before every fall ride, run through this quick checklist:
 
-✅ Lights charged and mounted (front + rear)  
-✅ Brakes tested and responsive  
-✅ Tire pressure checked and adjusted  
-✅ Weather-appropriate layers packed  
-✅ Emergency jacket in pack  
-✅ Bike computer charged and mounted  
-✅ Trail conditions checked online  
-✅ Someone knows your route and ETA  
-✅ Phone charged and stored safely  
+✅ Lights charged and mounted (front + rear) 
+✅ Brakes tested and responsive 
+✅ Tire pressure checked and adjusted 
+✅ Weather-appropriate layers packed 
+✅ Emergency jacket in pack 
+✅ Bike computer charged and mounted 
+✅ Trail conditions checked online 
+✅ Someone knows your route and ETA 
+✅ Phone charged and stored safely 
 ✅ Nutrition and hydration ready
 
 ## Fall Events and Group Rides
@@ -256,3 +257,9 @@ Looking for more cycling prep and gear info? Check these out:
 - [Mi Equipación Favorita MTB]({% post_url 2016-04-27-mi-equipacion-favorita-mtb-2016-ideas-regalos-ciclistas %}) - Gear recommendations (Spanish)
 
 Happy fall riding, and may your trails be leaf-free and your lights always charged! 🚵‍♂️🍁
+
+## Related Posts
+
+- [Winter Cycling Clothing Guide 2025: Stay Warm Without Breaking the Bank 🥶🚴]({%- post_url 2025-11-12-winter-cycling-clothing-guide-budget -%})
+- [Black Friday Cycling Deals 2025: Best Bike Tech and Gear Sales 🎉🚴]({%- post_url 2025-11-25-black-friday-cycling-deals-2025 -%})
+- [Prime Day Bike Gadgets and Accessories]({%- post_url 2023-07-04-prime-day-bike-gadgets-accesories -%})

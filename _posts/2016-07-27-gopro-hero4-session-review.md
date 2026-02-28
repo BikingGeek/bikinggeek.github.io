@@ -29,7 +29,7 @@ Aunque la duración de la batería es decente, el hecho de que no sea reemplazab
 
 Aunque la Hero4 Session ofrece buena calidad, su precio puede ser difícil de justificar frente a alternativas más económicas como la [Xiaomi Yi]({{ site.constants.wsib }}xiaomi-yi).
 
-![GoPro Hero4 Session](https://1.bp.blogspot.com/-_JLSuWSROlg/V5iUPCaPkmI/AAAAAAAAA04/NKwsiiqvhC4JHP6cFQTV0jaFKjcH4-T4ACLcB/s200/hero4%2BSession.jpeg)
+![GoPro Hero4 Session](https://1.bp.blogspot.com/-_JLSuWSROlg/V5iUPCaPkmI/AAAAAAAAA04/NKwsiiqvhC4JHP6cFQTV0jaFKjcH4-T4ACLcB/s200/hero4%2BSession.jpeg){: .align-right}
 
 ### Conclusión: ¿Vale la pena?
 
@@ -38,3 +38,9 @@ Si buscas una cámara compacta y confiable para grabaciones no profesionales, la
 {% include amazon.html asin="B09XX5FVHJ" %}
 
 **¿Qué opinas? ¿Has probado la Hero4 Session? Déjanos tu comentario abajo.**
+
+## Related Posts
+
+- [GoPro HERO4 Session y comparativa entre cámaras GoPro: ¿La mejor opción o una decepción?]({%- post_url 2015-12-16-GoPro-HERO4-Session-comparativa-camaras-gopro -%})
+- [H9 action cam review, primeras impresiones]({%- post_url 2017-01-02-h9-action-cam-review-primeras-impresiones -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

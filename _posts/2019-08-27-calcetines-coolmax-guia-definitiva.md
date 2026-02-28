@@ -3,9 +3,10 @@ title: "Guía Definitiva de Calcetines Coolmax: ¡Tus Pies Nunca Han Estado Tan 
 date: 2019-08-27
 tags: [socks, coolmax, hiking, outdoor, review]
 description: "Descubre la guía más divertida y completa sobre calcetines Coolmax. ¡Tus pies te lo agradecerán!"
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Calcetines Coolmax](https://i.imgur.com/u9NfQ8J.png){: style='float: right;'}
+![Calcetines Coolmax](https://i.imgur.com/u9NfQ8J.png){: .align-right}
 
 ## Introducción
 
@@ -81,7 +82,12 @@ Para asegurarte de que tus calcetines Coolmax duren más tiempo y mantengan sus 
 
 ---
 
-**Pro Tip:** Nunca los laves con los calcetines del perroâ€”la última vez que lo hice, terminamos con un lío de pelusa y pelos!
+**Pro Tip:** Nunca los laves con los calcetines del perro—la última vez que lo hice, terminamos con un lío de pelusa y pelos!
 
 {{ site.constants.wsib }}
 
+## Posts Relacionados
+
+- [Calcetines Endura Baabaa - Un análisis completo y divertido]({%- post_url 2019-09-14-calcetines-endura-baabaa-review -%})
+- [Calcetines para Correr: Los Mejores en 2025]({%- post_url 2019-10-23-calcetines-para-correr-mejores-2025 -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

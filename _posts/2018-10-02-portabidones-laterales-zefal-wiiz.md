@@ -1,13 +1,13 @@
 ---
 
-title:  "Portabidones laterales - Zefal Wiiz"
-date:   2018-10-02 17:00:00 +0200
+title: "Portabidones laterales - Zefal Wiiz"
+date: 2018-10-02 17:00:00 +0200
 tags: español mtb review
 description: "Portabidones Laterales Zefal Wiiz - Review and analysis of the Zefal Wiiz side-entry bottle cage."
 last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
-<a href='{{ site.constants.wsib }}zefal%20wiiz'><img style="float: right;" src="https://i.imgur.com/tejFkXZm.jpg"></a>
+[![](https://i.imgur.com/tejFkXZm.jpg){: .align-right}]({{ site.constants.wsib }}zefal%20wiiz)
 
 Las bicis de doble suspensión en muchos casos tienen un problema que enfurece a un gran número de aficionados y es que no permiten montar un bidón, muchos modelos más modernos se esfuerzan en diseñar su *linkage* de forma que sí sea posible viendo la *furia* de los aficionados.
 
@@ -30,3 +30,9 @@ Lo único malo es que al poner y sacar da la sensación de poca sujeción, segur
 Ya sabéis si tenéis problema de espacio os recomiendo este portabidón que es funcional y muy asequible.
 
 Mucha suerte y nos vemos en los senderos!
+
+## Posts Relacionados
+
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})

@@ -21,7 +21,7 @@ last_modified_at: '2025-08-16T00:00:00+02:00'
 ---
 
 
-[![bike love](https://i.imgur.com/hgTBQY4m.jpg){: .align-right}]({{ site.constants.wsib }}regalo%20ciclista)
+[![bike love](https://i.imgur.com/hgTBQY4m.jpg){:.align-right}]({{ site.constants.wsib }}regalo%20ciclista)
 
 ¿Buscas ideas de regalos para ciclistas? Aquí tienes una selección de productos recomendados, probados y comparados en el blog, con enlaces a reviews y comparativas para que puedas elegir el mejor regalo según tu presupuesto y necesidades. Descubre gadgets, equipamiento y accesorios que realmente marcan la diferencia.
 
@@ -47,3 +47,9 @@ Si buscas opciones económicas, explora tiendas como [dx.com](https://dx.com/?Ut
 ¿Quieres más ideas? Explora las [mejores MTB según presupuesto]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}) y la [review de la YT Jeffsy]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%}) para regalos más avanzados. Recuerda que puedes apoyar el blog usando los enlaces de [amazon.es](https://www.amazon.es/?_encoding=UTF8&tag={{ site.constants.amazon_es }}&linkCode=ur2&camp=3626&creative=24822){: rel="nofollow"} y [{{ site.constants.wsibName }}]({{ site.constants.wsib }}), donde puedes comparar precios entre tiendas online.
 
 **¡Gracias por leer y felices rutas!**
+
+## Posts Relacionados
+
+- [Las mejores ideas de regalo para ciclistas: ¡Sorpréndelos con algo especial!]({%- post_url 2020-11-27-ideas-regalo-ciclista -%})
+- [Mi equipo favorito para correr en 2015: ¡Los mejores regalos para runners!]({%- post_url 2015-01-19-my-favourite-2015-running-gear-best-gifts-for-runners -%})
+- [Mi equipación favorita para MTB. Ideas para regalos a ciclistas]({%- post_url 2016-04-27-mi-equipacion-favorita-mtb-2016-ideas-regalos-ciclistas -%})

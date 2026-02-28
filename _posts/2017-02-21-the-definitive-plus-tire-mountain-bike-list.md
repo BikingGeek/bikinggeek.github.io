@@ -38,29 +38,29 @@ Let's enumerate what are the requirements and what kind of bikes are we looking 
 
 | Bike/Frame | Frame only | Cat B config | Cat A config | Wheels | Travel (mm) |
 |------------|------------|--------------|--------------|--------|--------------|
-| [Dartmoor Primal Plus]({{ site.constants.wsib }}Dartmoor%20Primal%20Plus) | ~300€ |              |              |        | 140*        
+| [Dartmoor Primal Plus]({{ site.constants.wsib }}Dartmoor%20Primal%20Plus) | ~300€ | | | | 140* 
 
-| [Diamondback Mason Plus]({{ site.constants.wsib }}Diamondback%20Mason%20Plus) |              | $1400        | $2300        | 27.5+  | 120          |
-| [Diamondback Rely Trail]({{ site.constants.wsib }}Diamondback%20Rely%20Trail) |              | $1400        |              | 27.5+  | 120          |
-| [Sonder Frontier]({{ site.constants.wsib }}Sonder%20Frontier)                 | 230€/£199/$250 | 1011€/£879/$1100 |              | 27.5+/29 | Rigid/100    |
-| [Specialized Fuse]({{ site.constants.wsib }}Specialized%20Fuse)               |              | 850 €        | 4.000 €      | 27.5+  | 120          |
-| [Trek Stache]({{ site.constants.wsib }}Trek%20Stache)                         |              | 1.800 €      | 3.500 €      | 29+    | 120          |
-| [Cotic SolarisMax]({{ site.constants.wsib }}Cotic%20SolarisMax)               | £599       |              |              |        | 120*         |
-| [Specialized Ruze]({{ site.constants.wsib }}Specialized%20Ruze)               |              | $1000        | $3100        |        | 100          |
-| [Kona Big Honzo]({{ site.constants.wsib }}Kona%20Big%20Honzo)                 |              | *            | *            | 27.5+  | 120          |
-| [Norco Torrent]({{ site.constants.wsib }}Norco%20Torrent)                     | $449       | $1649        |              | 27.5+  | 140          |
-| [Orbea Loki]({{ site.constants.wsib }}Orbea%20Loki)                           |              | 1.299 €      | 1.999 €      | 27.5+  | 120          |
-| [Ragley Big Wig]({{ site.constants.wsib }}Ragley%20Big%20Wig)                 |              |              | 1889€/£1750  | 29     | 130          |
+| [Diamondback Mason Plus]({{ site.constants.wsib }}Diamondback%20Mason%20Plus) | | $1400 | $2300 | 27.5+ | 120 |
+| [Diamondback Rely Trail]({{ site.constants.wsib }}Diamondback%20Rely%20Trail) | | $1400 | | 27.5+ | 120 |
+| [Sonder Frontier]({{ site.constants.wsib }}Sonder%20Frontier) | 230€/£199/$250 | 1011€/£879/$1100 | | 27.5+/29 | Rigid/100 |
+| [Specialized Fuse]({{ site.constants.wsib }}Specialized%20Fuse) | | 850 € | 4.000 € | 27.5+ | 120 |
+| [Trek Stache]({{ site.constants.wsib }}Trek%20Stache) | | 1.800 € | 3.500 € | 29+ | 120 |
+| [Cotic SolarisMax]({{ site.constants.wsib }}Cotic%20SolarisMax) | £599 | | | | 120* |
+| [Specialized Ruze]({{ site.constants.wsib }}Specialized%20Ruze) | | $1000 | $3100 | | 100 |
+| [Kona Big Honzo]({{ site.constants.wsib }}Kona%20Big%20Honzo) | | * | * | 27.5+ | 120 |
+| [Norco Torrent]({{ site.constants.wsib }}Norco%20Torrent) | $449 | $1649 | | 27.5+ | 140 |
+| [Orbea Loki]({{ site.constants.wsib }}Orbea%20Loki) | | 1.299 € | 1.999 € | 27.5+ | 120 |
+| [Ragley Big Wig]({{ site.constants.wsib }}Ragley%20Big%20Wig) | | | 1889€/£1750 | 29 | 130 |
 
 ### Full Suspension
 
-| Bike/Frame                                                      | Frame only | Cat B config | Cat A config | Wheels | Travel (mm) |
+| Bike/Frame | Frame only | Cat B config | Cat A config | Wheels | Travel (mm) |
 |-----------------------------------------------------------------|-------------|--------------|--------------|--------|--------------|
-| [Radon Slide+]({{ site.constants.wsib }}Radon%20Slide)               |             |              | 2.600 €      | 27,5+  | 140          |
-| [Santa Cruz Hightower]({{ site.constants.wsib }}Santa%20Cruz%20Hightower) |             |              | 4130€/£3599/$3599  | 29     | 140          |
-| [Santa Cruz Hightower]({{ site.constants.wsib }}Santa%20Cruz%20Hightower) |             |              | 5100€/£4399/$4599  | 27,5+  | 150          |
-| [Specialized Rhyme]({{ site.constants.wsib }}Specialized%20Rhyme)   |             | 2.799,90 €   | 3.999,90 €   | 27,5+  | 150          |
-| [Vitus Escarpe]({{ site.constants.wsib }}Vitus%20Escarpe)             |             |              | 3229,99€/£2636,99 | 29     | 150          |
+| [Radon Slide+]({{ site.constants.wsib }}Radon%20Slide) | | | 2.600 € | 27,5+ | 140 |
+| [Santa Cruz Hightower]({{ site.constants.wsib }}Santa%20Cruz%20Hightower) | | | 4130€/£3599/$3599 | 29 | 140 |
+| [Santa Cruz Hightower]({{ site.constants.wsib }}Santa%20Cruz%20Hightower) | | | 5100€/£4399/$4599 | 27,5+ | 150 |
+| [Specialized Rhyme]({{ site.constants.wsib }}Specialized%20Rhyme) | | 2.799,90 € | 3.999,90 € | 27,5+ | 150 |
+| [Vitus Escarpe]({{ site.constants.wsib }}Vitus%20Escarpe) | | | 3229,99€/£2636,99 | 29 | 150 |
 
 Note: The table above lists full suspension bikes with their respective configurations, frame options, prices, wheel sizes, and travel in millimeters.
 
@@ -71,3 +71,11 @@ We will be updating this post in the upcoming days and weeks with the bikes that
 Also, any help, discount, or lend bike from a brand, company, or sponsor will be most welcome to test and review, which we commit to do in a deep long-term review.
 
 Also, keep track of this article for updates on our [twitter account](https://twitter.com/criticthinking). Stay in touch and thanks in advance!
+
+## Related Posts
+
+- [Canyon Nerve Review: A Fun Ride or a Nerve-Wrecking Experience?]({%- post_url 2014-11-18-canyon-nerve-trail-bike-review -%})
+- [Las mejores MTB según presupuesto calidad/precio (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%})
+- [YT Jeffsy review: Pros y contras. Debería comprarla?]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%})
+- [¿Qué esperamos de las MTB 2017? ¡Descubre las tendencias más emocionantes!]({%- post_url 2016-10-01-what-are-we-expecting-for-2017-mtb-brands-lineup -%})
+- [Canyon Strive 2017 review: Pros y contras. Debería comprarla?]({%- post_url 2017-04-11-canyon-strive-2017-review-pros-contras-deberia-comprarla -%})

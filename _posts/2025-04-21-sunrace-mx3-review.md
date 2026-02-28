@@ -11,7 +11,7 @@ last_modified_at: '2025-10-07T01:12:01+02:00'
 description: "Discover the pros and cons of the Sunrace MX3 in Geeknite's hilarious and detailed review."
 ---
 
-[![Sunrace MX3](https://i.imgur.com/HsYsY4gm.jpg){: .align-right}]({{ site.constants.wsib }}sunrace mx3)
+[![Sunrace MX3](https://i.imgur.com/HsYsY4gm.jpg){:.align-right}]({{ site.constants.wsib }}sunrace mx3)
 
 ## Introduction
 
@@ -84,3 +84,9 @@ Happy cycling! 🚴‍♂️💨
 - [Garmin Edge 530 vs iGPSPORT 630]({% post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 %})
 
 *Until next time, fellow cyclists!*
+
+## Related Posts
+
+- [Review: The New Shimano Ultegra R8000 Groupset - A Game Changer for Cyclists]({%- post_url 2023-10-01-Shimano-Ultegra-R8000-Groupset-Review -%})
+- [BBLTIFF Shimano Bleed Kit Review]({%- post_url 2025-07-29-bleed-kit-shimano-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

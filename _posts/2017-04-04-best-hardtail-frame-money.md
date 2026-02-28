@@ -1,7 +1,7 @@
 ---
 
-title:  "Best hardtail MTB frames for the money"
-date:   2017-04-04 17:00:00 +0200
+title: "Best hardtail MTB frames for the money"
+date: 2017-04-04 17:00:00 +0200
 tags: mtb frame roundup
 last_modified_at: '2023-07-06T00:00:00+02:00'
 description: "Best Hardtail Frame for the Money - A guide to finding the best hardtail mountain bike frame that offers excellent value."
@@ -67,3 +67,9 @@ The Mondraker hardtail frame, renown forward geometry, long and simple in a hard
 [![mondraker vantage](https://2.bp.blogspot.com/-NjJYS-Xneg8/WOOxLsYw36I/AAAAAAAAA9s/Y02Ij4XdG9sPIUJHOyC-Mi2gE1Rb5hVsgCLcB/s320/mondraker%2Bvantage%2Bframe.jpg)]({{ site.constants.wsib }}uk/mondraker%20vantage)
 
 These are some of the frames that we would exchange with any hardtail anyday, we have left behind many frames worth noting and many that we would love to test. Have you tried any that we should also feature in this article, please let us know in the comments or on [@sikkxo](https://twitter.com/sikkxo). Also worth checking our [definitive plus size tire MTB list]({%- post_url 2017-02-21-the-definitive-plus-tire-mountain-bike-list -%}) for interesting boosted hardtails and full suspension bikes. Thanks for being there!
+
+## Related Posts
+
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Change your MTB geometry with offset bushings]({%- post_url 2017-12-05-change-your-geometry-with-offset-bushings -%})
+- [Best MTB Suspension 140mm in 2025]({%- post_url 2019-06-26-best-mtb-suspension-140mm-2025-review -%})

@@ -1,7 +1,7 @@
 ---
 
-title:  "Chain Reaction Cycles discount codes"
-date:   2018-08-18 17:00:00 +0200
+title: "Chain Reaction Cycles discount codes"
+date: 2018-08-18 17:00:00 +0200
 tags: mtb discount shopping
 description: "Chain Reaction Cycles Discount Codes - Save on Your Cycling Gear - Get exclusive discount codes for Chain Reaction Cycles to save money on cycling purchases."
 last_modified_at: '2023-07-06T00:00:00+02:00'
@@ -17,7 +17,7 @@ It seems that in the last weeks they are sending other discounts to key users, t
 
 Here you can see the current discount codes available, these codes should work for all regions but the quantities may change depending on exchange rates:
 
-<a rel="nofollow" href='https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref='><img style="float: right;" src="https://i.imgur.com/9wi2CCmm.jpg"></a>
+[![](https://i.imgur.com/9wi2CCmm.jpg){: .align-right}](https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref=)
 
 - ~~**RSI32UT -**Save 10€ spending 60€, valid until 2018-09-17~~
 - ~~**AU84RNM**- Save 10€ spending 60€, valid until 2018-09-03~~
@@ -30,3 +30,16 @@ Here you can see the current discount codes available, these codes should work f
 These are not percentage based discounts which I prefer, because you get a discount proportional to what you spend, for example a bike, but for buying components or equipment are good discounts so use them.
 
 Good shopping!
+
+
+## Where to Buy
+
+You can find the best price here: [**cycling gear**]({{ site.constants.wsib }}cycling gear)
+
+{{ site.constants.wsib }}
+
+## Related Posts
+
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})
+- [MTB XC vs Trail: Understanding Geometry Differences That Matter 🚵‍♂️]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
+- [Benefits of mountain biking]({%- post_url 2019-11-15-benefits-mountain-biking -%})

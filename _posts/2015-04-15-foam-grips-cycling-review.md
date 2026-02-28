@@ -1,11 +1,12 @@
-﻿---
+---
 title: "Foam Grips Review: Comfort, Durability, and Beyond"
 date: 2015-04-15
 tags: [cycling, gear, grips, review, comfort]
 description: "An in-depth and humorous review of foam grips for bikes. Are they worth the hype? Let's find out!"
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Foam Grips](https://example.com/foam-grips.jpg){: style='float: right;'}
+![Foam Grips](https://example.com/foam-grips.jpg){: .align-right}
 
 **Hello Geeknite readers!**
 
@@ -88,3 +89,9 @@ If you're a casual cyclist or someone who prioritizes comfort over everything el
 - [Prime Day Bike Gadgets and Accessories]({% post_url 2023-07-04-prime-day-bike-gadgets-accesories %})
 
 Happy cycling! 🚴‍♂️
+
+## Related Posts
+
+- [ODI X-Treme Lock-On Grips: ¿Valen la pena después de años de uso?]({%- post_url 2016-06-14-odi-x-treme-lock-on-grips-long-term-review -%})
+- [Supacaz Grizips Lock on grips long term review]({%- post_url 2017-07-20-supacaz-grizips-lock-on-grips-long-term-review -%})
+- [Garmin Edge 530: 13 facts to consider before buying]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%})

@@ -3,19 +3,19 @@ title: "Minoura B60-R Magnetic Trainer Review: Best Budget Indoor Trainer for Cy
 date: "2013-01-12T09:00:00.000+01:00"
 author: Fernando
 tags:
-  - cycling
-  - indoor-training
-  - bike-trainer
-  - review
-  - budget
-  - minoura
-  - magnetic-trainer
+ - cycling
+ - indoor-training
+ - bike-trainer
+ - review
+ - budget
+ - minoura
+ - magnetic-trainer
 last_modified_at: "2026-02-12T00:00:00+01:00"
 description: "Minoura B60-R magnetic trainer review: a budget-friendly indoor cycling trainer with 7 resistance levels, remote control, and solid build quality."
 excerpt: "The Minoura B60-R magnetic trainer delivers reliable indoor training at a fraction of the cost of premium fluid or smart trainers. With 7 resistance levels, a handlebar remote, and a rock-solid frame, it remains one of the best value propositions for cyclists who need a dependable indoor setup."
 ---
 
-[![Minoura B60-R Magnetic Trainer](https://m.media-amazon.com/images/I/51cnESAoW9S._AC_SL400_.jpg){: .align-right}]({{ site.constants.wsib }}minoura%20b60-r)
+[![Minoura B60-R Magnetic Trainer](https://m.media-amazon.com/images/I/51cnESAoW9S._AC_SL400_.jpg){:.align-right}]({{ site.constants.wsib }}minoura%20b60-r)
 
 If you need a reliable indoor trainer without spending hundreds on a smart unit, the [**Minoura B60-R magnetic trainer**]({{ site.constants.wsib }}minoura%20b60-r) is the answer. It earned a perfect 5-star score from BikeRadar testers — not because it outperforms premium fluid trainers, but because its cost-to-value ratio is exceptional.
 
@@ -69,17 +69,17 @@ The roller cradle accommodates tires from 24" to 29" x 2.10", covering everythin
 
 ## Specifications
 
-| Spec             | Detail                             |
+| Spec | Detail |
 | ---------------- | ---------------------------------- |
-| Resistance type  | Magnetic, 7 levels                 |
-| Remote control   | Yes (wired, handlebar-mounted)     |
-| Flywheel         | Steel disc, 1.5 lbs                |
-| Tire range       | 24" to 29" x 2.10"                 |
-| Max rider weight | 265 lbs (120 kg)                   |
-| Dimensions       | 24 × 15.7 × 18.5 in (W × H × D)    |
-| Weight           | 13.2 lbs (6 kg)                    |
-| Warranty         | 1 year (mag unit), 5 years (frame) |
-| Power required   | None — no plug necessary           |
+| Resistance type | Magnetic, 7 levels |
+| Remote control | Yes (wired, handlebar-mounted) |
+| Flywheel | Steel disc, 1.5 lbs |
+| Tire range | 24" to 29" x 2.10" |
+| Max rider weight | 265 lbs (120 kg) |
+| Dimensions | 24 × 15.7 × 18.5 in (W × H × D) |
+| Weight | 13.2 lbs (6 kg) |
+| Warranty | 1 year (mag unit), 5 years (frame) |
+| Power required | None — no plug necessary |
 
 ## Who Should Buy the Minoura B60-R?
 
@@ -111,14 +111,14 @@ The [CycleOps Fluid2]({%- post_url 2020-04-19-cycleops-fluid2-bike-trainer-revie
 
 The [Kurt Kinetic Road Machine]({{ site.constants.wsib }}Kurt%20Kinetic%20Road%20Machine) is a fluid trainer known for its durability and progressive resistance. It occupies a mid-price bracket — more expensive than the B60-R but cheaper than premium smart units. **Winner:** Kurt Kinetic for serious year-round indoor riders; B60-R for occasional use on a budget.
 
-|                     | Minoura B60-R                                   | CycleOps Fluid2                                                           | Elite Indoor                                                              | Kurt Kinetic                                                    |
+| | Minoura B60-R | CycleOps Fluid2 | Elite Indoor | Kurt Kinetic |
 | ------------------- | ----------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Resistance          | Magnetic, 7 levels                              | Fluid, progressive                                                        | Varies by model                                                           | Fluid, progressive                                              |
-| Remote              | Yes                                             | No                                                                        | Varies                                                                    | No                                                              |
-| Noise               | Low                                             | Very low                                                                  | Low–medium                                                                | Low                                                             |
-| Smart compatibility | No                                              | No                                                                        | Some models                                                               | No                                                              |
-| Best for            | Budget / occasional                             | Regular training                                                          | Upgraders                                                                 | Serious indoor riders                                           |
-|                     | [Buy]({{ site.constants.wsib }}minoura%20b60-r) | [Review]({%- post_url 2020-04-19-cycleops-fluid2-bike-trainer-review -%}) | [Review]({%- post_url 2023-04-01-elite-indoor-trainer-cycling-review -%}) | [Buy]({{ site.constants.wsib }}Kurt%20Kinetic%20Road%20Machine) |
+| Resistance | Magnetic, 7 levels | Fluid, progressive | Varies by model | Fluid, progressive |
+| Remote | Yes | No | Varies | No |
+| Noise | Low | Very low | Low–medium | Low |
+| Smart compatibility | No | No | Some models | No |
+| Best for | Budget / occasional | Regular training | Upgraders | Serious indoor riders |
+| | [Buy]({{ site.constants.wsib }}minoura%20b60-r) | [Review]({%- post_url 2020-04-19-cycleops-fluid2-bike-trainer-review -%}) | [Review]({%- post_url 2023-04-01-elite-indoor-trainer-cycling-review -%}) | [Buy]({{ site.constants.wsib }}Kurt%20Kinetic%20Road%20Machine) |
 
 ## Tips for Getting the Most from Your Trainer
 

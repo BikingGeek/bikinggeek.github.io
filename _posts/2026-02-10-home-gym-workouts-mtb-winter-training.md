@@ -7,7 +7,7 @@ excerpt: "When the trails are muddy and daylight is scarce, the home gym becomes
 last_modified_at: '2026-02-10T18:00:00+02:00'
 ---
 
-[![Home gym dumbbells](https://i.imgur.com/rVACFNqm.jpg){: .align-right}]({{ site.constants.wsib }}home gym equipment)
+[![Home gym dumbbells](https://i.imgur.com/rVACFNqm.jpg){:.align-right}]({{ site.constants.wsib }}home gym equipment)
 
 When winter settles in and the trails turn into mud pits, many mountain bikers retreat to their [indoor trainers]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%}) or simply take a break from training altogether. But here's the thing: **weight training and home gym workouts can be absolute game-changers for your MTB performance** — and those dark winter afternoons are the perfect time to build strength you'll feel on the trails come spring.
 
@@ -203,3 +203,11 @@ The key is consistency: 2-3 strength sessions per week, combined with [indoor cy
 Don't forget to check our [winter cycling clothing guide]({%- post_url 2025-11-12-winter-cycling-clothing-guide-budget -%}) for those days when you can get outside, and prepare for the season ahead with our [fall prep guide]({%- post_url 2025-09-15-fall-cycling-prep-guide -%}).
 
 **Now go move some iron!** 💪🚴‍♂️
+
+## Related Posts
+
+- [Minoura B60-R Magnetic Trainer Review: Best Budget Indoor Trainer for Cyclists]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%})
+- [Training videos: how to use Tacx real videos with a Minoura B60-R]({%- post_url 2013-01-21-training-videos-how-to-use-tacx-real-videos-with-minoura -%})
+- [CycleOps Fluid2 Review: The Ultimate Bike Trainer for Indoor Training]({%- post_url 2020-04-19-cycleops-fluid2-bike-trainer-review -%})
+- [Elite Indoor Trainer Review: Get Fit Indoors Without Getting Hit by a Car]({%- post_url 2023-04-01-elite-indoor-trainer-cycling-review -%})
+- [Zwift Review: A Comprehensive Analysis of the Popular Virtual Cycling Platform]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%})

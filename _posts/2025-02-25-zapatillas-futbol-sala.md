@@ -8,7 +8,7 @@ last_modified_at: '2025-04-06T18:00:00+02:00'
 
 ¡Hola, fanáticos del fútbol sala! Hoy vamos a sumergirnos en el apasionante mundo de las zapatillas de fútbol sala. Si pensabas que elegir zapatillas era tan sencillo como decidir entre pizza con piña o sin piña, ¡te equivocas! Vamos a desglosar todo lo que necesitas saber para hacer la mejor elección para tus pies y dominar la cancha como un verdadero profesional.
 
-[![Fútbol Sala](https://i.imgur.com/ybMbanVm.jpeg){: style='float: right;'}]({{ site.constants.wsib }}futbol-sala)
+[![Fútbol Sala](https://i.imgur.com/ybMbanVm.jpeg){: .align-right}]({{ site.constants.wsib }}futbol-sala)
 
 ---
 
@@ -75,3 +75,11 @@ Elegir las zapatillas de fútbol sala adecuadas puede hacer una gran diferencia 
 **¿Listo para dominar la cancha? ¡Haz clic y compra tus nuevas zapatillas ahora!**
 
 [![Compra Ahora](https://example.com/buy-now.jpg)](https://example.com/affiliate-link)
+
+## Posts Relacionados
+
+- [Five Ten Sleuth Review: The Ultimate Casual MTB Shoe]({%- post_url 2023-04-07-five-ten-sleuth-review -%})
+- [MTB Shoes Five Ten Sleuth: ¿Una ganga o una decepción?]({%- post_url 2017-11-30-mtb-shoes-five-ten-sleuth-half-priced -%})
+- [Las Mejores Zapatillas de Skate en 2025]({%- post_url 2021-04-24-zapatillas-de-skate -%})
+- [Adidas Predator in Club: A 2024 Review]({%- post_url 2024-04-13-adidas-predator-in-club -%})
+- [Lamine Yamal: Rising Star of Football]({%- post_url 2024-04-20-lamine-yamal-football-rising-star -%})

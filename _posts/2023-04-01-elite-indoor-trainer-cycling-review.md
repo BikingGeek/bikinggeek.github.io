@@ -1,11 +1,12 @@
-﻿---
+---
 title: "Elite Indoor Trainer Review: Get Fit Indoors Without Getting Hit by a Car"
 date: 2023-04-01
 tags: [cycling, indoor-trainer, fitness, review]
 description: "An in-depth and entertaining review of the Elite indoor trainer. Find out why this gadget is a must-have for cyclists."
+last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Elite Indoor Trainer](https://i.imgur.com/1k9XcW9m.jpg)
+![Elite Indoor Trainer](https://i.imgur.com/1k9XcW9m.jpg){: .align-right}
 
 ## Introduction
 
@@ -70,3 +71,11 @@ If you're ready to elevate your cycling game, the Elite indoor trainer is defini
 **Pro Tip**: Race against your pet cat on Zwift for ultimate entertainment'”spoiler alert: cats are terrible cyclists, but watching them try is priceless!
 
 {{ site.constants.wsib }}
+
+## Related Posts
+
+- [Minoura B60-R Magnetic Trainer Review: Best Budget Indoor Trainer for Cyclists]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%})
+- [Training videos: how to use Tacx real videos with a Minoura B60-R]({%- post_url 2013-01-21-training-videos-how-to-use-tacx-real-videos-with-minoura -%})
+- [CycleOps Fluid2 Review: The Ultimate Bike Trainer for Indoor Training]({%- post_url 2020-04-19-cycleops-fluid2-bike-trainer-review -%})
+- [Zwift Review: A Comprehensive Analysis of the Popular Virtual Cycling Platform]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%})
+- [Home Gym Workouts for MTB: Alternative Winter Training That Works]({%- post_url 2026-02-10-home-gym-workouts-mtb-winter-training -%})
