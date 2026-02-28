@@ -6,6 +6,8 @@ last_modified_at: '2026-02-27T00:00:00+01:00'
 description: "Las mejores zapatillas de skate en 2025. Comparativa de Vans Old Skool Pro, Nike SB Dunk Low y Adidas Busenitz con pros, contras y guia de compra."
 ---
 
+[![zapatillas skate](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}zapatillas skate)
+
 ## Introducción
 
 ¡Hola, skaters de Geeknite! Hoy vamos a hablar sobre las mejores zapatillas de skate en 2025. Si pensabas que elegir zapatillas era tan sencillo como elegir entre una pizza con piña o sin piña, te equivocas. Vamos a desglosar todo lo que necesitas saber para hacer la mejor elección para tus pies y dominar el skatepark como todo un profesional.

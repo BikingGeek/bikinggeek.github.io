@@ -13,7 +13,7 @@ last_modified_at: '2017-11-27T16:11:22.029+01:00'
 description: "Riding at night requires extra precautions for safety. Tips for safer and comfier night rides, including lights, clothing, protection, and tech."
 ---
 
-[![](https://3.bp.blogspot.com/-tsDZP6UgQ5A/VqYQQg8tD6I/AAAAAAAAAts/WMiDHLCCcxg/s1600/Essential%2Bnight%2Briding%2Bsafety%2Btips.jpg)]({{ site.constants.wsib }}bike%20light)
+[![](https://3.bp.blogspot.com/-tsDZP6UgQ5A/VqYQQg8tD6I/AAAAAAAAAts/WMiDHLCCcxg/s1600/Essential%2Bnight%2Briding%2Bsafety%2Btips.jpg){: .align-right}]({{ site.constants.wsib }}bike%20light)
 
 Night riding is way different that riding by day, not only your eyesight will be diminished even using the best lights in the market, but also will be much colder and, of course, more dangerous. Of course at night you will find less people around, so here on possible accident you should and **you must not ride alone at night**, for your own safety. 
  

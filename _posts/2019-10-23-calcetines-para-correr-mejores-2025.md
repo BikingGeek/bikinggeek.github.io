@@ -6,6 +6,8 @@ description: "Una revisión divertida y completa de los mejores calcetines para 
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
+[![calcetines running](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}calcetines running)
+
 ## Introducción
 
 ¡Hola corredores y amantes de los calcetines! Si pensabas que los calcetines solo eran para mantener tus pies calentitos en invierno, piénsalo otra vez. Hoy en Geeknite vamos a destripar, en el buen sentido, el mundo de los calcetines para correr. Sí, esos pequeños pedazos de tela que pueden hacer la diferencia entre una carrera gloriosa y una dolorosa sesión de tortura.

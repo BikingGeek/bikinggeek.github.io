@@ -17,7 +17,7 @@ blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-359092621933626319
 description: "Essential checklist after a bike accident. Learn the 6 critical checks for wheels, handlebars, gears, and frame to ensure your bike is safe to ride home."
 ---
 
-![Bike Accident Checklist](https://4.bp.blogspot.com/-x_-htryz0Ys/U9qTZ7YZDmI/AAAAAAAAAjM/7_Jlw8im8sg/s1600/7991426_f260%5B1%5D.jpg){: .align-right}
+[![Bike Accident Checklist](https://4.bp.blogspot.com/-x_-htryz0Ys/U9qTZ7YZDmI/AAAAAAAAAjM/7_Jlw8im8sg/s1600/7991426_f260%5B1%5D.jpg){: .align-right}]({{ site.constants.wsib }}cycling safety gear)
 
 When you go out biking there's always a small risk of falling, crashing, or getting involved in an accident. If you are well protected and lucky, it might be nothing, but **you should always be cautious because some bike malfunctions could be easily overlooked**.
 

@@ -13,6 +13,7 @@ tags:
 - spain
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre cómo darle una segunda vida a tu MTB con nuestro taller online. ¿Es realmente una buena idea? Spoiler: depende de cuánto la hayas maltratado."
+hero_image: "Mountain bike being inspected in a workshop, mechanic checking frame condition, tools visible, warm garage lighting, documentary style, 16:9"
 ---
 
 ### Compramos MTBs: ¡Dale una segunda vida a tu bicicleta!

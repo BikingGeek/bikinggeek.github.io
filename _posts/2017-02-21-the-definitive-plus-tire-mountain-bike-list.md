@@ -15,6 +15,7 @@ tags:
 - cycling
 last_modified_at: '2023-07-06T00:00:00+02:00'
 description: "The Definitive Plus Tire Mountain Bike List - An authoritative list of plus-sized tire options for mountain bikes."
+hero_image: "Close-up of plus-size MTB tires on trail, knobby tread pattern visible, dirt and rocks, mountain biking detail, 16:9"
 ---
 
 **We are looking into a pair of modern mountain bikes to do a long-term review**. In the last years, we have dived into the mountain bike world, which is huge and rewarding, and many things have changed. Some will say that bike companies are thinking about money, and it is true, but they are also moving it forward to improve it for all.

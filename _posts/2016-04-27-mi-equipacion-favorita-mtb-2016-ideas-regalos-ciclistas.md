@@ -13,6 +13,7 @@ tags:
 - cycling
 last_modified_at: '2023-07-24T00:00:00+02:00'
 description: "Mi Equipación Favorita MTB: Ideas Regalos Ciclistas - Personal recommendations and gift ideas for mountain biking enthusiasts, featuring my favorite gear"
+hero_image: "Flat lay of cycling gear collection: jersey, gloves, helmet, sunglasses, shoes arranged on wooden surface, top-down view, vibrant colors, product photography, 16:9"
 ---
 
 Ya són molts anys sobre la bici i, després d'obrir un petit taller online, segueixo buscant [bicicletes somiades]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}) i millorant l'equipació. El MTB s'ha diferenciat molt de la carretera: la lycra ja no és imprescindible, els cascos són més robustos i els pantalons amples amb proteccions són habituals. Les necessitats canvien segons el terreny i la disciplina.

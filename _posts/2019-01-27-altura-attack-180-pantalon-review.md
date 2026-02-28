@@ -4,7 +4,10 @@ date: 2019-01-27
 tags: ['ropa', 'ciclismo', 'review', 'altura', 'pantalones']
 description: "Una revisión divertida y completa del pantalón Altura Attack 180. ¡Descubre todo lo que necesitas saber antes de comprar!"
 last_modified_at: '2026-02-27T00:00:00+01:00'
+hero_image: "Black cycling trousers flat lay on wooden surface with cycling accessories, pants detail visible, sports apparel photography, 16:9"
 ---
+
+[![Altura Attack 180](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Altura Attack 180)
 
 ## Introducción
 

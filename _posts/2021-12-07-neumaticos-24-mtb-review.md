@@ -6,7 +6,7 @@ description: 'Guía completa sobre neumáticos 2.4 MTB: mejores modelos, compara
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Neumáticos 2.4 MTB](https://i.imgur.com/neumaticos24mtb.jpg){:.align-right}
+[![Neumáticos 2.4 MTB](https://i.imgur.com/neumaticos24mtb.jpg){:.align-right}]({{ site.constants.wsib }}Neumáticos 2.4 MTB)
 
 # Introducción
 

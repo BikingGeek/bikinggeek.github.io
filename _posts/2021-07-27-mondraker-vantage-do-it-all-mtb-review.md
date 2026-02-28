@@ -6,7 +6,7 @@ description: "A comprehensive and funny review of the Mondraker Vantage MTB."
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Mondraker Vantage](https://i.imgur.com/6JDDmDgm.jpeg){:.align-right}
+[![Mondraker Vantage](https://i.imgur.com/6JDDmDgm.jpeg){:.align-right}]({{ site.constants.wsib }}Mondraker Vantage)
 
 Welcome back, fellow bike enthusiasts! Today, we're diving into the world of mountain bikes with the **Mondraker Vantage**. This isn't just any mountain bike—it's the ultimate companion for those who want to conquer trails, climb hills, and look cool while doing it. But is it worth the hype (and the price)? Let's find out! So, grab your helmets, and let's get pedaling! 🚴‍♂️
 

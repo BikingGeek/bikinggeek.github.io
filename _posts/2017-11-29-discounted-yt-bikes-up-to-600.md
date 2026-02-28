@@ -11,6 +11,7 @@ last_modified_at: '2017-11-29T16:54:51.041+01:00'
 thumbnail: https://4.bp.blogspot.com/-8fv6yH7oIdU/Wh7X0lymOzI/AAAAAAAABBU/z6o-xH2QrCQYCMn3rpf8cjNG92-pvPglgCLcBGAs/s72-c/YT%2BIndustries%2B-%2BMozilla%2BFirefox.jpg
 blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-5395987653642154333
 description: "Discounted YT bikes with savings up to 600 euros. Find the best deals on YT Jeffsy, Capra, and Tues enduro and downhill mountain bikes on sale."
+hero_image: "YT Industries mountain bike on dramatic mountain ridge, golden hour lighting, epic landscape vista, adventure cycling photography, 16:9"
 ---
 
 [YT](https://www.yt-industries.com/en/) one of the most modern and desired direct sales bike companies is still keeping their Black Friday sales with discounts up to 600€ in their most expensive models.

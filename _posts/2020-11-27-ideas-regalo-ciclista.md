@@ -9,7 +9,7 @@ last_modified_at: '2025-10-07T17:33:29 +0200'
 description: "Las mejores ideas de regalo para ciclistas en 2025. Seleccion de accesorios, gadgets y equipamiento de ciclismo para sorprender a cualquier biker."
 ---
 
-![Regalo Ciclista](https://i.imgur.com/nO1TaAHm.jpg){: .align-right}
+[![Regalo Ciclista](https://i.imgur.com/nO1TaAHm.jpg){: .align-right}]({{ site.constants.wsib }}regalos ciclista)
 
 ¡Hola amigos de Geeknite! Hoy vamos a sumergirnos en el maravilloso mundo de los regalos para ciclistas. Si tienes un amigo, familiar o compañero ciclista y no sabes qué regalarle, estás en el lugar correcto. ¡Vamos a descubrir algunas ideas fabulosas para sorprender a ese ciclista especial en tu vida!
 

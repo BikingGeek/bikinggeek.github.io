@@ -7,7 +7,7 @@ description: "Una revisión divertida y detallada de la camiseta de manga corta 
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Lightning Bolt Board Of Ladys Tee](https://i.imgur.com/yourImage.jpg){: .align-right}
+[![Lightning Bolt Board Of Ladys Tee](https://i.imgur.com/yourImage.jpg){: .align-right}]({{ site.constants.wsib }}Lightning Bolt Board Of Ladys Tee)
 
 ## Introducción
 

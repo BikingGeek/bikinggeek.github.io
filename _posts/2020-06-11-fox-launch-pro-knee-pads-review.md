@@ -8,7 +8,7 @@ description: "Comprehensive review of the Fox Launch Pro knee pads - protection,
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Fox Launch Pro](/images/fox-launch-pro.jpg){: .align-right}
+[![Fox Launch Pro](/images/fox-launch-pro.jpg){: .align-right}]({{ site.constants.wsib }}Fox Launch Pro)
 
 # Fox Launch Pro: The Ultimate MTB Knee Pad Review
 

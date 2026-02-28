@@ -6,7 +6,7 @@ last_modified_at: '2026-02-27T00:00:00+01:00'
 description: "Best Prime Day bike gadgets and accessories deals. Top cycling bargains on GPS computers, lights, tools and gear to upgrade your bike setup for less."
 ---
 
-![Prime Day Deals](https://i.imgur.com/UmrVWy4s.jpg){: .align-right}
+[![Prime Day Deals](https://i.imgur.com/UmrVWy4s.jpg){: .align-right}]({{ site.constants.wsib }}bike gadgets)
 
 It's that time of the year again, folks! Prime Day is upon us, and if you’re a biking enthusiast like me, this is the perfect opportunity to snag some fantastic deals on bike gadgets and accessories. Here's a rundown of the best deals you should keep an eye on.
 

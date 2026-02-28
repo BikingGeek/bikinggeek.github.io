@@ -6,7 +6,7 @@ description: "Complete guide to MTB tubeless wheels: benefits, setup, maintenanc
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![MTB Tubeless Wheels](https://example.com/image.jpg){: .align-right}
+[![MTB Tubeless Wheels](https://example.com/image.jpg){: .align-right}]({{ site.constants.wsib }}MTB Tubeless Wheels)
 
 ## Introduction
 

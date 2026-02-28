@@ -18,7 +18,7 @@ description: "Análisis en profundidad de la GoPro HERO4 Session y su lugar en e
 ---
 
 
-[![GoPro HERO4 Session](https://3.bp.blogspot.com/-oOKPmGjGSrI/VnFbJ9gu79I/AAAAAAAAAqs/9CFjs5c9UgM/s72-c/CHDHS-101_cyber2%255B1%255D.jpg)]({{ site.constants.wsib }}gopro)
+[![GoPro HERO4 Session](https://3.bp.blogspot.com/-oOKPmGjGSrI/VnFbJ9gu79I/AAAAAAAAAqs/9CFjs5c9UgM/s72-c/CHDHS-101_cyber2%255B1%255D.jpg){: .align-right}]({{ site.constants.wsib }}gopro)
 
 ## Comparativa entre cámaras GoPro y alternativas: ¿Realmente vale la pena?
 

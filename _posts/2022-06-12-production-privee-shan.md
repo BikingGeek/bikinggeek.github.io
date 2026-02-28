@@ -6,7 +6,7 @@ tags: [mountain bike, review, Production Privee, Shan, cycling, enduro]
 description: "Production Privee Shan review: lightweight steel hardtail MTB frame. Detailed analysis of geometry, ride quality and why this French frame stands out."
 ---
 
-![Production Privee Shan](https://example.com/images/shan.jpg){:.align-right}
+[![Production Privee Shan](https://example.com/images/shan.jpg){:.align-right}]({{ site.constants.wsib }}Production Privee Shan)
 
 ## Introduction
 

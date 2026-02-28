@@ -6,7 +6,7 @@ last_modified_at: '2026-02-27T00:00:00+01:00'
 description: "Guia definitiva de chaquetas MTB 2025. Comparamos Fox Ranger, Endura MT500 y Gore Wear C5 para ayudarte a elegir la mejor chaqueta de ciclismo de montana."
 ---
 
-![MTB Jackets](https://i.imgur.com/chaquetasmtb.jpg){: .align-right}
+[![MTB Jackets](https://i.imgur.com/chaquetasmtb.jpg){: .align-right}]({{ site.constants.wsib }}MTB Jackets)
 
 # Guía Definitiva de Chaquetas MTB: ¡Prepárate para Salir a Rodar!
 

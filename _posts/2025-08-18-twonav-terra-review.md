@@ -6,7 +6,7 @@ description: "Comprehensive TwoNav Terra GPS review based on authentic user expe
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![TwoNav Terra GPS](https://i.imgur.com/twoNavTerra.jpg){: .align-right}
+[![TwoNav Terra GPS](https://i.imgur.com/twoNavTerra.jpg){: .align-right}]({{ site.constants.wsib }}TwoNav Terra GPS)
 
 ## **Introduction**
 

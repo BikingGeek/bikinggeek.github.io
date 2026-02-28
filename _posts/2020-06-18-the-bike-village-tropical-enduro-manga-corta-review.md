@@ -4,7 +4,10 @@ date: 2020-06-18
 tags: [mtb, gear, review, camiseta, the bike village]
 last_modified_at: '2026-02-27T00:00:00+01:00'
 description: "Review del maillot The Bike Village Tropical Enduro manga corta. Camiseta tecnica de ciclismo con diseno llamativo, comodidad y buen ajuste para MTB."
+hero_image: "Colorful tropical print cycling jersey hanging on hanger, forest green and palm trees pattern, sports fashion photography, 16:9"
 ---
+
+[![The Bike Village Tropical Enduro](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}The Bike Village Tropical Enduro)
 
 # Camiseta manga Corta The Bike Village Tropical Enduro Descenso Review
 

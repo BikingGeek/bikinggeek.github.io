@@ -6,7 +6,7 @@ description: "Una revisión completa de la camiseta técnica Fox Flexair Pro edi
 last_modified_at: '2025-10-08T11:14:51.4622117Z'
 ---
 
-![Camiseta Fox Flexair Pro](https://i.imgur.com/FoxFlexairPro.jpg){: .align-right}
+[![Camiseta Fox Flexair Pro](https://i.imgur.com/FoxFlexairPro.jpg){: .align-right}]({{ site.constants.wsib }}Camiseta Fox Flexair Pro)
 
 **¡Bienvenidos, amantes del ciclismo y la moda MTB!** Hoy vamos a revisar la camiseta técnica de manga corta Fox Flexair Pro edición Greg Minnaar. ¿Será esta camiseta digna de un campeón mundial o simplemente otra pieza de tela? ¡Sigue leyendo para descubrirlo!
 

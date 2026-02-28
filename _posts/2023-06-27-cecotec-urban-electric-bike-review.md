@@ -4,6 +4,7 @@ date: "2023-06-27"
 tags: ['electric bike', 'bike review', 'Cecotec Urban', 'urban mobility', 'electric vehicle']
 description: "In-depth review of the Cecotec Urban Electric Bike: features, performance, and why it's great for city commuting."
 last_modified_at: '2026-02-27T00:00:00+01:00'
+hero_image: "Urban electric bike parked on city street, modern European city background, commuter style, clean lines, lifestyle photography, 16:9"
 ---
 
 ## Introduction: The New Face of Urban Commute

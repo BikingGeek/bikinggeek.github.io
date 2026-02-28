@@ -8,7 +8,7 @@ last_modified_at: '2026-02-27T00:00:00+01:00'
 
 # Nitefighter BT40s: The Ultimate Bike Light Review
 
-![Nitefighter BT40s](https://i.imgur.com/nitefighter.jpg){:.align-right}
+[![Nitefighter BT40s](https://i.imgur.com/nitefighter.jpg){:.align-right}]({{ site.constants.wsib }}Nitefighter BT40s)
 
 ## Introduction
 

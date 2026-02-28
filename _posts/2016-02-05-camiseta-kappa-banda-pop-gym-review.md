@@ -6,7 +6,7 @@ description: "Una divertida y detallada reseña sobre la Camiseta Kappa Banda Po
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Camiseta Kappa Banda Pop](https://i.imgur.com/Zf4Wpssm.jpg){: .align-right}
+[![Camiseta Kappa Banda Pop](https://i.imgur.com/Zf4Wpssm.jpg){: .align-right}]({{ site.constants.wsib }}Camiseta Kappa Banda Pop)
 
 ## Introducción
 

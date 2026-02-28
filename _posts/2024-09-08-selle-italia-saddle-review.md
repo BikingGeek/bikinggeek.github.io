@@ -7,7 +7,7 @@ description: "An entertaining and detailed review of Selle Italia saddles, explo
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Selle Italia Saddle](https://i.imgur.com/bike_saddle.png){:.align-right}
+[![Selle Italia Saddle](https://i.imgur.com/bike_saddle.png){:.align-right}]({{ site.constants.wsib }}Selle Italia Saddle)
 
 ## Introduction
 

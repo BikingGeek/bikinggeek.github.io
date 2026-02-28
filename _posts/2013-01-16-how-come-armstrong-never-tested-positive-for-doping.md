@@ -11,7 +11,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Discover the shocking methods Lance Armstrong allegedly used to avoid testing positive for doping. A tale of deception and controversy."
 ---
 
-![Lance Armstrong](https://2.bp.blogspot.com/-0rty5QcbR9A/Vt1wHyqUj0I/AAAAAAAAAv4/CJmyv_hEASM/s1600/7580772_f260%255B1%255D.jpg){: .align-right}
+[![Lance Armstrong](https://2.bp.blogspot.com/-0rty5QcbR9A/Vt1wHyqUj0I/AAAAAAAAAv4/CJmyv_hEASM/s1600/7580772_f260%255B1%255D.jpg){: .align-right}]({{ site.constants.wsib }}cycling)
 
 ### The Scandal: How Did Armstrong Get Away with It?
 

@@ -6,7 +6,7 @@ description: "Descubre la guía más divertida y completa sobre calcetines Coolm
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Calcetines Coolmax](https://i.imgur.com/u9NfQ8J.png){: .align-right}
+[![Calcetines Coolmax](https://i.imgur.com/u9NfQ8J.png){: .align-right}]({{ site.constants.wsib }}Calcetines Coolmax)
 
 ## Introducción
 

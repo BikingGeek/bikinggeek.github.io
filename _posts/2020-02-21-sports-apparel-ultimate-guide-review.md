@@ -6,7 +6,7 @@ description: "Complete guide to sports apparel: from legendary Benfica retro shi
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Sports Apparel Guide](https://example.com/sports-apparel-guide.jpg){:.align-right}
+[![Sports Apparel Guide](https://example.com/sports-apparel-guide.jpg){:.align-right}]({{ site.constants.wsib }}Sports Apparel Guide)
 
 ## Introduction
 

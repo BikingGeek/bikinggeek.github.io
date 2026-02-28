@@ -7,7 +7,7 @@ description: "An in-depth review of the Canyon Nerve bike. Is it worth the inves
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Canyon Nerve](https://www.canyon.com/images/canyon-nerve.jpg){:.align-right}
+[![Canyon Nerve](https://www.canyon.com/images/canyon-nerve.jpg){:.align-right}]({{ site.constants.wsib }}Canyon Nerve)
 
 Welcome back, fellow bike enthusiasts! Today, we're diving into the world of the Canyon Nerve, a bike that's got quite the reputation. Is it the ultimate trail machine or just a nerve-wrecking experience waiting to happen? Buckle up, because we're about to find out!
 

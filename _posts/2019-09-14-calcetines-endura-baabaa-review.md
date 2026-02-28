@@ -8,7 +8,7 @@ last_modified_at: '2026-02-27T00:00:00+01:00'
 
 # Calcetines Endura Baabaa - Un análisis completo y divertido
 
-![Endura Baabaa Calcetines](https://www.example.com/images/endura-baabaa.jpg){: .align-right}
+[![Endura Baabaa Calcetines](https://www.example.com/images/endura-baabaa.jpg){: .align-right}]({{ site.constants.wsib }}Endura Baabaa Calcetines)
 
 ¡Hola, ciclistas y fanáticos del confort en los pies! Hoy vamos a hablar de uno de los accesorios más esenciales para cualquier amante del ciclismo: los calcetines. Pero no cualquier calcetines, estamos hablando de los **Endura Baabaa**. Sí, esos calcetines con un nombre tan pegajoso que te hace querer decir "baabaa" cada vez que los ves. Vamos a sumergirnos en este análisis y descubrir por qué podrían ser tu nuevo par favorito.
 

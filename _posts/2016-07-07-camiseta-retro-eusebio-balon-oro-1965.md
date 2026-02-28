@@ -4,7 +4,10 @@ date: 2016-07-07
 tags: [retro, football, sports-wear, eusebio, review]
 description: "Review de la camiseta retro que conmemora el Balón de Oro de Eusébio en 1965. Nostalgia, historia y estilo en una prenda."
 last_modified_at: '2026-02-27T00:00:00+01:00'
+hero_image: "Retro red football shirt with vintage styling, Eusebio era 1965, hanging display, nostalgic sports memorabilia, warm studio lighting, 16:9"
 ---
+
+[![Camiseta Retro Eusebio 1965](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Camiseta Retro Eusebio 1965)
 
 ## Introducción
 

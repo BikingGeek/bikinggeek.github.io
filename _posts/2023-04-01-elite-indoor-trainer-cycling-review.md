@@ -6,7 +6,7 @@ description: "An in-depth and entertaining review of the Elite indoor trainer. F
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Elite Indoor Trainer](https://i.imgur.com/1k9XcW9m.jpg){: .align-right}
+[![Elite Indoor Trainer](https://i.imgur.com/1k9XcW9m.jpg){: .align-right}]({{ site.constants.wsib }}Elite Indoor Trainer)
 
 ## Introduction
 

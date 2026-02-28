@@ -6,7 +6,7 @@ description: "Discover the CycleOps Fluid2 bike trainer and why it's the ultimat
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![CycleOps Fluid2](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}
+[![CycleOps Fluid2](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}CycleOps Fluid2)
 
 ## Introduction
 

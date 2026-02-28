@@ -11,6 +11,7 @@ tags:
 - training
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre cómo dominar el arte del pumping sin necesidad de una pista de bombeo. ¿Es realmente tan fácil como parece? Spoiler: no lo es."
+hero_image: "Mountain biker performing pumping technique on rocky trail, dynamic body position, MTB action shot, forest background, professional sports photography, 16:9"
 ---
 
 ### Sé un maestro del pumping sin una pista de bombeo

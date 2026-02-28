@@ -4,7 +4,10 @@ date: 2023-04-15
 tags: [sports-wear, running, t-shirt, review]
 description: "Review completa de la camiseta deportiva Sols Sprint Running Unisex en color verde. Transpirable, flexible y duradera."
 last_modified_at: '2026-02-27T00:00:00+01:00'
+hero_image: "Green running technical t-shirt flat lay on grass, sporty minimalist styling, bright natural lighting, product photography, 16:9"
 ---
+
+[![Sols Sprint Running Verde](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Sols Sprint Running Verde)
 
 ## Introducción
 

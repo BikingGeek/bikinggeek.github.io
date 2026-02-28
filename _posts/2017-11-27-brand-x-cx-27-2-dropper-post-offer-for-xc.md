@@ -13,7 +13,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre si el Brand-X CX 27.2 Dropper Post es la mejor opción para tu bicicleta XC. ¿Vale la pena o es solo otra oferta más?"
 ---
 
-![Brand-X CX Dropper Post](https://2.bp.blogspot.com/-hbpMIljHk2c/Whv7-Iv9liI/AAAAAAAABAw/4v7rYNsfDTUdLukxien-KrJNcOPvBdPUQCLcBGAs/s320/cxdropper.jpg){: .align-right}
+[![Brand-X CX Dropper Post](https://2.bp.blogspot.com/-hbpMIljHk2c/Whv7-Iv9liI/AAAAAAAABAw/4v7rYNsfDTUdLukxien-KrJNcOPvBdPUQCLcBGAs/s320/cxdropper.jpg){: .align-right}]({{ site.constants.wsib }}Brand-X CX Dropper Post)
 
 ### Brand-X CX 27.2 Dropper Post: ¿Una ganga o una trampa?
 

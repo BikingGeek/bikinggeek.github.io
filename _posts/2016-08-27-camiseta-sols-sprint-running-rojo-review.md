@@ -10,7 +10,7 @@ last_modified_at: '2026-02-27T00:00:00+01:00'
 
 ¡Hola, corredores y geeks del deporte! Hoy vamos a hacer una revisión completa de una prenda de vestir tan rápida que podría hacerte sentir como si tuvieras cohetes en los pies: la **Camiseta Deportiva Sols Sprint Running Unisex en color rojo**. ¿Es esta camiseta realmente el secreto para batir tu mejor marca personal? Vamos a descubrirlo.
 
-![Camiseta Sols Sprint Running](https://i.imgur.com/camiseta-sprint-rojo.jpg){: .align-right}
+[![Camiseta Sols Sprint Running](https://i.imgur.com/camiseta-sprint-rojo.jpg){: .align-right}]({{ site.constants.wsib }}Camiseta Sols Sprint Running)
 
 ---
 

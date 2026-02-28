@@ -4,6 +4,7 @@ date: 2019-06-26
 tags: [mtb, suspension, review, 140mm, technology]
 last_modified_at: "2025-10-07T01:44:43+02:00"
 description: "A comprehensive review of the best 140mm MTB suspension systems available in 2025."
+hero_image: "MTB suspension fork close-up showing 140mm travel markings, technical detail, trail dust on stanchions, mechanical precision, product photography, 16:9"
 ---
 
 ## Introduction

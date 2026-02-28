@@ -8,7 +8,7 @@ excerpt: "Dive into the world of Tifosi Seek Fototec sunglasses with this funny 
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Tifosi Seek Fototec](https://i.imgur.com/XxZs8yZm.jpg){:.align-right}
+[![Tifosi Seek Fototec](https://i.imgur.com/XxZs8yZm.jpg){:.align-right}]({{ site.constants.wsib }}Tifosi Seek Fototec)
 
 ## Introduction
 

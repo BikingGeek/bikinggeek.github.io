@@ -4,7 +4,10 @@ date: 2016-04-27
 tags: [camiseta, manga corta, confort, calidad, moda, review]
 description: "Una reseó±a divertida y detallada sobre la camiseta de manga corta Lightning Bolt Board Of Directors."
 last_modified_at: '2026-02-27T00:00:00+01:00'
+hero_image: "Pink casual t-shirt with Lightning Bolt brand logo, flat lay on rustic surface, casual fashion photography, warm tones, 16:9"
 ---
+
+[![Lightning Bolt Board of Directors Tee](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Lightning Bolt Board of Directors Tee)
 
 ## ¡Hola, Geeks y Geekettes!
 

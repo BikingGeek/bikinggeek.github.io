@@ -6,7 +6,7 @@ description: "The ultimate Garmin Forerunner 220 review in 2025. Complete analys
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Garmin Forerunner 220](https://i.imgur.com/garmin-forerunner-220.jpg){:.align-right}
+[![Garmin Forerunner 220](https://i.imgur.com/garmin-forerunner-220.jpg){:.align-right}]({{ site.constants.wsib }}Garmin Forerunner 220)
 
 ## Introduction: A Classic Running Watch in the Modern Era
 

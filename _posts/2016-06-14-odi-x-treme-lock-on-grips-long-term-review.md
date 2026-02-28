@@ -7,6 +7,7 @@ tags:
 - review
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre si los ODI X-Treme Lock-On Grips siguen siendo una buena opción después de años de uso. ¿Son realmente tan buenos como dicen?"
+hero_image: "Close-up of MTB handlebar grips installed on bike handlebars, textured rubber detail visible, workshop background, macro product photography, 16:9"
 ---
 
 ### ODI X-Treme Lock-On Grips: ¿Valen la pena después de años de uso?

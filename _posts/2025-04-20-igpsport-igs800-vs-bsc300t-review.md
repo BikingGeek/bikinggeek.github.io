@@ -6,7 +6,7 @@ date: "2025-04-20"
 last_modified_at: '2025-04-21T10:00:00+02:00'
 ---
 
-![iGPSPORT iGS800 vs BSC300T](https://i.imgur.com/aRyU7Xem.jpg){:.align-right}
+[![iGPSPORT iGS800 vs BSC300T](https://i.imgur.com/aRyU7Xem.jpg){:.align-right}]({{ site.constants.wsib }}iGPSPORT iGS800 vs BSC300T)
 
 *Hey there, fellow bike enthusiasts! Ready for a ride filled with laughter, data, and a touch of friendly rivalry? Today, we're putting two amazing bike computers head-to-head in the ultimate battle for the title of the best bike companion! Let's welcome the iGPSPORT iGS800 and BSC300T to the ring! 🚴*
 

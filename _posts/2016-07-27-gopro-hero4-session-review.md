@@ -11,6 +11,7 @@ tags:
 - action cam
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos la GoPro Hero4 Session: ¿Es realmente la cámara de acción definitiva o solo otra moda pasajera? Descubre sus pros y contras."
+hero_image: "GoPro action camera mounted on MTB helmet, trail riding scene in background, dynamic angle, adventure photography style, 16:9"
 ---
 
 ### GoPro Hero4 Session: ¿La cámara de acción definitiva?

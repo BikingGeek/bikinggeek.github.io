@@ -6,7 +6,7 @@ description: "An in-depth review of the Garmin Edge 500 bike computer, its featu
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Garmin Edge 500](https://i.imgur.com/HQ1NFjS.jpg){:.align-right}
+[![Garmin Edge 500](https://i.imgur.com/HQ1NFjS.jpg){:.align-right}]({{ site.constants.wsib }}Garmin Edge 500)
 
 Hello, fellow cyclists and tech geeks! Today we're taking a trip down memory lane with the Garmin Edge 500, a classic bike computer that has been a beloved companion for many cyclists over the years. If you're into retro tech with modern capabilities, this review is for you!
 

@@ -5,6 +5,7 @@ date: 2018-08-18 17:00:00 +0200
 tags: mtb discount shopping
 description: "Chain Reaction Cycles Discount Codes - Save on Your Cycling Gear - Get exclusive discount codes for Chain Reaction Cycles to save money on cycling purchases."
 last_modified_at: '2023-07-06T00:00:00+02:00'
+hero_image: "Online cycling shop warehouse with bikes and gear boxes, modern e-commerce feel, cycling equipment stacked, bright clean photography, 16:9"
 ---
 
 [Chain Reaction Cycles](https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref=){: rel="nofollow"} is one of our favorite MTB online stores, it offers good prices and a great selection of items, from MTB to road, even if we don't usually go on road they have good equipment that can be used for offroad. Also they offer free shipping on reaching a certain amount, variable depending on the country, for example 49€ buying from Spain.

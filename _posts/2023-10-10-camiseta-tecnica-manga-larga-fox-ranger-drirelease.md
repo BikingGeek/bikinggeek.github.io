@@ -6,7 +6,7 @@ last_modified_at: '2026-02-27T00:00:00+01:00'
 description: "Review de la camiseta tecnica Fox Ranger DriRelease de manga larga. Analisis de comodidad, transpirabilidad y rendimiento para rutas de MTB."
 ---
 
-![Fox Ranger Drirelease](https://i.imgur.com/your-image.jpg){: .align-right}
+[![Fox Ranger Drirelease](https://i.imgur.com/your-image.jpg){: .align-right}]({{ site.constants.wsib }}Fox Ranger Drirelease)
 
 ## Introducción
 

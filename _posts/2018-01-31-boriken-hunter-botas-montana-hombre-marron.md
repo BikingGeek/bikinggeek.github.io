@@ -6,7 +6,7 @@ description: "A funny and thorough review of the Boriken Hunter Botas Montaña H
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Boriken Hunter Botas](https://i.imgur.com/borikenhunter.jpg){:.align-right}
+[![Boriken Hunter Botas](https://i.imgur.com/borikenhunter.jpg){:.align-right}]({{ site.constants.wsib }}Boriken Hunter Botas)
 
 ## Introduction
 

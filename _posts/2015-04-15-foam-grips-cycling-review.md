@@ -6,7 +6,7 @@ description: "An in-depth and humorous review of foam grips for bikes. Are they 
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Foam Grips](https://example.com/foam-grips.jpg){: .align-right}
+[![Foam Grips](https://example.com/foam-grips.jpg){: .align-right}]({{ site.constants.wsib }}Foam Grips)
 
 **Hello Geeknite readers!**
 

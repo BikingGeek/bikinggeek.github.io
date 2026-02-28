@@ -6,7 +6,7 @@ description: "Descubre la revisión más completa y divertida de las botas de tr
 last_modified_at: '2026-02-27T00:00:00+01:00'
 ---
 
-![Botas de Trekking Diotto Hunter HV](https://i.imgur.com/DiottoHunterHV.jpg){: .align-right}
+[![Botas de Trekking Diotto Hunter HV](https://i.imgur.com/DiottoHunterHV.jpg){: .align-right}]({{ site.constants.wsib }}Botas de Trekking Diotto Hunter HV)
 
 ## Introducción
 
