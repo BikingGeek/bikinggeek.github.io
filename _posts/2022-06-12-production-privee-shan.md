@@ -1,7 +1,7 @@
 ---
 title: "Production Privee Shan: The Ultimate Mountain Bike Review"
 date: 2022-06-12
-last_modified_at: '2025-10-07T01:31:32.6242722Z'
+last_modified_at: "2025-10-07T01:31:32.6242722Z"
 tags: [mountain bike, review, Production Privee, Shan, cycling, enduro]
 description: "Production Privee Shan review: lightweight steel hardtail MTB frame. Detailed analysis of geometry, ride quality and why this French frame stands out."
 ---

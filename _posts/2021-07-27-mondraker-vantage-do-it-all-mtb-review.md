@@ -3,7 +3,7 @@ title: "Mondraker Vantage Review: The Do-It-All MTB"
 date: 2021-07-27
 tags: [mondraker, vantage, mtb, mountain-bike, cycling, review]
 description: "A comprehensive and funny review of the Mondraker Vantage MTB."
-last_modified_at: '2026-02-27T00:00:00+01:00'
+last_modified_at: "2026-02-27T00:00:00+01:00"
 ---
 
 [![Mondraker Vantage](https://i.imgur.com/6JDDmDgm.jpeg){:.align-right}]({{ site.constants.wsib }}Mondraker Vantage)
@@ -73,12 +73,15 @@ Now, let's talk about some of the quirks that make the Mondraker Vantage unique 
 ## Comparison with Other Mountain Bikes
 
 ### [Canyon Spectral AL 7.0]( {% post_url 2018-07-23-canyon-breakaway-sale-2018 %} )
+
 The Canyon Spectral AL 7.0 offers advanced suspension and handling features, making it a premium choice for serious mountain bikers. However, it comes at an even higher price point than the Vantage.
 
 ### [Bluegrass Rogue Helmet]({% post_url 2023-07-18-bluegrass-rogue-helmet-review %})
+
 While not a mountain bike, the Bluegrass Rogue Helmet pairs perfectly with the Vantage for safety and style. If you're looking for gear to match your bike, check this out!
 
 ### [Garmin Edge 540]({% post_url 2023-07-06-garmin-edge-540-review %})
+
 The Garmin Edge 540 is a bike computer that complements the Vantage with its advanced navigation and performance tracking features. Consider this combo if you want to take your rides to the next level.
 
 ---

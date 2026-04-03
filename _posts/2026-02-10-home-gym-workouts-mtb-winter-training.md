@@ -4,7 +4,7 @@ date: 2026-02-10
 tags: [mtb, training, fitness, home-gym, winter, workout]
 description: "Discover effective home gym workouts and weight training exercises for mountain bikers. Build strength and power during winter afternoons."
 excerpt: "When the trails are muddy and daylight is scarce, the home gym becomes your secret weapon. Here are the best weight training exercises and home workouts for MTB riders."
-last_modified_at: '2026-02-10T18:00:00+02:00'
+last_modified_at: "2026-02-10T18:00:00+02:00"
 ---
 
 [![Home gym dumbbells](https://i.imgur.com/rVACFNqm.jpg){:.align-right}]({{ site.constants.wsib }}home gym equipment)
@@ -86,6 +86,7 @@ Explosive power for those moments when you need to pop over obstacles or launch 
 A strong core is essential for maintaining control during descents and technical sections. Your core transfers power from your legs to the pedals and helps you absorb impacts.
 
 **5. Plank Variations**
+
 - Standard plank: 3 x 45-60 seconds
 - Side planks: 3 x 30-45 seconds each side
 - Plank with arm/leg lifts: 3 x 10 each side
@@ -131,15 +132,15 @@ Walk with heavy dumbbells to build grip endurance — your forearms will thank y
 
 Here's how to structure your winter training week to maintain cycling fitness while building strength:
 
-| Day | Activity |
-|-----|----------|
-| **Monday** | Strength training (Lower body focus) |
-| **Tuesday** | [Indoor trainer]({%- post_url 2023-04-01-elite-indoor-trainer-cycling-review -%}) or [Zwift session]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%}) |
-| **Wednesday** | Core & mobility work (30-40 min) |
-| **Thursday** | Indoor trainer (intervals) |
-| **Friday** | Strength training (Upper body & full body) |
-| **Saturday** | Trail ride if conditions allow / long Zwift ride |
-| **Sunday** | Active recovery: yoga, stretching, easy spin |
+| Day           | Activity                                                                                                                                                                         |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Monday**    | Strength training (Lower body focus)                                                                                                                                             |
+| **Tuesday**   | [Indoor trainer]({%- post_url 2023-04-01-elite-indoor-trainer-cycling-review -%}) or [Zwift session]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%}) |
+| **Wednesday** | Core & mobility work (30-40 min)                                                                                                                                                 |
+| **Thursday**  | Indoor trainer (intervals)                                                                                                                                                       |
+| **Friday**    | Strength training (Upper body & full body)                                                                                                                                       |
+| **Saturday**  | Trail ride if conditions allow / long Zwift ride                                                                                                                                 |
+| **Sunday**    | Active recovery: yoga, stretching, easy spin                                                                                                                                     |
 
 ## Workout Plan: "Winter Power Builder"
 
@@ -184,15 +185,15 @@ As we age, this balance becomes even more important — as we discussed in our a
 
 Here's a summary of everything you need to get started:
 
-| Equipment | Purpose |
-|-----------|---------|
-| [Adjustable Dumbbells]({{ site.constants.wsib }}adjustable dumbbells bowflex) | Most versatile strength tool |
-| [Kettlebells]({{ site.constants.wsib }}kettlebell cast iron) | Explosive movements, swings |
-| [Pull-Up Bar]({{ site.constants.wsib }}doorway pull up bar iron gym) | Upper body & grip strength |
-| [Resistance Bands]({{ site.constants.wsib }}resistance bands set 5) | Warm-ups, assistance, mobility |
-| [TRX or Suspension Trainer]({{ site.constants.wsib }}suspension trainer) | Full-body functional training |
-| [Foam Roller]({{ site.constants.wsib }}foam roller) | Recovery and mobility |
-| [Balance Board]({{ site.constants.wsib }}balance board wobble) | Proprioception training |
+| Equipment                                                                     | Purpose                        |
+| ----------------------------------------------------------------------------- | ------------------------------ |
+| [Adjustable Dumbbells]({{ site.constants.wsib }}adjustable dumbbells bowflex) | Most versatile strength tool   |
+| [Kettlebells]({{ site.constants.wsib }}kettlebell cast iron)                  | Explosive movements, swings    |
+| [Pull-Up Bar]({{ site.constants.wsib }}doorway pull up bar iron gym)          | Upper body & grip strength     |
+| [Resistance Bands]({{ site.constants.wsib }}resistance bands set 5)           | Warm-ups, assistance, mobility |
+| [TRX or Suspension Trainer]({{ site.constants.wsib }}suspension trainer)      | Full-body functional training  |
+| [Foam Roller]({{ site.constants.wsib }}foam roller)                           | Recovery and mobility          |
+| [Balance Board]({{ site.constants.wsib }}balance board wobble)                | Proprioception training        |
 
 ## Final Thoughts 🚵
 

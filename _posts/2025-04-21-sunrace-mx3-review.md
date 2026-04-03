@@ -2,12 +2,12 @@
 title: "Sunrace MX3 Review: Geeknite's Take on a Budget-Friendly Hero"
 date: "2025-10-07"
 tags:
-- Cycling
-- Gadgets
-- Sunrace
-- MX3
-- Review
-last_modified_at: '2025-10-07T01:12:01+02:00'
+  - Cycling
+  - Gadgets
+  - Sunrace
+  - MX3
+  - Review
+last_modified_at: "2025-10-07T01:12:01+02:00"
 description: "Discover the pros and cons of the Sunrace MX3 in Geeknite's hilarious and detailed review."
 ---
 
@@ -83,7 +83,7 @@ Happy cycling! 🚴‍♂️💨
 - [iGPSPORT iGS630 Review: Great Value Bike Computer with Minor Flaws]({% post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws %})
 - [Garmin Edge 530 vs iGPSPORT 630]({% post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 %})
 
-*Until next time, fellow cyclists!*
+_Until next time, fellow cyclists!_
 
 ## Related Posts
 

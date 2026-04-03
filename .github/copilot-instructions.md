@@ -374,6 +374,9 @@ Remote theme changes require cache clear. Delete `.jekyll-metadata` and `_site/`
 - `Gemfile` — GitHub Pages gem, minimal dependencies
 - `m2jl.ps1` — Development shortcut (markdown-to-JSON conversion)
 
+## Changelog
+- 2026-04-03: Replaced `_posts/2026-04-03-introducing-ebikes-geeknite.md` with an extended announcement draft promoting `https://ebikes.geeknite.com/` (added by Copilot assistant at user's request).
+
 ## External Dependencies
 - Jekyll plugins: `github-pages` bundle (includes jekyll-feed, jekyll-sitemap, jekyll-redirect-from, jekyll-paginate)
 - No Node.js/npm build process

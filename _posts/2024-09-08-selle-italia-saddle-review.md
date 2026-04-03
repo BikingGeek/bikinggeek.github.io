@@ -4,7 +4,7 @@ date: 2024-09-08
 category: "Reviews"
 tags: [saddles, Selle Italia, cycling, bike components]
 description: "An entertaining and detailed review of Selle Italia saddles, exploring their comfort, durability, and style."
-last_modified_at: '2026-02-27T00:00:00+01:00'
+last_modified_at: "2026-02-27T00:00:00+01:00"
 ---
 
 [![Selle Italia Saddle](https://i.imgur.com/bike_saddle.png){:.align-right}]({{ site.constants.wsib }}Selle Italia Saddle)

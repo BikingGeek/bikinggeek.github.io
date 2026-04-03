@@ -3,7 +3,7 @@ title: "Review de la Camiseta Deportiva Sols Sprint Running Unisex Verde"
 date: 2023-04-15
 tags: [sports-wear, running, t-shirt, review]
 description: "Review completa de la camiseta deportiva Sols Sprint Running Unisex en color verde. Transpirable, flexible y duradera."
-last_modified_at: '2026-02-27T00:00:00+01:00'
+last_modified_at: "2026-02-27T00:00:00+01:00"
 hero_image: "Green running technical t-shirt flat lay on grass, sporty minimalist styling, bright natural lighting, product photography, 16:9"
 ---
 
@@ -56,12 +56,14 @@ Hablemos de suavidad. La camiseta es increíblemente suave, lo que significa que
 ### Pros y Contras
 
 **Pros:**
+
 - Transpirable
 - Flexible
 - Duradera
 - Suave
 
 **Contras:**
+
 - Puede que te camufles demasiado bien en el bosque
 
 ### Recomendación Final

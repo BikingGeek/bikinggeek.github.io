@@ -5,7 +5,7 @@ tags: [sunglasses, review, Tifosi, fototec, geek gear]
 filename: 2025-10-07-tifosi-seek-fototec-review.md
 description: "A hilarious and detailed review of Tifosi Seek Fototec sunglasses for geeks who love cycling and outdoor adventures"
 excerpt: "Dive into the world of Tifosi Seek Fototec sunglasses with this funny and detailed review, covering everything from design to performance."
-last_modified_at: '2026-02-27T00:00:00+01:00'
+last_modified_at: "2026-02-27T00:00:00+01:00"
 ---
 
 [![Tifosi Seek Fototec](https://i.imgur.com/XxZs8yZm.jpg){:.align-right}]({{ site.constants.wsib }}Tifosi Seek Fototec)

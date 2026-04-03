@@ -1,8 +1,8 @@
 ---
 title: "Five Ten Sleuth Review: The Ultimate Casual MTB Shoe"
-date: '2023-04-07'
-tags: ['Five Ten', 'Sleuth', 'MTB', 'shoe', 'review', 'funny']
-last_modified_at: '2026-02-27T00:00:00+01:00'
+date: "2023-04-07"
+tags: ["Five Ten", "Sleuth", "MTB", "shoe", "review", "funny"]
+last_modified_at: "2026-02-27T00:00:00+01:00"
 description: "Five Ten Sleuth MTB shoes long-term review. Flat pedal shoes with excellent grip, comfort and durability tested over months of mountain biking trails."
 ---
 
@@ -61,7 +61,9 @@ In conclusion, the Five Ten Sleuth is a fantastic choice for anyone looking to c
 Happy riding, and may your shoes always grip like a champ!
 
 ---
+
 Other posts you might like:
+
 - [Five Ten Sleuth Half Priced Deal]({%- post_url 2017-11-30-mtb-shoes-five-ten-sleuth-half-priced -%})
 - [MTB XC vs Trail Geometry Differences]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
 - [Garmin Edge 540 Review]({%- post_url 2023-07-06-garmin-edge-540-review -%})

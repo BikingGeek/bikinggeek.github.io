@@ -3,7 +3,7 @@ title: "Elite Indoor Trainer Review: Get Fit Indoors Without Getting Hit by a Ca
 date: 2023-04-01
 tags: [cycling, indoor-trainer, fitness, review]
 description: "An in-depth and entertaining review of the Elite indoor trainer. Find out why this gadget is a must-have for cyclists."
-last_modified_at: '2026-02-27T00:00:00+01:00'
+last_modified_at: "2026-02-27T00:00:00+01:00"
 ---
 
 [![Elite Indoor Trainer](https://i.imgur.com/1k9XcW9m.jpg){: .align-right}]({{ site.constants.wsib }}Elite Indoor Trainer)

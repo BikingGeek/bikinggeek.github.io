@@ -12,7 +12,7 @@ description              : &description "Get unbiased and informative Biking rev
 url                      : "https://sports.geeknite.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/general.jpg" # fallback teaser image for archive listings
 logo                     : "https://i.imgur.com/aSMZ6cxm.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "BikingGeek" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -71,7 +71,7 @@ twitter:
 #   username               : &facebook "michaelrose"
 #   app_id                 :
 #   publisher              :
-#og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+og_image                 : "https://i.imgur.com/aSMZ6cxm.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -177,19 +177,8 @@ kramdown:
 
 
 # Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+# Only define collections that are actually used
+collections: {}
 
 
 # Defaults

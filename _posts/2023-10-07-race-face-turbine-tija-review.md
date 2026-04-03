@@ -2,11 +2,11 @@
 title: "Race Face Turbine Tija Review: The Ultimate Seatpost for Your MTB"
 date: "2023-10-07"
 tags:
- - MTB
- - review
- - race face
- - seatpost
-last_modified_at: '2023-10-07T04:57:28 +02:00'
+  - MTB
+  - review
+  - race face
+  - seatpost
+last_modified_at: "2023-10-07T04:57:28 +02:00"
 description: "Review de la tija telescopica Race Face Turbine. Analisis completo de esta dropper post fiable con buen rendimiento y precio competitivo para MTB."
 ---
 

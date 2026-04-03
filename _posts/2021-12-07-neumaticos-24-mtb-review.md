@@ -1,9 +1,9 @@
 ---
-title: 'Neumáticos 2.4 MTB: La Guía Definitiva'
+title: "Neumáticos 2.4 MTB: La Guía Definitiva"
 date: 2021-12-07
 tags: [mtb, review, neumaticos]
-description: 'Guía completa sobre neumáticos 2.4 MTB: mejores modelos, comparativas y consejos de compra'
-last_modified_at: '2026-02-27T00:00:00+01:00'
+description: "Guía completa sobre neumáticos 2.4 MTB: mejores modelos, comparativas y consejos de compra"
+last_modified_at: "2026-02-27T00:00:00+01:00"
 ---
 
 [![Neumáticos 2.4 MTB](https://i.imgur.com/neumaticos24mtb.jpg){:.align-right}]({{ site.constants.wsib }}Neumáticos 2.4 MTB)
@@ -77,11 +77,11 @@ El Continental Der Baron ofrece una mezcla de velocidad y tracción. Es una opci
 
 Aquí os dejamos una tabla con la comparación de rendimiento de estos neumáticos en diferentes condiciones:
 
-| Neumático | Agarre | Durabilidad | Precio |
-|------------------------|--------|-------------|--------|
-| Maxxis Minion DHF | 10/10 | 8/10 | $$$$ |
-| Schwalbe Magic Mary | 9/10 | 9/10 | $$$ |
-| Continental Der Baron | 7/10 | 8/10 | $$ |
+| Neumático             | Agarre | Durabilidad | Precio |
+| --------------------- | ------ | ----------- | ------ |
+| Maxxis Minion DHF     | 10/10  | 8/10        | $$$$   |
+| Schwalbe Magic Mary   | 9/10   | 9/10        | $$$    |
+| Continental Der Baron | 7/10   | 8/10        | $$     |
 
 # Cómo elegir el neumático adecuado
 
