@@ -1,6 +1,6 @@
 ---
 title: "Best Light e‑Bike Motors Compared: TQ HPR50 vs Fazua Ride 60 vs Bosch SX vs Mahle vs Specialized SL"
-date: 2026-04-18 10:00:00 +01:00
+date: 2026-04-10 10:00:00 +01:00
 tags:
   [
     ebikes,
