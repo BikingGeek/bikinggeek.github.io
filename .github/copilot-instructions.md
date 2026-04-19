@@ -326,6 +326,10 @@ Structure: Intro → Feature-by-feature → Winner per section → Final verdict
 
 ---
 
+## AI Assistant Constraints
+- **Vision is NOT enabled** for this organization. Never attempt image analysis, screenshot reading, or any vision-based operations. Error: `{"message":"vision is not enabled for this organization","code":""}`. If image content is needed, ask the user to describe it.
+- Follow instructions strictly — do not attempt unsupported features.
+
 ## Pitfalls to Avoid
 1. **Never** use file extensions in `post_url` tags
 2. **Always** check `_config.yml` constants before hardcoding affiliate links

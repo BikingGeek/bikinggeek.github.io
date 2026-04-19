@@ -16,7 +16,7 @@ tags:
   ]
 description: "Light e‑bike motor comparison: TQ HPR50, Fazua Ride 60, Bosch SX, Mahle X35 and Specialized SL 1.2 — specs, ride feel and verdict."
 excerpt: "Which light e‑bike motor delivers the most natural ride? We compare TQ HPR50, Fazua Ride 60, Bosch SX, Mahle X35+ and Specialized SL 1.2 on weight, torque, battery life, smoothness and real‑world rider sentiment."
-last_modified_at: "2026-04-18T10:00:00+01:00"
+last_modified_at: "2026-04-19T10:00:00+01:00"
 hero_image: "Lightweight e‑mountain bike on a gravel trail, rider pedaling naturally, slim frame with integrated motor barely visible, golden hour lighting, dynamic action shot, editorial cycling photography, 16:9"
 locale: en
 ---
@@ -60,7 +60,7 @@ For a comparison of full‑power motors, read our [full‑power e‑bike motor c
 
 ## TQ HPR50 — the featherweight champion
 
-[![TQ HPR50 motor](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}TQ HPR50 ebike)
+[![TQ HPR50 motor](/assets/images/motors/tq-hpr50.png){: .align-right}]({{ site.constants.wsib }}TQ HPR50 ebike)
 
 **Specs at a glance:** 50 Nm torque · ~300 W peak · 1.85 kg · 360 Wh internal battery · optional 160 Wh range extender
 
@@ -84,7 +84,7 @@ Best for: experienced riders who want the lightest, most natural‑feeling e‑b
 
 ## Fazua Ride 60 — the torque leader
 
-[![Fazua Ride 60](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Fazua Ride 60 ebike)
+[![Fazua Ride 60](/assets/images/motors/fazua-ride-60.jpg){: .align-right}]({{ site.constants.wsib }}Fazua Ride 60 ebike)
 
 **Specs at a glance:** 60 Nm torque · ~450 W peak · 1.96 kg · 430 Wh internal battery · optional 210 Wh range extender
 
@@ -108,7 +108,7 @@ Best for: riders who want the strongest assist in a lightweight package, particu
 
 ## Bosch Performance Line SX — the ecosystem play
 
-[![Bosch SX motor](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Bosch Performance Line SX ebike)
+[![Bosch SX motor](/assets/images/motors/bosch-sx.jpg){: .align-right}]({{ site.constants.wsib }}Bosch Performance Line SX ebike)
 
 **Specs at a glance:** 55 Nm torque · ~600 W peak · 2.0 kg · 400–800 Wh batteries · Bosch Flow app
 
@@ -133,7 +133,7 @@ Best for: riders who want Bosch's proven ecosystem, battery flexibility and deal
 
 ## Mahle X35+ — the stealth specialist
 
-[![Mahle X35+](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Mahle X35 ebike)
+[![Mahle X35+](/assets/images/motors/mahle-x35.jpg){: .align-right}]({{ site.constants.wsib }}Mahle X35 ebike)
 
 **Specs at a glance:** 40 Nm torque · ~250 W peak · 1.6 kg · 250–350 Wh internal battery · rear hub motor
 

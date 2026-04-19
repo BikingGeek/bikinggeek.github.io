@@ -16,7 +16,7 @@ tags:
   ]
 description: "Full‑power e‑bike motor comparison: Shimano EP801, Bosch CX, DJI Avinox, Brose S Mag, Yamaha PW‑X3 and more — specs, sentiment and verdict."
 excerpt: "Which full‑power e‑bike motor should you choose? We compare Shimano EP801, Bosch Performance CX, DJI Avinox, Brose Drive S Mag, Yamaha PW‑X3 and Panasonic GX Ultimate on torque, weight, reliability, real‑world battery life and rider sentiment."
-last_modified_at: "2026-04-18T09:00:00+01:00"
+last_modified_at: "2026-04-19T10:00:00+01:00"
 hero_image: "Close‑up of a mid‑drive e‑bike motor mounted on a full‑suspension mountain bike frame, detail shot showing motor casing, cranks and chainring, workshop lighting, shallow depth of field, editorial style, 16:9"
 locale: en
 ---
@@ -47,7 +47,7 @@ The motor is the heart of every e‑mountain bike, yet most buyers focus on the 
 
 ## DJI Avinox — the new power king
 
-[![DJI Avinox motor](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}DJI Avinox ebike)
+[![DJI Avinox motor](/assets/images/motors/dji-avinox.jpg){: .align-right}]({{ site.constants.wsib }}DJI Avinox ebike)
 
 **Specs at a glance:** 105 Nm torque · ~850 W peak · 2.52 kg · 800 Wh integrated battery · color touchscreen display
 
@@ -71,7 +71,7 @@ Best for: early adopters who want maximum power in the lightest package and don'
 
 ## Shimano EP801 — the reliable all‑rounder
 
-[![Shimano EP801](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Shimano EP801 ebike)
+[![Shimano EP801](/assets/images/motors/shimano-ep801.png){: .align-right}]({{ site.constants.wsib }}Shimano EP801 ebike)
 
 **Specs at a glance:** 85 Nm torque · ~600 W peak · 2.6 kg · 504–756 Wh batteries · E‑Tube Project app
 
@@ -95,7 +95,7 @@ Best for: the majority of trail and enduro riders who value proven reliability, 
 
 ## Bosch Performance Line CX (Smart System) — the polished ecosystem
 
-[![Bosch CX motor](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Bosch Performance CX ebike)
+[![Bosch CX motor](/assets/images/motors/bosch-performance-cx.png){: .align-right}]({{ site.constants.wsib }}Bosch Performance CX ebike)
 
 **Specs at a glance:** 85 Nm torque · ~600 W peak · 2.9 kg · 400–800 Wh batteries · Bosch Flow app · Kiox/Purion displays
 
@@ -119,7 +119,7 @@ Best for: riders who value a complete digital ecosystem, battery flexibility and
 
 ## Brose Drive S Mag — the silent performer
 
-[![Brose Drive S Mag](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Brose Drive S Mag ebike)
+[![Brose Drive S Mag](/assets/images/motors/brose-drive-s-mag.webp){: .align-right}]({{ site.constants.wsib }}Brose Drive S Mag ebike)
 
 **Specs at a glance:** 90 Nm torque · ~670 W peak · 2.9 kg · 630–750 Wh batteries (brand‑dependent)
 
@@ -143,7 +143,7 @@ Best for: riders who prioritize silence and smoothness above all else, especiall
 
 ## Yamaha PW‑X3 — the quiet workhorse
 
-[![Yamaha PW-X3](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Yamaha PW-X3 ebike)
+[![Yamaha PW-X3](/assets/images/motors/yamaha-pw-x3.png){: .align-right}]({{ site.constants.wsib }}Yamaha PW-X3 ebike)
 
 **Specs at a glance:** 85 Nm torque · ~600 W peak · 2.75 kg · 500–750 Wh batteries · Yamaha Interface X
 
@@ -188,7 +188,7 @@ Best for: budget‑conscious riders who want high torque without paying for a pr
 
 ## Shimano EP6 — the budget champion
 
-[![Shimano EP6](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Shimano EP6 ebike)
+[![Shimano EP6](/assets/images/motors/shimano-ep6.jpg){: .align-right}]({{ site.constants.wsib }}Shimano EP6 ebike)
 
 **Specs at a glance:** 60 Nm torque · ~500 W peak · 2.6 kg · 504–630 Wh batteries · E‑Tube Project app
 
