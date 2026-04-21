@@ -262,7 +262,7 @@ No matter which motor you choose, make sure you have the right [protective gear]
 ## Related Posts
 
 - [ebikes.geeknite.com — Find the Best Full‑Suspension e‑Bike for Your Budget and Region]({%- post_url 2026-04-03-introducing-ebikes-geeknite -%})
-- [Best Light e‑Bike Motors Compared: TQ HPR50 vs Fazua vs Bosch SX vs Mahle]({%- post_url 2026-04-18-best-light-ebike-motors-comparison -%})
+- [Best Light e‑Bike Motors Compared: TQ HPR50 vs Fazua vs Bosch SX vs Mahle]({%- post_url 2026-04-10-best-light-ebike-motors-comparison -%})
 - [Garmin Edge 1040 Review: The Best GPS for Serious Cyclists]({%- post_url 2023-09-11-garmin-edge-1040-review -%})
 - [XC vs Trail Geometry Differences Explained]({%- post_url 2023-06-12-mtb-xc-vs-trail-geometry-differences -%})
 - [Home Gym Workouts for MTB Winter Training]({%- post_url 2026-02-10-home-gym-workouts-mtb-winter-training -%})
