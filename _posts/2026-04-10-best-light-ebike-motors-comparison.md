@@ -16,7 +16,7 @@ tags:
   ]
 description: "Light e‑bike motor comparison: TQ HPR50, Fazua Ride 60, Bosch SX, Mahle X35 and Specialized SL 1.2 — specs, ride feel and verdict."
 excerpt: "Which light e‑bike motor delivers the most natural ride? We compare TQ HPR50, Fazua Ride 60, Bosch SX, Mahle X35+ and Specialized SL 1.2 on weight, torque, battery life, smoothness and real‑world rider sentiment."
-last_modified_at: "2026-04-19T10:00:00+01:00"
+last_modified_at: "2026-05-10T10:00:00+01:00"
 hero_image: "Lightweight e‑mountain bike on a gravel trail, rider pedaling naturally, slim frame with integrated motor barely visible, golden hour lighting, dynamic action shot, editorial cycling photography, 16:9"
 locale: en
 ---
@@ -25,7 +25,7 @@ locale: en
 
 Light e‑bikes blur the line between assisted and analog riding. The motor provides a subtle push on climbs without adding the bulk, weight or artificial feel of a full‑power system. If you want an e‑bike that still rides like a real mountain bike — one you can pedal comfortably with the motor off — the choice of lightweight motor is critical.
 
-**Quick answer:** for trail riding with the most natural feel and strongest assist, the [Fazua Ride 60]({{ site.constants.wsib }}Fazua Ride 60 ebike) leads on torque‑to‑weight ratio. For the lightest system overall and premium integration, the [TQ HPR50]({{ site.constants.wsib }}TQ HPR50 ebike) is unmatched. For road, gravel and light trail riders who want near‑invisible assist, the [Mahle X35+]({{ site.constants.wsib }}Mahle X35 ebike) is the stealthiest option. Budget buyers should look at bikes with the [Bosch SX]({{ site.constants.wsib }}Bosch Performance Line SX ebike), which brings Bosch's ecosystem to the lightweight segment.
+**Quick answer:** for trail riding with the most natural feel, the [TQ HPR50]({{ site.constants.wsib }}TQ HPR50 ebike) is unmatched in lightness and ride quality. For road, gravel and light trail riders who want near‑invisible assist, the [Mahle X35+]({{ site.constants.wsib }}Mahle X35 ebike) is the stealthiest option. Budget buyers should look at bikes with the [Bosch SX]({{ site.constants.wsib }}Bosch Performance Line SX ebike), which brings Bosch's ecosystem and battery flexibility to the lightweight segment. **Note:** we previously recommended the Fazua Ride 60 as the torque leader, but following [Porsche's decision to stop investing in Fazua]({%- post_url 2026-05-10-fazua-ride-60-long-term-review -%}) and the cancelled range extender, we can no longer recommend it at full price — only as a bargain buy.
 
 ---
 
@@ -43,18 +43,18 @@ For a comparison of full‑power motors, read our [full‑power e‑bike motor c
 
 ## Quick comparison table
 
-| Spec                      | TQ HPR50          | Fazua Ride 60     | Bosch SX          | Mahle X35+        | Specialized SL 1.2          | Mahle X20         |
-| ------------------------- | ----------------- | ----------------- | ----------------- | ----------------- | --------------------------- | ----------------- |
-| **Type**                  | Mid‑drive         | Mid‑drive         | Mid‑drive         | Rear hub          | Mid‑drive (custom)          | Rear hub          |
-| **Max torque**            | 50 Nm             | 60 Nm             | 55 Nm             | 40 Nm             | 35 Nm                       | 23 Nm             |
-| **Motor weight**          | ~1.85 kg          | ~1.96 kg          | ~2.0 kg           | ~1.6 kg           | ~1.95 kg                    | ~1.5 kg           |
-| **Battery**               | 360 Wh (internal) | 430 Wh (internal) | 400–800 Wh        | 250–350 Wh        | 320 Wh (internal)           | 250 Wh            |
-| **Range extender**        | Optional 160 Wh   | Optional 210 Wh   | PowerMore 250 Wh  | Optional external | Optional 160 Wh             | Optional external |
-| **Noise level**           | Very quiet        | Quiet             | Quiet             | Near silent       | Very quiet                  | Near silent       |
-| **Ride feel**             | Very natural      | Natural           | Slightly assisted | Stealthy, subtle  | Very natural                | Barely noticeable |
-| **Customization**         | TQ App            | Fazua App         | Bosch Flow        | OEM App           | Specialized Mission Control | OEM App           |
-| **Reliability sentiment** | Excellent         | Good (improved)   | Good              | Very good         | Good                        | Very good         |
-| **Estimated bike price**  | €6 000–€14 000    | €4 000–€10 000    | €3 500–€8 000     | €3 500–€8 000     | €5 000–€10 000              | €3 000–€6 000     |
+| Spec                      | TQ HPR50          | Fazua Ride 60       | Bosch SX          | Mahle X35+        | Specialized SL 1.2          | Mahle X20         |
+| ------------------------- | ----------------- | ------------------- | ----------------- | ----------------- | --------------------------- | ----------------- |
+| **Type**                  | Mid‑drive         | Mid‑drive           | Mid‑drive         | Rear hub          | Mid‑drive (custom)          | Rear hub          |
+| **Max torque**            | 50 Nm             | 60 Nm               | 55 Nm             | 40 Nm             | 35 Nm                       | 23 Nm             |
+| **Motor weight**          | ~1.85 kg          | ~1.96 kg            | ~2.0 kg           | ~1.6 kg           | ~1.95 kg                    | ~1.5 kg           |
+| **Battery**               | 360 Wh (internal) | 430 Wh (internal)   | 400–800 Wh        | 250–350 Wh        | 320 Wh (internal)           | 250 Wh            |
+| **Range extender**        | Optional 160 Wh   | ~~None~~ ⚠️         | PowerMore 250 Wh  | Optional external | Optional 160 Wh             | Optional external |
+| **Noise level**           | Very quiet        | Quiet               | Quiet             | Near silent       | Very quiet                  | Near silent       |
+| **Ride feel**             | Very natural      | Natural             | Slightly assisted | Stealthy, subtle  | Very natural                | Barely noticeable |
+| **Customization**         | TQ App            | Fazua App           | Bosch Flow        | OEM App           | Specialized Mission Control | OEM App           |
+| **Reliability sentiment** | Excellent         | ⚠️ Uncertain future | Good              | Very good         | Good                        | Very good         |
+| **Estimated bike price**  | €6 000–€14 000    | €4 000–€10 000      | €3 500–€8 000     | €3 500–€8 000     | €5 000–€10 000              | €3 000–€6 000     |
 
 ---
 
@@ -82,27 +82,30 @@ Best for: experienced riders who want the lightest, most natural‑feeling e‑b
 
 ---
 
-## Fazua Ride 60 — the torque leader
+## Fazua Ride 60 — the torque leader ⚠️ (buyer beware)
+
+> **May 2026 update:** Porsche has announced it will no longer invest in Fazua, and the promised range extender for the Ride 60 was cancelled. While the motor hardware remains excellent, the platform's long‑term future is uncertain. We can no longer recommend buying a Fazua‑powered bike at full price. Read our [full analysis of the Porsche–Fazua situation]({%- post_url 2026-05-10-fazua-ride-60-long-term-review -%}).
 
 [![Fazua Ride 60](/assets/images/motors/fazua-ride-60.jpg){: .align-right}]({{ site.constants.wsib }}Fazua Ride 60 ebike)
 
-**Specs at a glance:** 60 Nm torque · ~450 W peak · 1.96 kg · 430 Wh internal battery · optional 210 Wh range extender
+**Specs at a glance:** 60 Nm torque · ~450 W peak · 1.96 kg · 430 Wh internal battery · ~~range extender cancelled~~
 
-The [Fazua Ride 60]({{ site.constants.wsib }}Fazua Ride 60 ebike) is the second generation of Fazua's lightweight motor system (now owned by Porsche eBike Performance). It powers bikes from Trek (some models), Bianchi, Focus, Cairn, Forestal and several boutique brands.
+The [Fazua Ride 60]({{ site.constants.wsib }}Fazua Ride 60 ebike) is the second generation of Fazua's lightweight motor system, originally developed under Porsche eBike Performance ownership. It powers bikes from Trek (some models), Bianchi, Focus, Cairn, Forestal and several boutique brands. However, Porsche has since announced it will no longer invest in Fazua, casting doubt on the platform's long‑term viability.
 
 ### What riders say online
 
 - **Torque:** at 60 Nm, it delivers the highest torque of any lightweight motor — a meaningful advantage on steep, technical climbs where every newton meter counts. Riders transitioning from full‑power e‑bikes find the Ride 60 the least compromised in assist strength.
-- **Battery capacity:** the 430 Wh internal battery is the largest in the lightweight segment, and the optional 210 Wh range extender brings total capacity to 640 Wh — approaching full‑power e‑bike territory. Real‑world range is 40–65 km in mixed mode.
+- **Battery capacity:** the 430 Wh internal battery is the largest in the lightweight segment. Real‑world range is 40–65 km in mixed mode. However, the promised 210 Wh range extender was cancelled, meaning 430 Wh is all you get — a significant limitation for long mountain rides compared to the Bosch SX's battery flexibility.
 - **Ride feel:** natural but not quite as ethereal as the TQ HPR50. The assist engagement is smooth but some riders detect a slight lag at very low cadences. At normal pedaling speeds, it feels excellent.
 - **Weight:** at 1.96 kg, it is competitive but not the lightest. The 110 g difference vs the TQ is negligible in practice.
 - **Noise:** quiet overall, with a faint high‑pitched whine under heavy load that some riders notice. Not intrusive but present in direct comparison with the TQ.
-- **Reliability:** the original Fazua Evation system had mixed reliability reviews. The Ride 60 is a ground‑up redesign and early reliability reports are positive. The Porsche ownership brings engineering resources and long‑term commitment to the platform.
-- **Ecosystem:** the Fazua app allows assist level customization and firmware updates. Functional but less polished than TQ or Bosch. Display options depend on the bike brand.
+- **Reliability:** the original Fazua Evation system had mixed reliability reviews. The Ride 60 is a ground‑up redesign and motor hardware reliability reports are positive. However, the long‑term concern is not the motor itself but the company behind it — with Porsche exiting, spare parts availability, firmware updates and app maintenance are all uncertain.
+- **Ecosystem:** the Fazua app allows assist level customization and firmware updates. Functional but less polished than TQ or Bosch. With Porsche's exit, the future of app maintenance and OTA updates is unclear.
+- **⚠️ Platform risk:** Porsche's decision to stop investing in Fazua, combined with the cancelled range extender, raises serious questions about the platform's future. Spare parts, firmware updates and OEM adoption may all decline over time. Read our [detailed analysis]({%- post_url 2026-05-10-fazua-ride-60-long-term-review -%}).
 
 ### Verdict
 
-Best for: riders who want the strongest assist in a lightweight package, particularly on steep terrain. The 60 Nm torque and 430 Wh battery make this the light motor closest to a full‑power experience. If you need to climb serious mountains on a light e‑bike, the Fazua Ride 60 is the motor to choose.
+Best for: **bargain hunters only.** The Fazua Ride 60 hardware is excellent — 60 Nm torque and 430 Wh battery remain best‑in‑class for the lightweight segment. But with Porsche pulling out and the range extender cancelled, we cannot recommend paying full price for a Fazua‑powered bike. If you find one at a steep discount (30–40% off), the motor will serve you well for years. At retail price, choose the TQ HPR50 or Bosch SX instead.
 
 ---
 
@@ -214,13 +217,13 @@ This is the fundamental decision in the light motor category:
 
 Light e‑bikes have smaller batteries by design. Plan accordingly:
 
-| Motor          | Battery    | Real‑world range (mixed) | With extender |
-| -------------- | ---------- | ------------------------ | ------------- |
-| TQ HPR50       | 360 Wh     | 30–55 km                 | 45–80 km      |
-| Fazua Ride 60  | 430 Wh     | 40–65 km                 | 55–90 km      |
-| Bosch SX       | 400–800 Wh | 35–100 km                | +25–50 km     |
-| Mahle X35+     | 250–350 Wh | 30–50 km                 | 40–65 km      |
-| Specialized SL | 320 Wh     | 25–45 km                 | 40–70 km      |
+| Motor          | Battery    | Real‑world range (mixed) | With extender   |
+| -------------- | ---------- | ------------------------ | --------------- |
+| TQ HPR50       | 360 Wh     | 30–55 km                 | 45–80 km        |
+| Fazua Ride 60  | 430 Wh     | 40–65 km                 | N/A (cancelled) |
+| Bosch SX       | 400–800 Wh | 35–100 km                | +25–50 km       |
+| Mahle X35+     | 250–350 Wh | 30–50 km                 | 40–65 km        |
+| Specialized SL | 320 Wh     | 25–45 km                 | 40–70 km        |
 
 The Bosch SX stands alone in offering full‑size battery options, which makes it the range champion in this category.
 
@@ -240,15 +243,15 @@ For a deep dive into full‑power alternatives, read our [full‑power e‑bike 
 
 ## Decision table — which light motor for which rider
 
-| Rider profile              | Best motor                                                               | Why                                          | Example bike                                                                                                                               |
-| -------------------------- | ------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Natural trail feel         | [TQ HPR50]({{ site.constants.wsib }}TQ HPR50 ebike)                      | Lightest, smoothest, most natural assist     | [Trek Fuel EXe]({{ site.constants.wsib }}Trek Fuel EXe), [Pivot Shuttle SL]({{ site.constants.wsib }}Pivot Shuttle SL)                     |
-| Max light‑motor torque     | [Fazua Ride 60]({{ site.constants.wsib }}Fazua Ride 60 ebike)            | 60 Nm, largest battery, strongest climber    | [Forestal Siryon]({{ site.constants.wsib }}Forestal Siryon), [Focus Jam² SL]({{ site.constants.wsib }}Focus Jam2 SL)                       |
-| Ecosystem and battery flex | [Bosch SX]({{ site.constants.wsib }}Bosch Performance Line SX ebike)     | Bosch Flow app, up to 800 Wh, range extender | [Scott Lumen eRIDE]({{ site.constants.wsib }}Scott Lumen eRIDE), [Cube Stereo Hybrid SLX]({{ site.constants.wsib }}Cube Stereo Hybrid SLX) |
-| Stealth road/gravel        | [Mahle X35+]({{ site.constants.wsib }}Mahle X35 ebike)                   | Invisible hub motor, lightest bikes          | [Orbea Gain]({{ site.constants.wsib }}Orbea Gain), [Look E‑765]({{ site.constants.wsib }}Look E-765)                                       |
-| Premium integration        | [Specialized SL 1.2]({{ site.constants.wsib }}Specialized Turbo Levo SL) | Mission Control app, beautiful frame design  | [Specialized Turbo Levo SL]({{ site.constants.wsib }}Specialized Turbo Levo SL)                                                            |
+| Rider profile              | Best motor                                                               | Why                                           | Example bike                                                                                                                                     |
+| -------------------------- | ------------------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Natural trail feel         | [TQ HPR50]({{ site.constants.wsib }}TQ HPR50 ebike)                      | Lightest, smoothest, most natural assist      | [Trek Fuel EXe]({{ site.constants.wsib }}Trek Fuel EXe), [Pivot Shuttle SL]({{ site.constants.wsib }}Pivot Shuttle SL)                           |
+| Max light‑motor torque     | [Fazua Ride 60]({{ site.constants.wsib }}Fazua Ride 60 ebike) ⚠️         | 60 Nm, largest battery — but uncertain future | [Forestal Siryon]({{ site.constants.wsib }}Forestal Siryon), [Focus Jam² SL]({{ site.constants.wsib }}Focus Jam2 SL) (buy only at deep discount) |
+| Ecosystem and battery flex | [Bosch SX]({{ site.constants.wsib }}Bosch Performance Line SX ebike)     | Bosch Flow app, up to 800 Wh, range extender  | [Scott Lumen eRIDE]({{ site.constants.wsib }}Scott Lumen eRIDE), [Cube Stereo Hybrid SLX]({{ site.constants.wsib }}Cube Stereo Hybrid SLX)       |
+| Stealth road/gravel        | [Mahle X35+]({{ site.constants.wsib }}Mahle X35 ebike)                   | Invisible hub motor, lightest bikes           | [Orbea Gain]({{ site.constants.wsib }}Orbea Gain), [Look E‑765]({{ site.constants.wsib }}Look E-765)                                             |
+| Premium integration        | [Specialized SL 1.2]({{ site.constants.wsib }}Specialized Turbo Levo SL) | Mission Control app, beautiful frame design   | [Specialized Turbo Levo SL]({{ site.constants.wsib }}Specialized Turbo Levo SL)                                                                  |
 
-**Bottom line:** buy the [TQ HPR50]({{ site.constants.wsib }}TQ HPR50 ebike) (via Trek Fuel EXe or Pivot Shuttle SL) if you want the most natural ride feel and accept the smaller battery. Buy the [Fazua Ride 60]({{ site.constants.wsib }}Fazua Ride 60 ebike) if you need the most torque and range from a light motor. Buy the [Bosch SX]({{ site.constants.wsib }}Bosch Performance Line SX ebike) if battery flexibility and the Bosch ecosystem matter most. Buy the [Mahle X35+]({{ site.constants.wsib }}Mahle X35 ebike) if you want a stealth e‑bike for road and gravel.
+**Bottom line:** buy the [TQ HPR50]({{ site.constants.wsib }}TQ HPR50 ebike) (via Trek Fuel EXe or Pivot Shuttle SL) if you want the most natural ride feel and accept the smaller battery. Buy the [Bosch SX]({{ site.constants.wsib }}Bosch Performance Line SX ebike) if battery flexibility and the Bosch ecosystem matter most. Buy the [Mahle X35+]({{ site.constants.wsib }}Mahle X35 ebike) if you want a stealth e‑bike for road and gravel. The [Fazua Ride 60]({{ site.constants.wsib }}Fazua Ride 60 ebike) has the best specs on paper but its future is uncertain after [Porsche's exit]({%- post_url 2026-05-10-fazua-ride-60-long-term-review -%}) — only consider it at a significant discount.
 
 Explore light e‑bikes and full‑power alternatives at [ebikes.geeknite.com](https://ebikes.geeknite.com/).
 
@@ -258,6 +261,7 @@ Light e‑bikes still need proper protection. A [good helmet]({%- post_url 2023-
 
 ## Related Posts
 
+- [Fazua Ride 60 Long‑Term Review: A Great Motor You Shouldn't Buy (Unless It's a Steal)]({%- post_url 2026-05-10-fazua-ride-60-long-term-review -%})
 - [Best Full‑Power e‑Bike Motors Compared: Shimano EP801 vs Bosch CX vs DJI Avinox]({%- post_url 2026-04-18-best-full-power-ebike-motors-comparison -%})
 - [ebikes.geeknite.com — Find the Best Full‑Suspension e‑Bike for Your Budget and Region]({%- post_url 2026-04-03-introducing-ebikes-geeknite -%})
 - [Garmin Edge 1040 Review: The Best GPS for Serious Cyclists]({%- post_url 2023-09-11-garmin-edge-1040-review -%})
